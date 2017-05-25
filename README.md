@@ -4,7 +4,7 @@ This repository contains experiments in Vietnamese Chunking problems. It is a pa
 
 ## Dataset Information
 
-7500 tagged sentences.
+7855 tagged sentences.
 
 ## Reports
 
