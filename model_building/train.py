@@ -6,9 +6,9 @@ from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_
 from sklearn.model_selection import train_test_split
 from underscore import _
 
-from crf_model.features.feature import word2features
-from crf_model.model_profiling import ModelProfiling
-from crf_model.transformer import Transformer
+from model_building.features.feature import word2features
+from model_building.model_profiling import ModelProfiling
+from model_building.transformer import Transformer
 
 
 def parse_sentence(sentence):

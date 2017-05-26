@@ -1,7 +1,7 @@
 from os.path import dirname
 from os.path import join
 
-from crf_model.features.feature import word2features
+from model_building.features.feature import word2features
 
 
 def sent2features(sent):
