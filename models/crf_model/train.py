@@ -42,7 +42,7 @@ def load_train_sents():
 
 
 if __name__ == '__main__':
-    sents = load_train_sents()[:20]
+    sents = load_train_sents()
     transformer = Transformer()
     template = [
         "T[0].lower", "T[-1].lower", "T[1].lower",
@@ -76,12 +76,13 @@ if __name__ == '__main__':
     profile.add("model", model_params)
     profile.add("template", template)
 
+    model_name = "chunking-crf-model"
     profile.start_train()
-    trainer.train("crf-model-1")
+    trainer.train(model_name)
     profile.end_train()
 
     model = pycrfsuite.Tagger()
-    model.open("crf-model-1")
+    model.open(model_name)
 
     y_test = _.flatten(y_test)
     y_pred = [model.tag(x) for x in X_test]
