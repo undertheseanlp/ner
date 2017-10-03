@@ -1,0 +1,16 @@
+click==6.7
+Cython==0.26.1
+fasttext==0.8.3
+future==0.16.0
+numpy==1.13.1
+pandas==0.20.3
+pyparsing==2.2.0
+python-crfsuite==0.9.5
+python-dateutil==2.6.1
+pytz==2017.2
+scikit-learn==0.19.0
+scipy==0.19.1
+six==1.11.0
+sklearn==0.0
+underthesea==1.1.4rc2
+underthesea-flow==0.1.0

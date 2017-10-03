@@ -1,0 +1,9 @@
+Sentences    : 2831
+Unique words : 7733
+Top words    : ,, ., “, ”, là, của, một, được, người, và, có, đã, không, ông, những, cho, :, ..., trong, -
+Tags         : 27
+List tags    : A, Ab, C, CH, Cc, E, FW, I, L, M, N, NNP, Nb, Nc, Ne, Ni, Ns, Nu, Ny, P, R, T, V, Vb, Vy, X, Z
+Tags         : 6
+List tags    : B-AP, B-NP, B-PP, B-VP, I-NP, O
+Tags         : 9
+List tags    : B-LOC, B-MISC, B-ORG, B-PER, I-LOC, I-MISC, I-ORG, I-PER, O

@@ -1,0 +1,2627 @@
+Chị	Ns	B-NP	O
+Minh	NNP	B-NP	B-PER
+ôm	V	B-VP	O
+đứa	Ns	B-NP	O
+con gái	N	B-NP	O
+mới	R	O	O
+hơn	A	B-AP	O
+hai	M	B-NP	O
+tháng	N	B-NP	O
+rưỡi	M	B-NP	O
+tuổi	N	B-NP	O
+nấc	V	B-VP	O
+lên	V	B-VP	O
+từng	R	O	O
+tiếng	N	B-NP	O
+thảm thiết	A	B-AP	O
+khi	N	B-NP	O
+kể	V	B-VP	O
+lại	V	B-VP	O
+cho	E	B-PP	O
+chúng tôi	P	B-NP	O
+nghe	V	B-VP	O
+về	E	B-PP	O
+cái	Nc	B-NP	O
+chết	V	B-VP	O
+của	E	B-PP	O
+chồng	N	B-NP	O
+.	CH	O	O
+
+Từ	E	B-PP	O
+đôi	M	B-NP	O
+mắt	N	B-NP	O
+thâm quầng	A	B-AP	O
+mệt mỏi	A	B-AP	O
+,	CH	O	O
+những	L	B-NP	O
+giọt	N	B-NP	O
+nước mắt	N	B-NP	O
+nối tiếp	V	B-VP	O
+chảy	V	B-VP	O
+tràn	V	B-VP	O
+trên	E	B-PP	O
+khuôn mặt	N	B-NP	O
+người	Ns	B-NP	O
+quả phụ	N	B-NP	O
+trẻ	A	B-AP	O
+,	CH	O	O
+từng	R	O	O
+giọt	N	B-NP	O
+lệ	N	B-NP	O
+mặn chát	A	B-AP	O
+nhỏ	V	B-VP	O
+xuống	V	B-VP	O
+người	N	B-NP	O
+đứa	Ns	B-NP	O
+bé	N	B-NP	O
+còn	R	O	O
+đỏ hỏn	A	B-AP	O
+chị	Ns	B-NP	O
+đang	R	O	O
+ôm	V	B-VP	O
+trước	E	B-PP	O
+ngực	N	B-NP	O
+...	CH	O	O
+
+Không	R	O	O
+chỉ	R	O	O
+nước mắt	N	B-NP	O
+,	CH	O	O
+mồ hôi	N	B-NP	O
+và	Cc	O	O
+máu	N	B-NP	O
+của	E	B-PP	O
+các	L	B-NP	O
+thuyền viên	N	B-NP	O
+đổ	V	B-VP	O
+trên	E	B-PP	O
+sàn	N	B-NP	O
+tàu	N	B-NP	O
+,	CH	O	O
+họ	P	B-NP	O
+đã	R	O	O
+phải	V	B-VP	O
+trả giá	V	B-VP	O
+cho	E	B-PP	O
+cuộc	N	B-NP	O
+“	CH	O	O
+thoát	V	B-VP	O
+nghèo	A	B-AP	O
+”	CH	O	O
+bằng	E	B-PP	O
+chính	T	O	O
+tính mạng	N	B-NP	O
+của	E	B-PP	O
+mình	P	B-NP	O
+.	CH	O	O
+
+Chỉ	R	O	O
+riêng	A	B-AP	O
+xã	N	B-NP	B-LOC
+Cương Gián	NNP	I-NP	I-LOC
+(	CH	O	O
+Hà Tĩnh	NNP	B-NP	B-LOC
+)	CH	O	O
+đã	R	O	O
+có	V	B-VP	O
+10	M	B-NP	O
+thuyền viên	N	B-NP	O
+tử nạn	V	B-VP	O
+giữa	E	B-PP	O
+trùng dương	N	B-NP	O
+bao la	A	B-AP	O
+.	CH	O	O
+
+Ở	E	B-PP	O
+Nghi Hải	NNP	B-NP	B-LOC
+(	CH	O	O
+Nghệ An	NNP	B-NP	B-LOC
+)	CH	O	O
+cũng	R	O	O
+có	V	B-VP	O
+những	L	B-NP	O
+thuyền viên	N	B-NP	O
+bỏ xác	V	B-VP	O
+nơi	N	B-NP	O
+biển	N	B-NP	O
+khơi	N	B-NP	O
+xa xôi	A	B-AP	O
+...	CH	O	O
+
+Những	L	B-NP	O
+đứa	Ns	B-NP	O
+con	N	B-NP	O
+không	R	O	O
+biết	V	B-VP	O
+mặt	N	B-NP	O
+cha	N	B-NP	O
+.	CH	O	O
+
+Chiều	N	B-NP	O
+cuối	N	B-NP	O
+thu	N	B-NP	O
+,	CH	O	O
+trời	N	B-NP	O
+vùng biển	N	B-NP	O
+Nghi Xuân	NNP	B-NP	B-LOC
+ảm đạm	A	B-AP	O
+.	CH	O	O
+
+Tiếng	N	B-NP	O
+người	Ns	B-NP	O
+vợ	N	B-NP	O
+trẻ	A	B-AP	O
+khóc	V	B-VP	O
+thương	V	B-VP	O
+chồng	N	B-NP	O
+theo	V	B-VP	O
+gió	N	B-NP	O
+biển	N	B-NP	O
+đi	V	B-VP	O
+sâu	A	B-AP	O
+hơn	R	O	O
+vào	E	B-PP	O
+phía	N	B-NP	O
+trong	A	B-AP	O
+xóm	N	B-NP	O
+.	CH	O	O
+
+Cả	P	B-NP	O
+làng	N	B-NP	O
+,	CH	O	O
+cả	P	B-NP	O
+xã	N	B-NP	O
+như	C	O	O
+đượm	V	B-VP	O
+màu	N	B-NP	O
+u ám	A	B-AP	O
+trước	E	B-PP	O
+cảnh	N	B-NP	O
+bi ai	A	B-AP	O
+,	CH	O	O
+tang tóc	A	B-AP	O
+của	E	B-PP	O
+gia đình	N	B-NP	O
+chị	Ns	B-NP	O
+Hoàng	NNP	B-NP	B-PER
+Thị	NNP	I-NP	I-PER
+Minh	NNP	I-NP	I-PER
+(	CH	O	O
+25	M	B-NP	O
+tuổi	N	B-NP	O
+,	CH	O	O
+thôn	N	B-NP	B-LOC
+Bắc Sơn	NNP	I-NP	I-LOC
+,	CH	O	O
+xã	N	B-NP	B-LOC
+Cương Gián	NNP	I-NP	I-LOC
+,	CH	O	O
+Hà Tĩnh	NNP	B-NP	B-LOC
+)	CH	O	O
+.	CH	O	O
+
+Người	Ns	B-NP	O
+vợ	N	B-NP	O
+trẻ	A	B-AP	O
+vẫn	R	O	O
+nấc	V	B-VP	O
+lên	V	B-VP	O
+từng	R	O	O
+tiếng	N	B-NP	O
+não nề	A	B-AP	O
+,	CH	O	O
+thảm thiết	A	B-AP	O
+.	CH	O	O
+
+Trên	E	B-PP	O
+tay	N	B-NP	O
+chị	Ns	B-NP	O
+,	CH	O	O
+bé	N	B-NP	O
+Thuỷ	NNP	B-NP	B-PER
+cũng	R	O	O
+khóc	V	B-VP	O
+ngằn ngặt	A	B-AP	O
+đòi	V	B-VP	O
+bú	V	B-VP	O
+nghe	V	B-VP	O
+não	V	B-VP	O
+ruột	N	B-NP	O
+,	CH	O	O
+nát	A	B-AP	O
+gan	N	B-NP	O
+.	CH	O	O
+
+“	CH	O	O
+Một	M	B-NP	O
+tuần	N	B-NP	O
+nay	P	B-NP	O
+,	CH	O	O
+khi	N	B-NP	O
+biết	V	B-VP	O
+tin	N	B-NP	O
+chồng	N	B-NP	O
+chết	V	B-VP	O
+biển	N	B-NP	O
+,	CH	O	O
+o	Ns	B-NP	O
+(	CH	O	O
+cô	Ns	B-NP	O
+)	CH	O	O
+Minh	NNP	B-NP	B-PER
+có	V	B-VP	O
+thiết	V	B-VP	O
+ăn uống	V	B-VP	O
+gì	P	B-NP	O
+đâu	T	O	O
+,	CH	O	O
+làm gì	X	O	O
+mà	C	O	O
+còn	V	B-VP	O
+sữa	N	B-NP	O
+nuôi	V	B-VP	O
+con bé	N	B-NP	O
+”	CH	O	O
+-	CH	O	O
+bà	Ns	B-NP	O
+hàng xóm	N	B-NP	O
+tên	N	B-NP	O
+Ngân	NNP	B-NP	B-PER
+sụt sùi	A	B-AP	O
+lau	V	B-VP	O
+ngang	A	B-AP	O
+dòng	Ne	B-NP	O
+lệ	N	B-NP	O
+.	CH	O	O
+
+Ngoài trời	N	B-NP	O
+mưa	V	B-VP	O
+lâm thâm	A	B-AP	O
+,	CH	O	O
+cảnh vật	N	B-NP	O
+quanh	N	B-NP	O
+nhà	N	B-NP	O
+vắng vẻ	A	B-AP	O
+,	CH	O	O
+hiu quạnh	A	B-AP	O
+càng	R	O	O
+làm	V	B-VP	O
+tăng	V	B-VP	O
+thêm	V	B-VP	O
+nỗi	N	B-NP	O
+buồn	A	B-AP	O
+người	Ns	B-NP	O
+thiếu phụ	N	B-NP	O
+.	CH	O	O
+
+Một	M	B-NP	O
+buổi	N	B-NP	O
+chiều	N	B-NP	O
+cuối	N	B-NP	O
+tháng	N	B-NP	O
+chín	M	B-NP	O
+,	CH	O	O
+chị	Ns	B-NP	O
+Minh	NNP	B-NP	B-PER
+như	C	O	O
+sụp đổ	V	B-VP	O
+khi	N	B-NP	O
+nhận	V	B-VP	O
+được	R	O	O
+hung	A	B-AP	O
+tin	N	B-NP	O
+chồng	N	B-NP	O
+mình	P	B-NP	O
+là	C	O	O
+Nguyễn	NNP	B-NP	B-PER
+Văn	NNP	I-NP	I-PER
+Thanh	NNP	I-NP	I-PER
+(	CH	O	O
+28	M	B-NP	O
+tuổi	N	B-NP	O
+)	CH	O	O
+đã	R	O	O
+chết	V	B-VP	O
+khi	N	B-NP	O
+đi	V	B-VP	O
+đánh cá	V	B-VP	O
+trên	E	B-PP	O
+bờ	Nc	B-NP	O
+biển	N	B-NP	O
+Nam Mỹ	NNP	B-NP	B-LOC
+(	CH	O	O
+anh	Ns	B-NP	O
+Thanh	NNP	B-NP	B-PER
+là	V	B-VP	O
+thuyền viên	N	B-NP	O
+VN	Ny	B-NP	B-LOC
+mới	A	B-AP	O
+nhất	A	B-AP	O
+tử nạn	V	B-VP	O
+)	CH	O	O
+.	CH	O	O
+
+Theo	V	B-VP	O
+thông báo	N	B-NP	O
+của	E	B-PP	O
+công ty	N	B-NP	O
+gửi	V	B-VP	O
+về	R	O	O
+,	CH	O	O
+Thanh	NNP	B-NP	B-PER
+mất	V	B-VP	O
+ngày	N	B-NP	O
+19-8-2005	M	B-NP	O
+,	CH	O	O
+khi	N	B-NP	O
+đang	R	O	O
+làm việc	V	B-VP	O
+trên	E	B-PP	O
+tàu	N	B-NP	O
+đánh cá	V	B-VP	O
+ở	E	B-PP	O
+vùng biển	N	B-NP	O
+gần	A	B-AP	O
+Argentina	NNP	B-NP	B-LOC
+nhưng	C	O	O
+mãi	R	O	O
+đến	E	B-PP	O
+hơn	A	B-AP	O
+tháng	N	B-NP	O
+sau	N	B-NP	O
+cả	P	B-NP	O
+nhà	N	B-NP	O
+mới	R	O	O
+biết	V	B-VP	O
+tin	N	B-NP	O
+.	CH	O	O
+
+Chị	Ns	B-NP	O
+Minh	NNP	B-NP	B-PER
+nghẹn ngào	V	B-VP	O
+:	CH	O	O
+“	CH	O	O
+Cả	T	O	O
+nhà	N	B-NP	O
+không	R	O	O
+muốn	V	B-VP	O
+anh	Ns	B-NP	O
+ấy	P	B-NP	O
+đi	V	B-VP	O
+chuyến	N	B-NP	O
+này	P	B-NP	O
+vì	E	B-PP	O
+em	N	B-NP	O
+bụng mang dạ chửa	X	O	O
+được	V	B-VP	O
+gần	A	B-AP	O
+ba	M	B-NP	O
+tháng	N	B-NP	O
+.	CH	O	O
+
+Nhưng	C	O	O
+anh	Ns	B-NP	O
+cứ	R	O	O
+nằng nặc	V	B-VP	O
+đòi	V	B-VP	O
+đi	V	B-VP	O
+kiếm	V	B-VP	O
+tiền	N	B-NP	O
+trả	V	B-VP	O
+món	N	B-NP	O
+nợ	N	B-NP	O
+của	E	B-PP	O
+mấy	L	B-NP	O
+chuyến	N	B-NP	O
+đi	V	B-VP	O
+trước	N	B-NP	O
+và	Cc	O	O
+để dành	V	B-VP	O
+tiền	N	B-NP	O
+cho	E	B-PP	O
+đứa	Ns	B-NP	O
+con	N	B-NP	O
+đầu lòng	A	B-AP	O
+sắp	R	O	O
+ra đời	V	B-VP	O
+.	CH	O	O
+
+Ai ngờ	X	O	O
+...	CH	O	O
+
+Anh	Ns	B-NP	O
+chết	V	B-VP	O
+mà	C	O	O
+chẳng	R	O	O
+biết	V	B-VP	O
+mặt	N	B-NP	O
+con	N	B-NP	O
+,	CH	O	O
+con	N	B-NP	O
+chẳng	R	O	O
+biết	V	B-VP	O
+mặt	N	B-NP	O
+bố	N	B-NP	O
+...	CH	O	O
+
+Trời	N	B-NP	O
+ơi	I	O	O
+là	C	O	O
+trời	N	B-NP	O
+!	CH	O	O
+”	CH	O	O
+.	CH	O	O
+
+Anh	Ns	B-NP	O
+Cường	NNP	B-NP	B-PER
+,	CH	O	O
+anh trai	N	B-NP	O
+của	E	B-PP	O
+Thanh	NNP	B-NP	B-PER
+,	CH	O	O
+cũng	R	O	O
+từng	R	O	O
+là	V	B-VP	O
+thuyền viên	N	B-NP	O
+nay	P	B-NP	O
+phải	V	B-VP	O
+ở	V	B-VP	O
+nhà	N	B-NP	O
+vì	E	B-PP	O
+bị	V	B-VP	O
+gãy	V	B-VP	O
+chân	N	B-NP	O
+trong	E	B-PP	O
+một	M	B-NP	O
+lần	N	B-NP	O
+ướp	V	B-VP	O
+cá	N	B-NP	O
+trong	E	B-PP	O
+hầm	N	B-NP	O
+bị	V	B-VP	O
+phên	N	B-NP	O
+đá	N	B-NP	O
+ướp	V	B-VP	O
+cá	N	B-NP	O
+xô	V	B-VP	O
+vào	E	B-PP	O
+,	CH	O	O
+không	R	O	O
+giấu	V	B-VP	O
+được	R	O	O
+đau đớn	A	B-AP	O
+kể	V	B-VP	O
+:	CH	O	O
+“	CH	O	O
+Hắn	P	B-NP	O
+(	CH	O	O
+anh	Ns	B-NP	O
+Thanh	NNP	B-NP	B-PER
+)	CH	O	O
+đi	V	B-VP	O
+biển	N	B-NP	O
+chuyến	N	B-NP	O
+này	P	B-NP	O
+là	V	B-VP	O
+chuyến	N	B-NP	O
+thứ	N	B-NP	O
+ba	M	B-NP	O
+.	CH	O	O
+
+Sau	N	B-NP	O
+chuyến	N	B-NP	O
+đầu tiên	A	B-AP	O
+đi	V	B-VP	O
+Hàn Quốc	NNP	B-NP	B-LOC
+13	M	B-NP	O
+tháng	N	B-NP	O
+về	R	O	O
+thì	C	O	O
+hắn	P	B-NP	O
+cưới	V	B-VP	O
+vợ	N	B-NP	O
+(	CH	O	O
+28-5-2002	M	B-NP	O
+)	CH	O	O
+,	CH	O	O
+cưới	V	B-VP	O
+được	R	O	O
+hơn	A	B-AP	O
+tháng	N	B-NP	O
+thì	C	O	O
+đầu	N	B-NP	O
+tháng	N	B-NP	O
+7-2002	M	B-NP	O
+phải	V	B-VP	O
+lên đường	V	B-VP	O
+đi	V	B-VP	O
+chuyến	N	B-NP	O
+thứ	N	B-NP	O
+hai	M	B-NP	O
+,	CH	O	O
+hi vọng	V	B-VP	O
+sẽ	R	O	O
+dành dụm	V	B-VP	O
+được	R	O	O
+chút ít	L	B-NP	O
+nhưng	C	O	O
+nào ngờ	X	O	O
+chuyến	N	B-NP	O
+này	P	B-NP	O
+chỉ	R	O	O
+kéo dài	V	B-VP	O
+bảy	M	B-NP	O
+tháng	N	B-NP	O
+thì	C	O	O
+chủ	N	B-NP	O
+tàu	N	B-NP	O
+bị	V	B-VP	O
+phá sản	V	B-VP	O
+...	CH	O	O
+
+Tội nghiệp	A	B-AP	O
+hắn	P	B-NP	O
+mang tiếng	V	B-VP	O
+đi	V	B-VP	O
+biển	N	B-NP	O
+hai	M	B-NP	O
+chuyến	N	B-NP	O
+nhưng	C	O	O
+gộp	V	B-VP	O
+cả	P	B-NP	O
+hai	M	B-NP	O
+chuyến	N	B-NP	O
+hắn	P	B-NP	O
+vẫn	R	O	O
+còn	R	O	O
+mang	V	B-VP	O
+nợ	N	B-NP	O
+gần	A	B-AP	O
+40	M	B-NP	O
+triệu	M	B-NP	O
+đồng	Nu	B-NP	O
+...	CH	O	O
+”	CH	O	O
+.	CH	O	O
+
+Giữa	E	B-PP	O
+tháng	N	B-NP	O
+1-2005	M	B-NP	O
+anh	Ns	B-NP	O
+Thanh	NNP	B-NP	B-PER
+lên	V	B-VP	O
+chiếc	Nc	B-NP	O
+tàu	N	B-NP	O
+Aurova	NNP	B-NP	O
+2	M	B-NP	O
+của	E	B-PP	O
+Hàn Quốc	NNP	B-NP	B-LOC
+sang	V	B-VP	O
+vùng biển	N	B-NP	O
+Nam Mỹ	NNP	B-NP	B-LOC
+đánh cá	V	B-VP	O
+.	CH	O	O
+
+Hơn	A	B-AP	O
+bảy	M	B-NP	O
+tháng	N	B-NP	O
+sau	N	B-NP	O
+anh	Ns	B-NP	O
+bị	V	B-VP	O
+tai nạn	V	B-VP	O
+.	CH	O	O
+
+Cường	NNP	B-NP	B-PER
+bảo	V	B-VP	O
+chẳng	R	O	O
+biết	V	B-VP	O
+em trai	N	B-NP	O
+chết	V	B-VP	O
+thế nào	P	B-NP	O
+,	CH	O	O
+chỉ	R	O	O
+nghe	V	B-VP	O
+người	N	B-NP	O
+ở	E	B-PP	O
+công ty	N	B-NP	O
+kể	V	B-VP	O
+lại	V	B-VP	O
+con	Nc	B-NP	O
+tàu	N	B-NP	O
+lọt	V	B-VP	O
+vào	E	B-PP	O
+cơn	N	B-NP	O
+bão	N	B-NP	O
+mà	C	O	O
+không	R	O	O
+kịp	V	B-VP	O
+tránh	V	B-VP	O
+.	CH	O	O
+
+Thanh	NNP	B-NP	B-PER
+bò	V	B-VP	O
+ra	V	B-VP	O
+boong	N	B-NP	O
+định	V	B-VP	O
+kéo	V	B-VP	O
+cái	Nc	B-NP	O
+tời	N	B-NP	O
+và	Cc	O	O
+đám	Ne	B-NP	O
+lưới	N	B-NP	O
+bị	V	B-VP	O
+sóng	N	B-NP	O
+và	Cc	O	O
+gió	N	B-NP	O
+đánh	V	B-VP	O
+bung	V	B-VP	O
+ra	V	B-VP	O
+,	CH	O	O
+không	R	O	O
+may	A	B-AP	O
+tàu	N	B-NP	O
+lắc lư	V	B-VP	O
+mạnh	A	B-AP	O
+đã	R	O	O
+xô	V	B-VP	O
+anh	Ns	B-NP	O
+ngã	V	B-VP	O
+vào	E	B-PP	O
+máy	N	B-NP	O
+tời	N	B-NP	O
+kéo	V	B-VP	O
+lưới	N	B-NP	O
+.	CH	O	O
+
+Cú	Nc	B-NP	O
+ngã	P	B-NP	O
+mạnh	A	B-AP	O
+này	P	B-NP	O
+đã	R	O	O
+không	R	O	O
+cho	V	B-VP	O
+anh	Ns	B-NP	O
+có	V	B-VP	O
+ngày	N	B-NP	O
+trở về	V	B-VP	O
+với	E	B-PP	O
+vợ	N	B-NP	O
+,	CH	O	O
+nhìn	V	B-VP	O
+mặt	N	B-NP	O
+đứa	Ns	B-NP	O
+con	N	B-NP	O
+đầu lòng	A	B-AP	O
+mà	C	O	O
+gần	A	B-AP	O
+ba	M	B-NP	O
+năm	N	B-NP	O
+trời	T	O	O
+anh	Ns	B-NP	O
+mong ngóng	V	B-VP	O
+.	CH	O	O
+
+Hơn	A	B-AP	O
+một	M	B-NP	O
+tháng	N	B-NP	O
+sau	N	B-NP	O
+,	CH	O	O
+Công ty	N	B-NP	B-ORG
+Inmasco	NNP	I-NP	I-ORG
+(	CH	O	O
+thuộc	V	B-VP	O
+Tổng công ty	N	B-NP	B-ORG
+Xây dựng	X	I-NP	I-ORG
+công trình	N	I-NP	I-ORG
+giao thông	N	I-NP	I-ORG
+1	M	I-NP	I-ORG
+,	CH	O	O
+đơn vị	N	B-NP	O
+ký	V	B-VP	O
+hợp đồng	N	B-NP	O
+đưa	V	B-VP	O
+anh	Ns	B-NP	O
+đi	V	B-VP	O
+biển	N	B-NP	O
+)	CH	O	O
+thông báo	V	B-VP	O
+hung	A	B-AP	O
+tin	N	B-NP	O
+này	P	B-NP	O
+cho	E	B-PP	O
+gia đình	N	B-NP	O
+.	CH	O	O
+
+Cả	P	B-NP	O
+nhà	N	B-NP	O
+đau đớn	A	B-AP	O
+khi	N	B-NP	O
+nhận	V	B-VP	O
+lại	V	B-VP	O
+nhúm	Ne	B-NP	O
+tóc	N	B-NP	O
+,	CH	O	O
+vài	L	B-NP	O
+cái	Nc	B-NP	O
+móng	N	B-NP	O
+tay	N	B-NP	O
+,	CH	O	O
+móng	N	B-NP	O
+chân	N	B-NP	O
+của	E	B-PP	O
+Thanh	NNP	B-NP	B-PER
+.	CH	O	O
+
+“	CH	O	O
+Vợ	N	B-NP	O
+hắn	P	B-NP	O
+ngã	V	B-VP	O
+gục	V	B-VP	O
+,	CH	O	O
+ngất	V	B-VP	O
+đi	V	B-VP	O
+ngất	V	B-VP	O
+lại	R	O	O
+không	R	O	O
+biết	V	B-VP	O
+bao	P	B-NP	O
+lần	N	B-NP	O
+.	CH	O	O
+
+Ngay	T	O	O
+cả	T	O	O
+đến	E	B-PP	O
+tôi	P	B-NP	O
+cũng	R	O	O
+không thể	R	O	O
+tin	V	B-VP	O
+rằng	C	O	O
+em	N	B-NP	O
+tôi	P	B-NP	O
+đã	R	O	O
+chết	V	B-VP	O
+...	CH	O	O
+”	CH	O	O
+-	CH	O	O
+anh	Ns	B-NP	O
+Cường	NNP	B-NP	B-PER
+sụt sùi	A	B-AP	O
+nói	V	B-VP	O
+.	CH	O	O
+
+Cách	V	B-VP	O
+đó	P	B-NP	O
+không	R	O	O
+xa	A	B-AP	O
+,	CH	O	O
+trong	E	B-PP	O
+thôn	N	B-NP	B-LOC
+Đông Tây	NNP	I-NP	I-LOC
+,	CH	O	O
+chị	Ns	B-NP	O
+Phạm	NNP	B-NP	B-PER
+Thị	NNP	I-NP	I-PER
+Hoa	NNP	I-NP	I-PER
+cám cảnh	V	B-VP	O
+nghĩ lại	V	B-VP	O
+tình cảnh	N	B-NP	O
+của	E	B-PP	O
+mình	P	B-NP	O
+sáu	M	B-NP	O
+năm	N	B-NP	O
+về	V	B-VP	O
+trước	N	B-NP	O
+:	CH	O	O
+“	CH	O	O
+Hồi	N	B-NP	O
+đó	P	B-NP	O
+tôi	P	B-NP	O
+cũng	R	O	O
+chẳng	R	O	O
+khác gì	X	O	O
+o	Nc	B-NP	O
+Minh	NNP	B-NP	B-PER
+hôm nay	N	B-NP	O
+.	CH	O	O
+
+Đau đớn	A	B-AP	O
+lắm	R	O	O
+,	CH	O	O
+chồng	N	B-NP	O
+tôi	P	B-NP	O
+mất	V	B-VP	O
+cũng	R	O	O
+vào	E	B-PP	O
+năm	N	B-NP	O
+29	M	B-NP	O
+tuổi	N	B-NP	O
+,	CH	O	O
+con	N	B-NP	O
+tôi	P	B-NP	O
+lúc	N	B-NP	O
+đó	P	B-NP	O
+vẫn	R	O	O
+còn	R	O	O
+ẵm ngửa	V	B-VP	O
+(	CH	O	O
+11	M	B-NP	O
+tháng	N	B-NP	O
+tuổi	N	B-NP	O
+)	CH	O	O
+”	CH	O	O
+.	CH	O	O
+
+Chị	Ns	B-NP	O
+Hoa	NNP	B-NP	B-PER
+ngậm ngùi	V	B-VP	O
+mở	V	B-VP	O
+túi	N	B-NP	O
+hình ảnh	N	B-NP	O
+khâm liệm	V	B-VP	O
+và	Cc	O	O
+hoả táng	V	B-VP	O
+của	E	B-PP	O
+chồng	N	B-NP	O
+lấy	V	B-VP	O
+ra	V	B-VP	O
+từng	R	O	O
+tấm	Nc	B-NP	O
+cho	E	B-PP	O
+chúng tôi	P	B-NP	O
+xem	V	B-VP	O
+.	CH	O	O
+
+Anh	Ns	B-NP	O
+Thanh	NNP	B-NP	B-PER
+chết	V	B-VP	O
+,	CH	O	O
+ước mong	V	B-VP	O
+trả	V	B-VP	O
+nợ	N	B-NP	O
+,	CH	O	O
+xây	V	B-VP	O
+nhà	N	B-NP	O
+mới	R	O	O
+có thể	A	B-AP	O
+được	R	O	O
+thực hiện	V	B-VP	O
+vì	E	B-PP	O
+vợ con	N	B-NP	O
+anh	Ns	B-NP	O
+đã	R	O	O
+nhận	V	B-VP	O
+được	R	O	O
+240	M	B-NP	O
+triệu	M	B-NP	O
+đồng	Nu	B-NP	O
+tiền	N	B-NP	O
+bảo hiểm	V	B-VP	O
+,	CH	O	O
+trợ cấp	V	B-VP	O
+của	E	B-PP	O
+chủ	N	B-NP	O
+tàu	N	B-NP	O
+.	CH	O	O
+
+Nhưng	C	O	O
+“	CH	O	O
+nhận	V	B-VP	O
+món	N	B-NP	O
+tiền	N	B-NP	O
+này	P	B-NP	O
+thật	R	O	O
+đau đớn	A	B-AP	O
+lòng	N	B-NP	O
+.	CH	O	O
+
+Vì	E	B-PP	O
+nghèo	A	B-AP	O
+,	CH	O	O
+cần	V	B-VP	O
+tiền	N	B-NP	O
+mà	C	O	O
+hắn	P	B-NP	O
+chết	V	B-VP	O
+.	CH	O	O
+
+Tiền	N	B-NP	O
+có thể	A	B-AP	O
+kiếm	V	B-VP	O
+được	R	O	O
+và	Cc	O	O
+tiêu	V	B-VP	O
+sẽ	R	O	O
+hết	V	B-VP	O
+,	CH	O	O
+chứ	C	O	O
+hắn	P	B-NP	O
+chết	V	B-VP	O
+là	V	B-VP	O
+hết	V	B-VP	O
+tất cả	P	B-NP	O
+,	CH	O	O
+mai	N	B-NP	O
+này	P	B-NP	O
+vợ con	N	B-NP	O
+hắn	P	B-NP	O
+bấu víu	V	B-VP	O
+vào	E	B-PP	O
+ai	P	B-NP	O
+”	CH	O	O
+-	CH	O	O
+anh	Ns	B-NP	O
+Cường	NNP	B-NP	B-PER
+nói	V	B-VP	O
+.	CH	O	O
+
+Chị	Ns	B-NP	O
+Hoa	NNP	B-NP	B-PER
+,	CH	O	O
+chị	Ns	B-NP	O
+Thắm	NNP	B-NP	B-PER
+còn	R	O	O
+may mắn	A	B-AP	O
+khi	N	B-NP	O
+nhận	V	B-VP	O
+được	R	O	O
+bình	N	B-NP	O
+tro	N	B-NP	O
+thiêu	V	B-VP	O
+xác	N	B-NP	O
+người thân	N	B-NP	O
+mình	P	B-NP	O
+.	CH	O	O
+
+Còn	C	O	O
+chị	Ns	B-NP	O
+Minh	NNP	B-NP	B-PER
+,	CH	O	O
+ngoài	E	B-PP	O
+nhúm	Ne	B-NP	O
+tóc	N	B-NP	O
+,	CH	O	O
+cái	Nc	B-NP	O
+móng	N	B-NP	O
+tay	N	B-NP	O
+,	CH	O	O
+chị	Ns	B-NP	O
+không	R	O	O
+hề	T	O	O
+nhận	V	B-VP	O
+được	R	O	O
+hình ảnh	N	B-NP	O
+cuối cùng	N	B-NP	O
+nào	T	O	O
+của	E	B-PP	O
+người	Ns	B-NP	O
+chồng	N	B-NP	O
+thân yêu	A	B-AP	O
+,	CH	O	O
+ngoài	E	B-PP	O
+mấy	L	B-NP	O
+tấm	Nc	B-NP	O
+hình	N	B-NP	O
+nấm	N	B-NP	O
+mồ	N	B-NP	O
+mới	A	B-AP	O
+của	E	B-PP	O
+chồng	N	B-NP	O
+nơi	N	B-NP	O
+đất khách quê người	X	O	O
+.	CH	O	O
+
+Đó	P	B-NP	O
+là	V	B-VP	O
+một	M	B-NP	O
+ngôi	Nc	B-NP	O
+mộ	N	B-NP	O
+mới	A	B-AP	O
+phủ	V	B-VP	O
+đầy	A	B-AP	O
+hoa	N	B-NP	O
+đỏ	A	B-AP	O
+,	CH	O	O
+hoa	N	B-NP	O
+vàng	A	B-AP	O
+hình	N	B-NP	O
+cờ	N	B-NP	O
+Tổ quốc	N	B-NP	O
+.	CH	O	O
+
+Mộ	N	B-NP	O
+anh	Ns	B-NP	O
+nằm	V	B-VP	O
+cùng	Cc	O	O
+với	E	B-PP	O
+những	L	B-NP	O
+người	N	B-NP	O
+xấu số	A	B-AP	O
+chết	V	B-VP	O
+khi	N	B-NP	O
+đi	V	B-VP	O
+biển	N	B-NP	O
+ở	E	B-PP	O
+khu	N	B-NP	O
+nghĩa trang	N	B-NP	B-LOC
+Stanley	NNP	I-NP	I-LOC
+,	CH	O	O
+trên	E	B-PP	O
+đảo	N	B-NP	B-LOC
+Falkland	NNP	I-NP	I-LOC
+(	CH	O	O
+vùng biển	N	B-NP	O
+Argentina	NNP	B-NP	B-LOC
+)	CH	O	O
+.	CH	O	O
+
+Và	Cc	O	O
+chỉ	R	O	O
+mình	P	B-NP	O
+anh	Ns	B-NP	O
+là	V	B-VP	O
+người	Ns	B-NP	B-MISC
+Việt	NNP	I-NP	I-MISC
+duy nhất	A	B-AP	O
+nằm	V	B-VP	O
+tại	E	B-PP	O
+khu	N	B-NP	O
+nghĩa địa	N	B-NP	O
+“	CH	O	O
+liên hiệp quốc	N	B-NP	O
+”	CH	O	O
+này	P	B-NP	O
+.	CH	O	O
+
+Anh	Ns	B-NP	O
+Cường	NNP	B-NP	B-PER
+không thể	R	O	O
+biết	V	B-VP	O
+đến	E	B-PP	O
+bao giờ	P	B-NP	O
+anh	Ns	B-NP	O
+cùng	Cc	O	O
+vợ con	N	B-NP	O
+Thanh	NNP	B-NP	B-PER
+mới	R	O	O
+được	V	B-VP	O
+đến	V	B-VP	O
+khu	N	B-NP	O
+nghĩa địa	N	B-NP	O
+này	P	B-NP	O
+để	E	B-PP	O
+một	M	B-NP	O
+lần	N	B-NP	O
+viếng thăm	V	B-VP	O
+và	Cc	O	O
+chuyển	V	B-VP	O
+Thanh	NNP	B-NP	B-PER
+về	V	B-VP	O
+với	E	B-PP	O
+quê cha đất mẹ	N	B-NP	O
+.	CH	O	O
+
+Chồng	N	B-NP	O
+chị	Ns	B-NP	O
+Hoa	NNP	B-NP	B-PER
+là	V	B-VP	O
+anh	Ns	B-NP	O
+Trần	NNP	B-NP	B-PER
+Đức	NNP	I-NP	I-PER
+Biên	NNP	I-NP	I-PER
+(	CH	O	O
+sinh	V	B-VP	O
+1970	M	B-NP	O
+)	CH	O	O
+cũng	R	O	O
+là	V	B-VP	O
+một	M	B-NP	O
+ngư dân	N	B-NP	O
+nghèo	A	B-AP	O
+,	CH	O	O
+vì	E	B-PP	O
+thương	V	B-VP	O
+vợ	N	B-NP	O
+,	CH	O	O
+thương	V	B-VP	O
+con	N	B-NP	O
+anh	Ns	B-NP	O
+chạy vạy	V	B-VP	O
+khắp nơi	N	B-NP	O
+vay	V	B-VP	O
+tiền	N	B-NP	O
+để	E	B-PP	O
+xuất ngoại	V	B-VP	O
+đi	V	B-VP	O
+biển	N	B-NP	O
+.	CH	O	O
+
+Năm	N	B-NP	O
+1995	M	B-NP	O
+,	CH	O	O
+Biên	NNP	B-NP	B-PER
+là	V	B-VP	O
+một	M	B-NP	O
+trong	E	B-PP	O
+những	L	B-NP	O
+người	N	B-NP	O
+đầu tiên	A	B-AP	O
+ở	E	B-PP	O
+Cương Gián	NNP	B-NP	B-LOC
+đi	V	B-VP	O
+biển	N	B-NP	O
+.	CH	O	O
+
+Đến	V	B-VP	O
+cuối	N	B-NP	O
+năm	N	B-NP	O
+1998	M	B-NP	O
+,	CH	O	O
+anh	Ns	B-NP	O
+lại	R	O	O
+đi	V	B-VP	O
+chuyến	N	B-NP	O
+thứ	N	B-NP	O
+hai	M	B-NP	O
+cùng	Cc	O	O
+một số	L	B-NP	O
+anh em	N	B-NP	O
+đồng hương	N	B-NP	O
+VN	Ny	B-NP	B-LOC
+làm việc	V	B-VP	O
+trên	E	B-PP	O
+các	L	B-NP	O
+tàu	N	B-NP	O
+cá	N	B-NP	O
+của	E	B-PP	O
+chủ	N	B-NP	O
+Hàn Quốc	NNP	B-NP	B-LOC
+lênh đênh	V	B-VP	O
+hàng	R	O	O
+chục	M	B-NP	O
+tháng	N	B-NP	O
+trời	T	O	O
+trên	E	B-PP	O
+các	L	B-NP	O
+vùng biển	N	B-NP	O
+Nam Mỹ	NNP	B-NP	B-LOC
+.	CH	O	O
+
+Tàu	N	B-NP	O
+của	E	B-PP	O
+anh	Ns	B-NP	O
+Biên	NNP	B-NP	B-PER
+gặp	V	B-VP	O
+nạn	N	B-NP	O
+cuối	N	B-NP	O
+tháng	N	B-NP	O
+4-1999	M	B-NP	O
+tại	E	B-PP	O
+vùng biển	N	B-NP	O
+Argentina	NNP	B-NP	B-LOC
+,	CH	O	O
+tàu	N	B-NP	O
+đắm	V	B-VP	O
+,	CH	O	O
+năm	M	B-NP	O
+người	N	B-NP	O
+chết	V	B-VP	O
+,	CH	O	O
+trong	E	B-PP	O
+đó	P	B-NP	O
+có	V	B-VP	O
+duy nhất	A	B-AP	O
+một	M	B-NP	O
+người	Ns	B-NP	B-MISC
+VN	NNP	I-NP	I-MISC
+là	V	B-VP	O
+anh	Ns	B-NP	O
+Biên	NNP	B-NP	B-PER
+.	CH	O	O
+
+“	CH	O	O
+Tôi	P	B-NP	O
+lúc	N	B-NP	O
+đó	P	B-NP	O
+cũng	R	O	O
+chỉ	R	O	O
+25	M	B-NP	O
+tuổi	N	B-NP	O
+,	CH	O	O
+như	C	O	O
+o	Nc	B-NP	O
+Minh	NNP	B-NP	B-PER
+bây giờ	P	B-NP	O
+,	CH	O	O
+hay	V	B-VP	O
+tin	N	B-NP	O
+chồng	N	B-NP	O
+chết	V	B-VP	O
+mà	C	O	O
+choáng váng	A	B-AP	O
+,	CH	O	O
+không	R	O	O
+thể nào	N	B-NP	O
+tin	V	B-VP	O
+là	C	O	O
+sự thật	N	B-NP	O
+”	CH	O	O
+-	CH	O	O
+giọng	N	B-NP	O
+chị	Ns	B-NP	O
+chùng	A	B-AP	O
+xuống	V	B-VP	O
+,	CH	O	O
+những	L	B-NP	O
+giọt	N	B-NP	O
+nước mắt	N	B-NP	O
+lại	R	O	O
+lăn	V	B-VP	O
+dài	A	B-AP	O
+trên	N	B-NP	O
+khuôn mặt	N	B-NP	O
+lam lũ	A	B-AP	O
+.	CH	O	O
+
+“	CH	O	O
+Khi	N	B-NP	O
+anh	Ns	B-NP	O
+Biên	NNP	B-NP	B-PER
+đi	V	B-VP	O
+,	CH	O	O
+cô	Ns	B-NP	O
+con gái	N	B-NP	O
+đầu	N	B-NP	O
+mới	R	O	O
+hơn	A	B-AP	O
+3	M	B-NP	O
+tuổi	N	B-NP	O
+,	CH	O	O
+thằng	Ns	B-NP	O
+út	A	B-AP	O
+được	R	O	O
+sáu	M	B-NP	O
+tháng	N	B-NP	O
+.	CH	O	O
+
+Năm	M	B-NP	O
+tháng	N	B-NP	O
+sau	N	B-NP	O
+anh	Ns	B-NP	O
+mất	V	B-VP	O
+,	CH	O	O
+bọn	Ne	B-NP	O
+chúng	P	B-NP	O
+vẫn	R	O	O
+còn	R	O	O
+quá	R	O	O
+nhỏ	A	B-AP	O
+,	CH	O	O
+chỉ	R	O	O
+biết	V	B-VP	O
+mặt	N	B-NP	O
+bố	N	B-NP	O
+qua	V	B-VP	O
+mấy	L	B-NP	O
+tấm	Nc	B-NP	O
+ảnh	N	B-NP	O
+này	P	B-NP	O
+”	CH	O	O
+.	CH	O	O
+
+Chị	Ns	B-NP	O
+vừa	R	O	O
+nói	V	B-VP	O
+vừa	R	O	O
+mân mê	V	B-VP	O
+ngắm nghía	V	B-VP	O
+mấy	L	B-NP	O
+tấm	Nc	B-NP	O
+hình	N	B-NP	O
+ố	A	B-AP	O
+nhoè	A	B-AP	O
+cuối cùng	A	B-AP	O
+của	E	B-PP	O
+anh	Ns	B-NP	O
+.	CH	O	O
+
+“	CH	O	O
+Mỗi	M	B-NP	O
+lần	N	B-NP	O
+nhìn	V	B-VP	O
+lại	V	B-VP	O
+những	L	B-NP	O
+ảnh	N	B-NP	O
+này	P	B-NP	O
+,	CH	O	O
+tôi	P	B-NP	O
+vẫn	R	O	O
+không thể	R	O	O
+tin	V	B-VP	O
+anh	Ns	B-NP	O
+đã	R	O	O
+chết	V	B-VP	O
+.	CH	O	O
+
+Bọn	Ne	B-NP	O
+trẻ	N	B-NP	O
+cũng	R	O	O
+nhìn	V	B-VP	O
+các	L	B-NP	O
+ảnh	N	B-NP	O
+này	P	B-NP	O
+quen	V	B-VP	O
+rồi	R	O	O
+”	CH	O	O
+.	CH	O	O
+
+Chỉ	R	O	O
+có	V	B-VP	O
+năm	M	B-NP	O
+tấm	Nc	B-NP	O
+ảnh	N	B-NP	O
+do	E	B-PP	O
+những	L	B-NP	O
+đồng nghiệp	N	B-NP	O
+,	CH	O	O
+chủ	N	B-NP	O
+tàu	N	B-NP	O
+chụp	V	B-VP	O
+:	CH	O	O
+cảnh	N	B-NP	O
+mọi	L	B-NP	O
+người	N	B-NP	O
+đang	R	O	O
+bó	V	B-VP	O
+cái	Nc	B-NP	O
+xác	N	B-NP	O
+cứng đờ	A	B-AP	O
+của	E	B-PP	O
+anh	Ns	B-NP	O
+,	CH	O	O
+cảnh	N	B-NP	O
+khâm liệm	V	B-VP	O
+,	CH	O	O
+cảnh	N	B-NP	O
+đưa	V	B-VP	O
+thi hài	N	B-NP	O
+anh	Ns	B-NP	O
+vào	E	B-PP	O
+lò	N	B-NP	O
+thiêu	V	B-VP	O
+...	CH	O	O
+
+“	CH	O	O
+Hoạ vô đơn chí	X	O	O
+”	CH	O	O
+,	CH	O	O
+em gái	N	B-NP	O
+chị	Ns	B-NP	O
+Hoa	NNP	B-NP	B-PER
+là	V	B-VP	O
+Phạm	NNP	B-NP	B-PER
+Thị	NNP	I-NP	I-PER
+Thắm	NNP	I-NP	I-PER
+ở	E	B-PP	O
+ngay	T	O	O
+thôn	N	B-NP	O
+bên	N	B-NP	O
+cạnh	N	B-NP	O
+cũng	R	O	O
+thành	V	B-VP	O
+quả phụ	N	B-NP	O
+chỉ	R	O	O
+sau	N	B-NP	O
+chị	Ns	B-NP	O
+mình	P	B-NP	O
+chưa	R	O	O
+đầy	A	B-AP	O
+hai	M	B-NP	O
+năm	N	B-NP	O
+(	CH	O	O
+2001	M	B-NP	O
+)	CH	O	O
+.	CH	O	O
+
+Chồng	N	B-NP	O
+Thắm	NNP	B-NP	B-PER
+là	V	B-VP	O
+Hoàng	NNP	B-NP	B-PER
+Văn	NNP	I-NP	I-PER
+Tuấn	NNP	I-NP	I-PER
+bị	V	B-VP	O
+chết	V	B-VP	O
+trên	E	B-PP	O
+tàu	N	B-NP	O
+Hàn Quốc	NNP	B-NP	B-LOC
+khi	N	B-NP	O
+đang	R	O	O
+ở	V	B-VP	O
+vùng biển	N	B-NP	O
+Nam Phi	NNP	B-NP	B-LOC
+,	CH	O	O
+trong	E	B-PP	O
+một	M	B-NP	O
+vụ	N	B-NP	O
+nổ	V	B-VP	O
+bình	N	B-NP	O
+gas	Nb	B-NP	O
+trên	E	B-PP	O
+tàu	N	B-NP	O
+.	CH	O	O
+
+Bỏ	V	B-VP	O
+lại	V	B-VP	O
+quê	N	B-NP	O
+nhà	N	B-NP	O
+người	Ns	B-NP	O
+mẹ	N	B-NP	O
+già	A	B-AP	O
+,	CH	O	O
+người	Ns	B-NP	O
+vợ	N	B-NP	O
+trẻ	A	B-AP	O
+và	Cc	O	O
+hai	M	B-NP	O
+đứa	Ns	B-NP	O
+con	N	B-NP	O
+nhỏ dại	A	B-AP	O
+,	CH	O	O
+một	M	B-NP	O
+đứa	Ns	B-NP	O
+7	M	B-NP	O
+tuổi	N	B-NP	O
+và	Cc	O	O
+một	M	B-NP	O
+đứa	Ns	B-NP	O
+chỉ	R	O	O
+mới	A	B-AP	O
+hơn	R	O	O
+3	M	B-NP	O
+tuổi	N	B-NP	O
+...	CH	O	O
+
+Trở về	V	B-VP	O
+từ	E	B-PP	O
+cõi	N	B-NP	O
+chết	V	B-VP	O
+.	CH	O	O
+
+Ngày	N	B-NP	O
+21-11	M	B-NP	O
+,	CH	O	O
+anh	Ns	B-NP	O
+Nguyễn	NNP	B-NP	B-PER
+Văn	NNP	I-NP	I-PER
+Mỹ	NNP	I-NP	I-PER
+(	CH	O	O
+43	M	B-NP	O
+tuổi	N	B-NP	O
+,	CH	O	O
+Nghi Hải	NNP	B-NP	B-LOC
+,	CH	O	O
+Nghệ An	NNP	B-NP	B-LOC
+)	CH	O	O
+vẫn	R	O	O
+thường	R	O	O
+mời	V	B-VP	O
+bạn bè	N	B-NP	O
+về	V	B-VP	O
+ngồi	V	B-VP	O
+uống	V	B-VP	O
+rượu	N	B-NP	O
+mừng	V	B-VP	O
+ngày	N	B-NP	O
+thoát	V	B-VP	O
+chết	V	B-VP	O
+.	CH	O	O
+
+Ngày	N	B-NP	O
+này	P	B-NP	O
+đã	R	O	O
+được	V	B-VP	O
+anh	Ns	B-NP	O
+và	Cc	O	O
+mọi	L	B-NP	O
+người	N	B-NP	O
+gọi	V	B-VP	O
+là	C	O	O
+ngày	N	B-NP	O
+giỗ	N	B-NP	O
+sống	V	B-VP	O
+anh	Ns	B-NP	O
+.	CH	O	O
+
+Chiều tối	N	B-NP	O
+của	E	B-PP	O
+cái	Nc	B-NP	O
+ngày	N	B-NP	O
+định mệnh	N	B-NP	O
+hai	M	B-NP	O
+năm	N	B-NP	O
+về	E	B-PP	O
+trước	N	B-NP	O
+(	CH	O	O
+năm	N	B-NP	O
+2003	M	B-NP	O
+)	CH	O	O
+,	CH	O	O
+con	Nc	B-NP	O
+tàu	N	B-NP	O
+của	E	B-PP	O
+anh	Ns	B-NP	O
+lọt	V	B-VP	O
+vào	E	B-PP	O
+luồng	Ne	B-NP	O
+cá thu	N	B-NP	O
+và	Cc	O	O
+cá vược	N	B-NP	O
+trên	E	B-PP	O
+vùng biển	N	B-NP	O
+phía	N	B-NP	O
+đông	N	B-NP	O
+Đài Loan	NNP	B-NP	B-LOC
+.	CH	O	O
+
+Cá	N	B-NP	O
+nhiều	A	B-AP	O
+vô kể	R	O	O
+,	CH	O	O
+thuyền trưởng	N	B-NP	O
+và	Cc	O	O
+mọi	L	B-NP	O
+thuyền viên	N	B-NP	O
+vui vẻ	A	B-AP	O
+khôn	R	O	O
+siết	V	B-VP	O
+.	CH	O	O
+
+Đến	E	B-PP	O
+nửa đêm	N	B-NP	O
+,	CH	O	O
+gió	N	B-NP	O
+lớn	A	B-AP	O
+nổi	V	B-VP	O
+lên	V	B-VP	O
+,	CH	O	O
+tàu	N	B-NP	O
+đã	R	O	O
+khẳm	A	B-AP	O
+cá	N	B-NP	O
+tròng trành	A	B-AP	O
+.	CH	O	O
+
+Khoảng	N	B-NP	O
+2	M	B-NP	O
+giờ	Nu	B-NP	O
+sáng	N	B-NP	O
+,	CH	O	O
+không	R	O	O
+chịu	V	B-VP	O
+nổi	R	O	O
+sức	N	B-NP	O
+gió	N	B-NP	O
+con	Nc	B-NP	O
+tàu	N	B-NP	O
+vỡ	V	B-VP	O
+toác	V	B-VP	O
+,	CH	O	O
+nước	N	B-NP	O
+tràn	V	B-VP	O
+vào	E	B-PP	O
+,	CH	O	O
+toàn bộ	L	B-NP	O
+con	Nc	B-NP	O
+tàu	N	B-NP	O
+cùng	Cc	O	O
+hơn	R	O	O
+30	M	B-NP	O
+thuyền viên	N	B-NP	O
+từ từ	A	B-AP	O
+chìm	V	B-VP	O
+xuống	V	B-VP	O
+biển	N	B-NP	O
+.	CH	O	O
+
+Trong	E	B-PP	O
+hoảng loạn	V	B-VP	O
+,	CH	O	O
+Mỹ	NNP	B-NP	B-PER
+cố	V	B-VP	O
+bám víu	V	B-VP	O
+vào	E	B-PP	O
+những	L	B-NP	O
+gì	P	B-NP	O
+có thể	A	B-AP	O
+bám	V	B-VP	O
+được	R	O	O
+.	CH	O	O
+
+Túm	V	B-VP	O
+được	R	O	O
+cái	Nc	B-NP	O
+áo phao	N	B-NP	O
+,	CH	O	O
+anh	Ns	B-NP	O
+bập bềnh	A	B-AP	O
+liên tục	A	B-AP	O
+trong	E	B-PP	O
+nước biển	N	B-NP	O
+lạnh	A	B-AP	O
+cóng	A	B-AP	O
+suốt	A	B-AP	O
+gần	A	B-AP	O
+10	M	B-NP	O
+tiếng	Nu	B-NP	O
+đồng hồ	N	B-NP	O
+.	CH	O	O
+
+Quần áo	N	B-NP	O
+rách	A	B-AP	O
+tả tơi	A	B-AP	O
+,	CH	O	O
+giấy tờ	N	B-NP	O
+,	CH	O	O
+tiền bạc	N	B-NP	O
+...	CH	O	O
+mất	V	B-VP	O
+hết	R	O	O
+,	CH	O	O
+đến	V	B-VP	O
+gần	A	B-AP	O
+trưa	N	B-NP	O
+thì	C	O	O
+anh	Ns	B-NP	O
+may mắn	A	B-AP	O
+được	V	B-VP	O
+tàu	N	B-NP	O
+cứu hộ	V	B-VP	O
+tìm	V	B-VP	O
+ra	V	B-VP	O
+và	Cc	O	O
+đưa	V	B-VP	O
+lên	V	B-VP	O
+tàu	N	B-NP	O
+.	CH	O	O
+
+Anh	Ns	B-NP	O
+nằm	V	B-VP	O
+Bệnh viện	N	B-NP	B-LOC
+Đài Bắc	NNP	I-NP	I-LOC
+ba	M	B-NP	O
+ngày	N	B-NP	O
+liền	R	O	O
+truyền	V	B-VP	O
+dịch	N	B-NP	O
+và	Cc	O	O
+sau	N	B-NP	O
+chuyến	N	B-NP	O
+đi	V	B-VP	O
+đó	P	B-NP	O
+anh	Ns	B-NP	O
+về	V	B-VP	O
+nhà	N	B-NP	O
+nghỉ	V	B-VP	O
+luôn	R	O	O
+bốn	M	B-NP	O
+tháng	N	B-NP	O
+để	E	B-PP	O
+dưỡng sức	V	B-VP	O
+.	CH	O	O
+
+“	CH	O	O
+Tôi	P	B-NP	O
+còn	R	O	O
+may mắn	A	B-AP	O
+hơn	A	B-AP	O
+mấy	L	B-NP	O
+thuyền viên	N	B-NP	O
+Trung Quốc	NNP	B-NP	B-LOC
+mất mạng	V	B-VP	O
+hôm	N	B-NP	O
+đó	P	B-NP	O
+”	CH	O	O
+.	CH	O	O
+
+Trở về	V	B-VP	O
+sau	N	B-NP	O
+chuyến	N	B-NP	O
+làm việc	V	B-VP	O
+liên tục	A	B-AP	O
+36	M	B-NP	O
+tháng	N	B-NP	O
+,	CH	O	O
+Võ	NNP	B-NP	B-PER
+Hồng	NNP	I-NP	I-PER
+Sơn	NNP	I-NP	I-PER
+,	CH	O	O
+31	M	B-NP	O
+tuổi	N	B-NP	O
+,	CH	O	O
+quê	N	B-NP	O
+ở	E	B-PP	O
+xã	N	B-NP	B-LOC
+Hàm Ninh	NNP	I-NP	I-LOC
+,	CH	O	O
+Quảng Ninh	NNP	B-NP	B-LOC
+(	CH	O	O
+Quảng Bình	NNP	B-NP	B-LOC
+)	CH	O	O
+chắc	V	B-VP	O
+sẽ	R	O	O
+chẳng	R	O	O
+bao giờ	P	B-NP	O
+quên	V	B-VP	O
+được	R	O	O
+khi	N	B-NP	O
+trong	E	B-PP	O
+một	M	B-NP	O
+đêm	N	B-NP	O
+tàu	N	B-NP	O
+của	E	B-PP	O
+anh	Ns	B-NP	O
+cứu	V	B-VP	O
+sống	V	B-VP	O
+được	R	O	O
+60	M	B-NP	O
+thuyền viên	N	B-NP	O
+,	CH	O	O
+trong	E	B-PP	O
+đó	P	B-NP	O
+có	V	B-VP	O
+sáu	M	B-NP	O
+đồng hương	N	B-NP	O
+người	Ns	B-NP	O
+Hà Tĩnh	NNP	B-NP	B-LOC
+,	CH	O	O
+Nghệ An	NNP	B-NP	B-LOC
+.	CH	O	O
+
+Đó	P	B-NP	O
+là	V	B-VP	O
+một	M	B-NP	O
+đêm	N	B-NP	O
+tháng	N	B-NP	O
+6-2005	M	B-NP	O
+,	CH	O	O
+con	Nc	B-NP	O
+tàu	N	B-NP	O
+Koar	NNP	B-NP	O
+101	M	B-NP	O
+nhận	V	B-VP	O
+được	R	O	O
+tín hiệu	N	B-NP	O
+cấp cứu	V	B-VP	O
+từ	E	B-PP	O
+một	M	B-NP	O
+chiếc	Nc	B-NP	O
+tàu	N	B-NP	O
+lạ	A	B-AP	O
+trên	E	B-PP	O
+vùng biển	N	B-NP	O
+Senegal	NNP	B-NP	B-LOC
+(	CH	O	O
+châu	N	B-NP	B-LOC
+Phi	NNP	I-NP	I-LOC
+)	CH	O	O
+,	CH	O	O
+mất	V	B-VP	O
+gần	A	B-AP	O
+cả	P	B-NP	O
+giờ	Nu	B-NP	O
+đồng hồ	N	B-NP	O
+mới	R	O	O
+đến	V	B-VP	O
+nơi	N	B-NP	O
+.	CH	O	O
+
+Chẳng	R	O	O
+còn	V	B-VP	O
+gì	P	B-NP	O
+ngoài	E	B-PP	O
+những	L	B-NP	O
+vật dụng	N	B-NP	O
+bập bềnh	A	B-AP	O
+,	CH	O	O
+phao	N	B-NP	O
+cứu sinh	V	B-VP	O
+...	CH	O	O
+và	Cc	O	O
+hàng	R	O	O
+mấy	L	B-NP	O
+chục	M	B-NP	O
+con người	N	B-NP	O
+vật vờ	V	B-VP	O
+dập dềnh	V	B-VP	O
+trên	E	B-PP	O
+sóng	N	B-NP	O
+biển	N	B-NP	O
+.	CH	O	O
+
+Suốt	A	B-AP	O
+mấy	L	B-NP	O
+tiếng	Nu	B-NP	O
+liên tục	A	B-AP	O
+mới	R	O	O
+vớt	V	B-VP	O
+hết	V	B-VP	O
+60	M	B-NP	O
+thuỷ thủ	N	B-NP	O
+của	E	B-PP	O
+chiếc	Nc	B-NP	O
+tàu	N	B-NP	O
+không	R	O	O
+may	A	B-AP	O
+,	CH	O	O
+tất cả	P	B-NP	O
+mọi	L	B-NP	O
+người	N	B-NP	O
+đều	R	O	O
+quần áo	N	B-NP	O
+tả tơi	A	B-AP	O
+,	CH	O	O
+người	N	B-NP	O
+tím tái	A	B-AP	O
+,	CH	O	O
+cứng đờ	A	B-AP	O
+...	CH	O	O
+
+Hơn	A	B-AP	O
+một	M	B-NP	O
+ngày	N	B-NP	O
+sau	N	B-NP	O
+tàu	N	B-NP	O
+cứu viện	V	B-VP	O
+mới	R	O	O
+tới	V	B-VP	O
+và	Cc	O	O
+phải	V	B-VP	O
+mất	V	B-VP	O
+thêm	V	B-VP	O
+sáu	M	B-NP	O
+ngày	N	B-NP	O
+nữa	R	O	O
+những	L	B-NP	O
+thuỷ thủ	N	B-NP	O
+không	R	O	O
+may	A	B-AP	O
+kia	P	B-NP	O
+mới	R	O	O
+được	V	B-VP	O
+đưa	V	B-VP	O
+vào	E	B-PP	O
+bờ	N	B-NP	O
+tĩnh dưỡng	V	B-VP	O
+.	CH	O	O
+
+“	CH	O	O
+Chậm	A	B-AP	O
+thêm	R	O	O
+một chút	L	B-NP	O
+chắc	V	B-VP	O
+họ	P	B-NP	O
+chẳng	R	O	O
+còn	V	B-VP	O
+sức	N	B-NP	O
+bám	V	B-VP	O
+vào	E	B-PP	O
+phao	N	B-NP	O
+,	CH	O	O
+sóng	N	B-NP	O
+và	Cc	O	O
+gió	N	B-NP	O
+hôm	N	B-NP	O
+đó	P	B-NP	O
+lớn	A	B-AP	O
+lắm	R	O	O
+,	CH	O	O
+tàu	N	B-NP	O
+chúng tôi	P	B-NP	O
+to	A	B-AP	O
+hơn	R	O	O
+tàu	N	B-NP	O
+họ	P	B-NP	O
+mà	C	O	O
+còn	C	O	O
+chao đảo	V	B-VP	O
+tròng trành	V	B-VP	O
+liên tục	A	B-AP	O
+”	CH	O	O
+-	CH	O	O
+Sơn	NNP	B-NP	B-PER
+nhớ	V	B-VP	O
+lại	V	B-VP	O
+.	CH	O	O
+
+Nếu	C	O	O
+Nam Ninh	NNP	B-NP	B-LOC
+(	CH	O	O
+tỉnh	N	B-NP	B-LOC
+Quảng Tây	NNP	I-NP	I-LOC
+)	CH	O	O
+đang	R	O	O
+trở thành	V	B-VP	O
+địa chỉ	N	B-NP	O
+mua sắm	V	B-VP	O
+giá	N	B-NP	O
+rẻ	A	B-AP	O
+cuốn hút	V	B-VP	O
+khách	N	B-NP	O
+du lịch	V	B-VP	O
+từ	E	B-PP	O
+khắp nơi	N	B-NP	O
+trên	E	B-PP	O
+thế giới	N	B-NP	O
+với	E	B-PP	O
+...	CH	O	O
+“	CH	O	O
+hàng hiệu	N	B-NP	O
+siêu giả	A	B-AP	O
+”	CH	O	O
+thì	C	O	O
+Quảng Châu	NNP	B-NP	B-LOC
+(	CH	O	O
+tỉnh	N	B-NP	B-LOC
+Quảng Đông	NNP	I-NP	I-LOC
+)	CH	O	O
+còn	R	O	O
+“	CH	O	O
+hoành tráng	A	B-AP	O
+”	CH	O	O
+hơn	A	B-AP	O
+vì	C	O	O
+được	V	B-VP	O
+xem	V	B-VP	O
+là	C	O	O
+chợ	N	B-NP	O
+đồ	N	B-NP	O
+nhái	V	B-VP	O
+sầm uất	A	B-AP	O
+nhất	A	B-AP	O
+Trung Quốc	NNP	B-NP	B-LOC
+.	CH	O	O
+
+“	CH	O	O
+Mình	P	B-NP	O
+đang	R	O	O
+tính	V	B-VP	O
+mở	V	B-VP	O
+một	M	B-NP	O
+cửa hiệu	N	B-NP	O
+bán	V	B-VP	O
+quà	N	B-NP	O
+lưu niệm	V	B-VP	O
+,	CH	O	O
+giày dép	N	B-NP	O
+,	CH	O	O
+túi xách	N	B-NP	O
+,	CH	O	O
+áo quần	N	B-NP	O
+như	C	O	O
+bà	Ns	B-NP	O
+chị	N	B-NP	O
+ở	E	B-PP	O
+Hà Nội	NNP	B-NP	B-LOC
+đang	R	O	O
+làm	V	B-VP	O
+.	CH	O	O
+
+Bà	Ns	B-NP	O
+ấy	P	B-NP	O
+toàn	R	O	O
+đánh	V	B-VP	O
+hàng	N	B-NP	O
+ở	E	B-PP	O
+Quảng Châu	NNP	B-NP	B-LOC
+nên	C	O	O
+bây giờ	P	B-NP	O
+mình	P	B-NP	O
+sang	V	B-VP	O
+đấy	P	B-NP	O
+xem	V	B-VP	O
+hàng	N	B-NP	O
+thế nào	P	B-NP	O
+”	CH	O	O
+,	CH	O	O
+lời	N	B-NP	O
+rủ rê	V	B-VP	O
+của	E	B-PP	O
+một	M	B-NP	O
+người	Ns	B-NP	O
+bạn	N	B-NP	O
+đã	R	O	O
+đưa	V	B-VP	O
+tôi	P	B-NP	O
+đến	V	B-VP	O
+chợ	N	B-NP	B-LOC
+Quảng Châu	NNP	I-NP	I-LOC
+.	CH	O	O
+
+Lò	N	B-NP	O
+sản xuất	V	B-VP	O
+quần áo	N	B-NP	O
+“	CH	O	O
+liên hiệp quốc	N	B-NP	O
+”	CH	O	O
+
+Chu	NNP	B-NP	B-PER
+Tiến	NNP	I-NP	I-PER
+Minh	NNP	I-NP	I-PER
+-	CH	O	O
+người	Ns	B-NP	B-MISC
+Trung Quốc	NNP	I-NP	I-MISC
+nói	V	B-VP	O
+tiếng	N	B-NP	B-MISC
+Việt	NNP	I-NP	I-MISC
+sõi	A	B-AP	O
+như	C	O	O
+...	CH	O	O
+người	Ns	B-NP	B-MISC
+Việt	NNP	I-NP	I-MISC
+-	CH	O	O
+được	V	B-VP	O
+một	M	B-NP	O
+người	Ns	B-NP	O
+bạn	N	B-NP	O
+giới thiệu	V	B-VP	O
+đưa	V	B-VP	O
+chúng tôi	P	B-NP	O
+dạo	V	B-VP	O
+chợ	N	B-NP	B-LOC
+Quảng Châu	NNP	I-NP	I-LOC
+.	CH	O	O
+
+Làm	V	B-VP	O
+công việc	N	B-NP	O
+đưa	V	B-VP	O
+người	N	B-NP	O
+từ	E	B-PP	O
+VN	NNP	B-NP	B-LOC
+sang	V	B-VP	O
+đi	V	B-VP	O
+mua	V	B-VP	O
+hàng	N	B-NP	O
+được	R	O	O
+bốn	M	B-NP	O
+năm	N	B-NP	O
+nay	P	B-NP	O
+,	CH	O	O
+khách	N	B-NP	O
+của	E	B-PP	O
+Minh	NNP	B-NP	B-PER
+chủ yếu	A	B-AP	O
+ở	E	B-PP	O
+Hà Nội	NNP	B-NP	B-LOC
+và	Cc	O	O
+TP.	Ny	B-NP	B-LOC
+HCM	NNP	I-NP	I-LOC
+.	CH	O	O
+
+Nơi	N	B-NP	O
+đầu tiên	A	B-AP	O
+Minh	NNP	B-NP	B-PER
+đưa	V	B-VP	O
+chúng tôi	P	B-NP	O
+đến	V	B-VP	O
+là	V	B-VP	O
+chợ	N	B-NP	O
+quần áo	N	B-NP	O
+Bạc Má	NNP	B-NP	B-LOC
+,	CH	O	O
+“	CH	O	O
+chợ	N	B-NP	O
+bán	V	B-VP	O
+quần áo	N	B-NP	O
+sầm uất	A	B-AP	O
+nhất	A	B-AP	O
+,	CH	O	O
+đông	A	B-AP	O
+khách	N	B-NP	O
+nhất	A	B-AP	O
+ở	E	B-PP	O
+khu vực	N	B-NP	O
+Đông Sơn	NNP	B-NP	B-LOC
+của	E	B-PP	O
+thành phố	N	B-NP	B-LOC
+Quảng Châu	NNP	I-NP	I-LOC
+”	CH	O	O
+.	CH	O	O
+
+Mới	R	O	O
+bước	V	B-VP	O
+vào	E	B-PP	O
+bên	N	B-NP	O
+trong	A	B-AP	O
+tôi	P	B-NP	O
+đã	R	O	O
+...	CH	O	O
+hết hồn	V	B-VP	O
+:	CH	O	O
+cửa hiệu	N	B-NP	O
+san sát	A	B-AP	O
+,	CH	O	O
+quần áo	N	B-NP	O
+treo	V	B-VP	O
+la liệt	A	B-AP	O
+.	CH	O	O
+
+Dương	NNP	B-NP	B-PER
+là	V	B-VP	O
+một	M	B-NP	O
+chủ	N	B-NP	O
+cửa hàng	N	B-NP	O
+lâu	A	B-AP	O
+năm	N	B-NP	O
+ở	E	B-PP	O
+Hà Nội	NNP	B-NP	B-LOC
+.	CH	O	O
+
+Dương	NNP	B-NP	B-PER
+cho	V	B-VP	O
+biết	V	B-VP	O
+:	CH	O	O
+các	L	B-NP	O
+chủ	N	B-NP	O
+bên	N	B-NP	O
+này	P	B-NP	O
+chỉ	R	O	O
+việc	N	B-NP	O
+ngồi	V	B-VP	O
+nhà	N	B-NP	O
+xem	V	B-VP	O
+catalogue	Nb	B-NP	O
+phía	N	B-NP	O
+chủ	N	B-NP	O
+bên	N	B-NP	O
+kia	P	B-NP	O
+(	CH	O	O
+Trung Quốc	NNP	B-NP	B-LOC
+)	CH	O	O
+gửi	V	B-VP	O
+sang	V	B-VP	O
+,	CH	O	O
+quyết định	V	B-VP	O
+mẫu mã	N	B-NP	O
+,	CH	O	O
+muốn	V	B-VP	O
+túi	N	B-NP	O
+xiên	A	B-AP	O
+thì	C	O	O
+xiên	A	B-AP	O
+,	CH	O	O
+túi	N	B-NP	O
+chéo	A	B-AP	O
+thì	C	O	O
+chéo	A	B-AP	O
+,	CH	O	O
+đính	V	B-VP	O
+mác	N	B-NP	O
+nào	P	B-NP	O
+thì	C	O	O
+đính	V	B-VP	O
+...	CH	O	O
+
+Thông thường	A	B-AP	O
+sau	N	B-NP	O
+sáu	M	B-NP	O
+ngày	N	B-NP	O
+thì	C	O	O
+có	V	B-VP	O
+hàng	N	B-NP	O
+.	CH	O	O
+
+Dương	NNP	B-NP	B-PER
+cho	V	B-VP	O
+hay	V	B-VP	O
+“	CH	O	O
+hàng	N	B-NP	O
+siêu giả	A	B-AP	O
+”	CH	O	O
+vẫn	R	O	O
+có thể	A	B-AP	O
+bị	V	B-VP	O
+“	CH	O	O
+đánh	V	B-VP	O
+”	CH	O	O
+vào	E	B-PP	O
+trong	A	B-AP	O
+các	L	B-NP	O
+đại lý	N	B-NP	O
+lớn	A	B-AP	O
+và	Cc	O	O
+trộn	V	B-VP	O
+lẫn	R	O	O
+với	E	B-PP	O
+hàng	N	B-NP	O
+thật	A	B-AP	O
+.	CH	O	O
+
+Các	L	B-NP	O
+đại lý	N	B-NP	O
+bán	V	B-VP	O
+quần áo	N	B-NP	O
+hay	Cc	O	O
+mỹ phẩm	N	B-NP	O
+đều	R	O	O
+bày	V	B-VP	O
+hàng	N	B-NP	O
+theo	V	B-VP	O
+kiểu	N	B-NP	O
+nguyên	N	B-NP	O
+cả	T	O	O
+một	M	B-NP	O
+ngăn	N	B-NP	O
+để	E	B-PP	O
+tạo	V	B-VP	O
+hiệu ứng	N	B-NP	O
+tâm lý	N	B-NP	O
+cho	E	B-PP	O
+người	N	B-NP	O
+mua	V	B-VP	O
+,	CH	O	O
+chỉ	R	O	O
+cần	V	B-VP	O
+nhân viên	N	B-NP	O
+bán	V	B-VP	O
+hàng	N	B-NP	O
+và	Cc	O	O
+quản lý	N	B-NP	O
+thông đồng	V	B-VP	O
+với	E	B-PP	O
+nhau	N	B-NP	O
+,	CH	O	O
+trong	E	B-PP	O
+chớp mắt	N	B-NP	O
+“	CH	O	O
+hàng	N	B-NP	O
+siêu giả	A	B-AP	O
+”	CH	O	O
+sẽ	R	O	O
+bay	V	B-VP	O
+vào	E	B-PP	O
+nằm	V	B-VP	O
+cạnh	N	B-NP	O
+hàng	N	B-NP	O
+thật	A	B-AP	O
+.	CH	O	O
+
+Đó	P	B-NP	O
+là	V	B-VP	O
+chưa	R	O	O
+kể	V	B-VP	O
+đến	E	B-PP	O
+chuyện	N	B-NP	O
+có	V	B-VP	O
+những	L	B-NP	O
+chủ	N	B-NP	O
+đại lý	N	B-NP	O
+chủ trương	V	B-VP	O
+trộn	V	B-VP	O
+hàng	N	B-NP	O
+nhái	V	B-VP	O
+vào	E	B-PP	O
+bán	V	B-VP	O
+để	E	B-PP	O
+giàu	A	B-AP	O
+nhanh	A	B-AP	O
+.	CH	O	O
+
+Hàng	N	B-NP	O
+nào	P	B-NP	O
+tử tế	A	B-AP	O
+thì	C	O	O
+độn	V	B-VP	O
+một vài	N	B-NP	O
+cái	Nc	B-NP	O
+,	CH	O	O
+hàng	N	B-NP	O
+nào	P	B-NP	O
+tham	V	B-VP	O
+thì	C	O	O
+nhắm mắt	V	B-VP	O
+cái	Ns	B-NP	O
+gì	P	B-NP	O
+cũng	R	O	O
+trộn	V	B-VP	O
+,	CH	O	O
+không	R	O	O
+biết đâu	R	O	O
+mà	C	O	O
+lường	V	B-VP	O
+!	CH	O	O
+
+Cầu thang	N	B-NP	O
+cuốn	V	B-VP	O
+đưa	V	B-VP	O
+lên	V	B-VP	O
+tầng	N	B-NP	O
+một	M	B-NP	O
+và	Cc	O	O
+quang cảnh	N	B-NP	O
+“	CH	O	O
+hoành tráng	A	B-AP	O
+”	CH	O	O
+hiện	V	B-VP	O
+ra	V	B-VP	O
+trước mắt	N	B-NP	O
+:	CH	O	O
+dọc	A	B-AP	O
+hành lang	N	B-NP	O
+đi	V	B-VP	O
+chung	A	B-AP	O
+,	CH	O	O
+các	L	B-NP	O
+cô	Ns	B-NP	O
+bán	V	B-VP	O
+hàng	N	B-NP	O
+đứng	V	B-VP	O
+tràn	V	B-VP	O
+ra	V	B-VP	O
+cả	P	B-NP	O
+lối	N	B-NP	O
+đi	V	B-VP	O
+,	CH	O	O
+âm thanh	N	B-NP	O
+của	E	B-PP	O
+tiếng	N	B-NP	O
+gọi	V	B-VP	O
+mời	V	B-VP	O
+hỗn độn	A	B-AP	O
+,	CH	O	O
+trên	E	B-PP	O
+người	N	B-NP	O
+các	L	B-NP	O
+cô	Ns	B-NP	O
+là	V	B-VP	O
+những	L	B-NP	O
+bộ đồ	N	B-NP	O
+đắt	A	B-AP	O
+nhất	A	B-AP	O
+của	E	B-PP	O
+cửa hiệu	N	B-NP	O
+mình	P	B-NP	O
+.	CH	O	O
+
+Ai	P	B-NP	O
+đi	V	B-VP	O
+qua	R	O	O
+cũng	R	O	O
+bị	V	B-VP	O
+lôi	V	B-VP	O
+tay	N	B-NP	O
+mời	V	B-VP	O
+nhìn	V	B-VP	O
+,	CH	O	O
+khách	N	B-NP	O
+có thể	A	B-AP	O
+nhìn	V	B-VP	O
+các	L	B-NP	O
+cô	Ns	B-NP	O
+thoải mái	A	B-AP	O
+,	CH	O	O
+thậm chí	R	O	O
+...	CH	O	O
+sờ	V	B-VP	O
+luôn	R	O	O
+cả	P	B-NP	O
+áo	N	B-NP	O
+,	CH	O	O
+váy	N	B-NP	O
+.	CH	O	O
+
+“	CH	O	O
+Mua	V	B-VP	O
+đi	V	B-VP	O
+,	CH	O	O
+veste	Nb	B-NP	O
+này	P	B-NP	O
+may	V	B-VP	O
+kiểu	N	B-NP	O
+mới	A	B-AP	O
+nhất	A	B-AP	O
+của	E	B-PP	O
+Valentino	NNP	B-NP	B-ORG
+đấy	P	B-NP	O
+”	CH	O	O
+-	CH	O	O
+Minh	NNP	B-NP	B-PER
+phiên dịch	V	B-VP	O
+theo	V	B-VP	O
+lời	N	B-NP	O
+của	E	B-PP	O
+cô	Ns	B-NP	O
+bán	V	B-VP	O
+hàng	N	B-NP	O
+đứng	V	B-VP	O
+làm	V	B-VP	O
+mẫu	N	B-NP	O
+.	CH	O	O
+
+Gian hàng	N	B-NP	O
+này	P	B-NP	O
+chuyên	A	B-AP	O
+bán	V	B-VP	O
+đồ	N	B-NP	O
+veste	N	B-NP	O
+nữ	N	B-NP	O
+(	CH	O	O
+dạng	N	B-NP	O
+công sở	N	B-NP	O
+)	CH	O	O
+,	CH	O	O
+“	CH	O	O
+người mẫu	N	B-NP	O
+”	CH	O	O
+đứng	V	B-VP	O
+bán	V	B-VP	O
+là	V	B-VP	O
+ba	M	B-NP	O
+cô	Ns	B-NP	O
+gái	N	B-NP	O
+ra sức	V	B-VP	O
+quay	V	B-VP	O
+tới	R	O	O
+quay	V	B-VP	O
+lui	R	O	O
+làm dáng	V	B-VP	O
+.	CH	O	O
+
+Tôi	P	B-NP	O
+lật	V	B-VP	O
+thử	V	B-VP	O
+bên	N	B-NP	O
+trong	A	B-AP	O
+thấy	V	B-VP	O
+đường	N	B-NP	O
+may	N	B-NP	O
+rất	R	O	O
+sắc sảo	A	B-AP	O
+,	CH	O	O
+miếng	Nc	B-NP	O
+vải	N	B-NP	O
+lớp	Nc	B-NP	O
+túi	N	B-NP	O
+lót	V	B-VP	O
+in	V	B-VP	O
+mờ	A	B-AP	O
+tên	N	B-NP	O
+“	CH	O	O
+Valentino	NNP	B-NP	B-ORG
+”	CH	O	O
+,	CH	O	O
+các	L	B-NP	O
+tem	N	B-NP	O
+size	Nb	B-NP	O
+,	CH	O	O
+bảng	N	B-NP	O
+hướng dẫn	V	B-VP	O
+giặt	V	B-VP	O
+,	CH	O	O
+nút	N	B-NP	O
+dự phòng	V	B-VP	O
+...	CH	O	O
+đều	R	O	O
+đầy đủ	A	B-AP	O
+các	L	B-NP	O
+đặc điểm	N	B-NP	O
+mà	C	O	O
+thương hiệu	N	B-NP	O
+này	P	B-NP	O
+hay	R	O	O
+sử dụng	V	B-VP	O
+.	CH	O	O
+
+Đâu	R	O	O
+chỉ	R	O	O
+Valentino	NNP	B-NP	B-ORG
+,	CH	O	O
+từ	E	B-PP	O
+các	L	B-NP	O
+thương hiệu	N	B-NP	O
+nổi tiếng	A	B-AP	O
+như	C	O	O
+Mango	NNP	B-NP	B-ORG
+,	CH	O	O
+Milano	NNP	B-NP	B-ORG
+,	CH	O	O
+Versace	NNP	B-NP	B-ORG
+...	CH	O	O
+đến	E	B-PP	O
+những	L	B-NP	O
+thương hiệu	N	B-NP	O
+nội địa	N	B-NP	O
+đang	R	O	O
+nổi	A	B-AP	O
+ở	E	B-PP	O
+Trung Quốc	NNP	B-NP	B-LOC
+đều	R	O	O
+có mặt	V	B-VP	O
+ở	E	B-PP	O
+chợ	N	B-NP	O
+này	P	B-NP	O
+.	CH	O	O
+
+Tôi	P	B-NP	O
+thừ	A	B-AP	O
+người	N	B-NP	O
+ra	V	B-VP	O
+khi	N	B-NP	O
+nhìn	V	B-VP	O
+thấy	V	B-VP	O
+cái	Nc	B-NP	O
+áo	N	B-NP	O
+sơmi	Nb	B-NP	O
+hiệu	N	B-NP	O
+Tommy	NNP	B-NP	B-ORG
+treo	V	B-VP	O
+trên	E	B-PP	O
+giá	N	B-NP	O
+,	CH	O	O
+người	N	B-NP	O
+bán	V	B-VP	O
+ra	V	B-VP	O
+giá	N	B-NP	O
+chắc nịch	A	B-AP	O
+:	CH	O	O
+“	CH	O	O
+Mua	V	B-VP	O
+20	M	B-NP	O
+cái	N	B-NP	O
+trở lên	A	B-AP	O
+60	M	B-NP	O
+tệ	Nu	B-NP	O
+/	CH	O	O
+áo	N	B-NP	O
+”	CH	O	O
+(	CH	O	O
+khoảng	A	B-AP	O
+120.000	M	B-NP	O
+đồng	Nu	B-NP	O
+)	CH	O	O
+,	CH	O	O
+mua lẻ	V	B-VP	O
+170	M	B-NP	O
+tệ	Nu	B-NP	O
+]	CH	O	O
+áo	N	B-NP	O
+”	CH	O	O
+,	CH	O	O
+trong	E	B-PP	O
+khi	N	B-NP	O
+ở	E	B-PP	O
+Bắc Kinh	NNP	B-NP	B-LOC
+cũng	R	O	O
+cái	Nc	B-NP	O
+áo	N	B-NP	O
+ấy	P	B-NP	O
+trong	E	B-PP	O
+cửa hàng	N	B-NP	O
+hiệu	N	B-NP	O
+là	V	B-VP	O
+...	CH	O	O
+350	M	B-NP	O
+tệ	Nu	B-NP	O
+/	CH	O	O
+áo	N	B-NP	O
+!	CH	O	O
+
+Cả	P	B-NP	O
+buổi	N	B-NP	O
+sáng	N	B-NP	O
+chúng tôi	P	B-NP	O
+chỉ	R	O	O
+đi	V	B-VP	O
+hết	V	B-VP	O
+tầng	N	B-NP	O
+một	M	B-NP	O
+,	CH	O	O
+mà	C	O	O
+phải	V	B-VP	O
+bỏ	V	B-VP	O
+bớt	V	B-VP	O
+nhiều	A	B-AP	O
+gian hàng	N	B-NP	O
+vì	E	B-PP	O
+không	R	O	O
+đủ	A	B-AP	O
+sức	N	B-NP	O
+.	CH	O	O
