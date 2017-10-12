@@ -12,10 +12,16 @@ if __name__ == '__main__':
     # Start an experiment with flow
     # =========================================================================#
     flow = Flow()
+    flow.log_folder = join(dirname(__file__), "logs")
 
     # =========================================================================#
     #                               Data
     # =========================================================================#
+
+
+    # for quick experiment
+    # file = join(dirname(__file__), "corpus", "sample_vlsp_2016", "train.txt")
+    # sentences = vlsp2016.load_data(file)
 
     # for evaluation
     # file = join(dirname(__file__), "corpus", "vlsp2016", "train.txt")
@@ -48,7 +54,20 @@ if __name__ == '__main__':
         # ner
         "T[-3][3]", "T[-2][3]", "T[-1][3]",
     ]
-    transformer = TaggedTransformer(template)
+
+    template2 = [
+        "T[-2].lower", "T[-1].lower", "T[0].lower", "T[1].lower", "T[2].lower",
+        "T[0].istitle", "T[-1].istitle", "T[1].istitle", "T[-2].istitle", "T[2].istitle",
+        # word unigram and bigram
+        "T[-2]", "T[-1]", "T[0]", "T[1]", "T[2]",
+        "T[-2,-1]", "T[-1,0]", "T[0,1]", "T[1,2]",
+        # pos unigram and bigram
+        "T[-2][1]", "T[-1][1]", "T[0][1]", "T[1][1]", "T[2][1]",
+        "T[-2,-1][1]", "T[-1,0][1]", "T[0,1][1]", "T[1,2][1]",
+        # ner
+        "T[-3][3]", "T[-2][3]", "T[-1][3]",
+    ]
+    transformer = TaggedTransformer(template2)
 
     flow.transform(transformer)
 
@@ -70,9 +89,9 @@ if __name__ == '__main__':
     flow.add_score('f1_chunk')
     flow.add_score('accuracy_chunk')
 
-    # flow.set_validation(TrainTestSplitValidation(test_size=0.1))
-    flow.set_validation(TrainTestSplitValidation(test_size=0.3))
+    flow.set_validation(TrainTestSplitValidation(test_size=0.1))
+    # flow.set_validation(TrainTestSplitValidation(test_size=0.3))
 
-    flow.train()
+    # flow.train()
 
-    # flow.save_model("CRF", filename="crf_20171003.bin")
+    flow.save_model("CRF", filename="ner_crf_20171006_template_2.model")

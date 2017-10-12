@@ -20553,7 +20553,7 @@ nhờ	V	B-VP	O	None
 tôi	P	B-NP	O	None
 lên	V	B-VP	O	None
 NTLS	Ny	B-NP	B-LOC	None
-Đường	I-NP	I-NP	I-LOC	None
+Đường	NNP	I-NP	I-LOC	None
 9	M	I-NP	I-LOC	None
 tìm	V	B-VP	O	None
 mộ	N	B-NP	O	None
@@ -36013,7 +36013,7 @@ theo	V	B-VP	O	None
 cả	P	B-NP	O	None
 trại	N	B-NP	O	None
 số	N	B-NP	O	locVillage
-4	O	B-NP	O	locVillage
+4	M	B-NP	O	locVillage
 đi	V	B-VP	O	None
 ,	CH	O	O	None
 vùi	V	B-VP	O	None

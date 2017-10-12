@@ -1,6 +1,11 @@
-# Named Entity Recognition Experiments
+# Underthesea Named Entity Recognition
+
+![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/f1-88.6%25-red.svg)
 
 This repository contains experiments in Vietnamese NER problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
+
+* [Demo](http://magizbox.com:9386)
+* [Detail Reports](https://docs.google.com/spreadsheets/d/1OTd_bktaGpnLSy2I8GiFT2xhElRPymoDjPvqt4cAmc0/edit?usp=sharing)
 
 ## Corpus Summary
 
@@ -15,12 +20,6 @@ Chunking Tags (14) : B-AP, B-EP, B-IP, B-MP, B-NP, B-NPb, B-PP, B-VP, B-VPb, I-A
 NER Tags (9) :B-LOC, B-MISC, B-ORG, B-PER, I-LOC, I-MISC, I-ORG, I-PER, O
 ```
 
-## Reports
-
-![](https://img.shields.io/badge/f1-88.6%25-red.svg)
-
-* [Detail Reports](https://docs.google.com/spreadsheets/d/1OTd_bktaGpnLSy2I8GiFT2xhElRPymoDjPvqt4cAmc0/edit?usp=sharing)
-
 ## Usage
 
 **Setup Environment**
@@ -31,15 +30,15 @@ $ git clone git@github.com:magizbox/underthesea.ner.git
 
 # create environment
 $ cd underthesea.ner
-$ conda create -n underthesea.ner python=3.4
-$ pip install -r requirement.txt
+$ conda create -n uts.ner python=3.4
+$ pip install -r requirements.txt
 ```
 
-**Run experiment**
+**Run Experiments**
 
 ```
-$ source activate underthesea.ner
 $ cd underthesea.ner
+$ source activate uts.ner
 $ python main.py
 ```
 
