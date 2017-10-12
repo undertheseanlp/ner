@@ -1,0 +1,15 @@
+# Tổng Bí thư: Ai trót để tay nhúng chàm thì hãy sớm tự gột rửa
+Tổng	N	B-NP	O
+Bí thư	N	B-NP	O
+:	CH	O	O
+Ai	P	B-NP	O
+trót	V	B-VP	O
+để	E	B-PP	O
+tay	N	B-NP	O
+nhúng	V	B-VP	O
+chàm	N	B-NP	O
+thì	C	O	O
+hãy	R	O	O
+sớm	A	B-AP	O
+tự	P	B-NP	O
+gột rửa	V	B-VP	O

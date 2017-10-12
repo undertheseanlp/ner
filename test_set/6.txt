@@ -1,0 +1,11 @@
+# Việt Nam yêu cầu Philippines xin lỗi vụ 2 ngư dân bị bắn chết
+Việt Nam	Np	B-NP	B-LOC
+yêu cầu	V	B-VP	O
+Philippines	Np	B-NP	B-LOC
+xin lỗi	V	B-VP	O
+vụ	N	B-NP	O
+2	M	B-NP	O
+ngư dân	N	B-NP	O
+bị	V	B-VP	O
+bắn	V	B-VP	O
+chết	V	B-VP	O

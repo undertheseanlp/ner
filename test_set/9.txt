@@ -1,0 +1,13 @@
+# Hé lộ không gian sống sang trọng của vợ chồng nhạc sĩ Trần Tiến tại Vũng Tàu
+Hé	Np	B-NP	O
+lộ	V	B-VP	O
+không gian	N	B-NP	O
+sống	V	B-VP	O
+sang trọng	A	B-AP	O
+của	E	B-PP	O
+vợ chồng	N	B-NP	O
+nhạc sĩ	N	B-NP	O
+Trần	Np	B-NP	B-PER
+Tiến	Np	I-NP	I-PER
+tại	E	B-PP	O
+Vũng Tàu	Np	B-NP	B-LOC

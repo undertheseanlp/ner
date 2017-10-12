@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
 
     # for quick experiment
-    # file = join(dirname(__file__), "corpus", "sample_vlsp_2016", "train.txt")
+    # file = join(dirname(__file__), "corpus", "sample_vlsp_2016", "test.txt")
     # sentences = vlsp2016.load_data(file)
 
     # for evaluation
@@ -41,22 +41,6 @@ if __name__ == '__main__':
     # =========================================================================#
     template = [
         "T[-2].lower", "T[-1].lower", "T[0].lower", "T[1].lower", "T[2].lower",
-        "T[0].istitle", "T[-1].istitle", "T[1].istitle",
-        # word unigram and bigram
-        "T[-2]", "T[-1]", "T[0]", "T[1]", "T[2]",
-        "T[-2,-1]", "T[-1,0]", "T[0,1]", "T[1,2]",
-        # pos unigram and bigram
-        "T[-2][1]", "T[-1][1]", "T[0][1]", "T[1][1]", "T[2][1]",
-        "T[-2,-1][1]", "T[-1,0][1]", "T[0,1][1]", "T[1,2][1]",
-        # chunk unigram and bigram
-        "T[-2][2]", "T[-1][2]", "T[0][2]", "T[1][2]", "T[2][2]",
-        "T[-2,-1][2]", "T[-1,0][2]", "T[0,1][2]", "T[1,2][2]",
-        # ner
-        "T[-3][3]", "T[-2][3]", "T[-1][3]",
-    ]
-
-    template2 = [
-        "T[-2].lower", "T[-1].lower", "T[0].lower", "T[1].lower", "T[2].lower",
         "T[0].istitle", "T[-1].istitle", "T[1].istitle", "T[-2].istitle", "T[2].istitle",
         # word unigram and bigram
         "T[-2]", "T[-1]", "T[0]", "T[1]", "T[2]",
@@ -67,7 +51,7 @@ if __name__ == '__main__':
         # ner
         "T[-3][3]", "T[-2][3]", "T[-1][3]",
     ]
-    transformer = TaggedTransformer(template2)
+    transformer = TaggedTransformer(template)
 
     flow.transform(transformer)
 
@@ -92,6 +76,6 @@ if __name__ == '__main__':
     flow.set_validation(TrainTestSplitValidation(test_size=0.1))
     # flow.set_validation(TrainTestSplitValidation(test_size=0.3))
 
-    # flow.train()
+    flow.train()
 
-    flow.save_model("CRF", filename="ner_crf_20171006_template_2.model")
+    # flow.save_model("CRF", filename="ner_crf_20171006_template_2.model")

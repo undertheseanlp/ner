@@ -1,0 +1,11 @@
+# Ninh Bình phát lệnh hộ đê toàn tuyến , sẵn sàng di dân khẩn cấp
+Ninh Bình	Np	B-NP	B-PER
+phát	V	B-VP	O
+lệnh	N	B-NP	O
+hộ đê	V	B-VP	O
+toàn	R	O	O
+tuyến	N	B-NP	O
+,	CH	O	O
+sẵn sàng	A	B-AP	O
+di dân	N	B-NP	B-LOC
+khẩn cấp	M	B-NP	I-LOC

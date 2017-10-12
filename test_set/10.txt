@@ -1,0 +1,14 @@
+# Hoa hậu Kỳ Duyên bất ngờ ngồi ghế huấn luyện viên cùng Phạm Hương và Minh Tú
+Hoa hậu	N	B-NP	O
+Kỳ	Np	B-NP	B-PER
+Duyên	Np	B-NP	I-PER
+bất ngờ	A	B-AP	O
+ngồi	V	B-VP	O
+ghế	N	B-NP	B-LOC
+huấn luyện viên	N	B-NP	I-LOC
+cùng	A	B-AP	I-LOC
+Phạm	Np	B-NP	I-LOC
+Hương	Np	I-NP	B-PER
+và	C	O	O
+Minh	Np	B-NP	B-PER
+Tú	Np	I-NP	I-PER
