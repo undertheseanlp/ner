@@ -154,3 +154,4 @@ fabric.properties
 # PowerPoint temporary
 ~$*.ppt*
 
+*.bin

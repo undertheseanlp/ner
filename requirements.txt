@@ -15,5 +15,5 @@ scikit-learn==0.19.0
 scipy==0.19.1
 six==1.11.0
 sklearn==0.0
-underthesea==1.1.4rc2
-underthesea-flow==0.1.0
+underthesea==1.1.5rc1
+-e git+https://github.com/magizbox/underthesea.flow
