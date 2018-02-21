@@ -22,9 +22,11 @@ Chunking Tags (14) : B-AP, B-EP, B-IP, B-MP, B-NP, B-NPb, B-PP, B-VP, B-VPb, I-A
 NER Tags (9) :B-LOC, B-MISC, B-ORG, B-PER, I-LOC, I-MISC, I-ORG, I-PER, O
 ```
 
-## Usage
+# Hướng dẫn tự xây dựng mô hình
 
-**Setup Environment**
+**Bước 1: Tạo dự án**
+
+Cài đặt môi trường
 
 ```
 # clone project
@@ -32,26 +34,24 @@ $ git clone git@github.com:magizbox/underthesea.ner.git
 
 # create environment
 $ cd underthesea.ner
-$ conda create -n uts.ner python=3.4
+$ conda create -n ner python=3.5
 $ pip install -r requirements.txt
 ```
 
-**Run Experiments**
+Chạy thử chương trình
 
 ```
-$ cd underthesea.ner
-$ source activate uts.ner
+$ cd ner
+$ source activate ner
 $ python main.py
 ```
 
-# Hướng dẫn xây dựng mô hình
+**Bước 2: Chuẩn bị dữ liệu**
 
-**Bước 1: Chuẩn bị dữ liệu**
+**Bước 3: Xây dựng mô hình**
 
-**Bước 2: Xây dựng mô hình**
+**Bước 4: Tích hợp vào underthesea**
 
-**Bước 3: Tích hợp vào underthesea**
-
-**Bước 4: Xây dựng demo**
+**Bước 5: Xây dựng demo**
 
 Cập nhật lần cuối: Tháng 2 năm 2018
