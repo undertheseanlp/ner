@@ -44,12 +44,8 @@ $ source activate uts.ner
 $ python main.py
 ```
 
+# Hướng dẫn xây dựng mô hình
 
-## Related Works
+Bước 1: Chuẩn bị dữ liệu
 
-* [Vietnamese Named Entity Recognition Tools](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Tools#named-entity-recognition)
-* [Vietnamese Named Entity Recognition Publications](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Publications#named-entity-recognition)
-* [Vietnamese Named Entity Recognition State of The Art](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-SOTA#named-entity-recognition)
-* [Vietnamese Named Entity Recognition Service](https://github.com/magizbox/underthesea/wiki/Vietnamese-NLP-Services#named-entity-recognition)
-
-Last update: October 2017
+Cập nhật lần cuối: Tháng 2 năm 2018
