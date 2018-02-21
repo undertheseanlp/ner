@@ -1,4 +1,4 @@
-# Underthesea Named Entity Recognition
+# Vietnamese Named Entity Recognition
 
 ![](https://img.shields.io/badge/version-1.1.6-blue.svg) ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/F1-88.6%25-red.svg)
 
