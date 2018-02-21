@@ -46,12 +46,12 @@ $ python main.py
 
 # Hướng dẫn xây dựng mô hình
 
-Bước 1: Chuẩn bị dữ liệu
+**Bước 1: Chuẩn bị dữ liệu**
 
-Bước 2: Xây dựng mô hình
+**Bước 2: Xây dựng mô hình**
 
-Bước 3: Tích hợp vào underthesea
+**Bước 3: Tích hợp vào underthesea**
 
-Bước 4: Xây dựng demo
+**Bước 4: Xây dựng demo**
 
 Cập nhật lần cuối: Tháng 2 năm 2018
