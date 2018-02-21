@@ -4,7 +4,7 @@
 
 [[English](README.md)] [[Vietnamese](README.vi.md)]
 
-This repository contains experiments in Vietnamese NER problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
+Trang này chứa các thí nghiệm với bài toán nhận dạng thực thể tên riêng tiếng Việt. Đây là một phần của dự án [underthesea](https://github.com/magizbox/underthesea)
 
 * [Demo](http://magizbox.com:9386)
 * [Detail Reports](https://docs.google.com/spreadsheets/d/1OTd_bktaGpnLSy2I8GiFT2xhElRPymoDjPvqt4cAmc0/edit?usp=sharing)
