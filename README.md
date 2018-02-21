@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/version-1.1.6-blue.svg) ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/F1-88.6%25-red.svg)
 
+[English](README.md) [[Vietnamese](README.vi.md)]
+
 This repository contains experiments in Vietnamese NER problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
 
 * [Demo](http://magizbox.com:9386)
@@ -41,6 +43,7 @@ $ cd underthesea.ner
 $ source activate uts.ner
 $ python main.py
 ```
+
 
 ## Related Works
 
