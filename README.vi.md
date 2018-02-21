@@ -36,6 +36,16 @@ $ python main.py
 
 **Bước 2: Chuẩn bị dữ liệu**
 
+Tạo một thư mục con trong thư mục data. Ví dụ `sample_data`
+
+Tạo thư mục `raw` trong thư mục mới
+
+Copy dữ liệu bạn thu thập được
+
+Tạo file `preprocess.py`, xử lý dữ liệu trong thư mục `raw`, lưu kết quả vào thư mục `corpus`
+
+Tạo file `eda.py`, phân tích tập dữ liệu trong thư mục `corpus`, lưu kết quả vào thư mục `eda`
+
 **Bước 3: Xây dựng mô hình**
 
 **Bước 4: Tích hợp vào underthesea**
