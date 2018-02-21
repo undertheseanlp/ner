@@ -1,0 +1,12 @@
+Hướng dẫn hạ cấp iOS 11 về iOS 10.3.3
+
+Hướng dẫn hạ cấp iOS 11 xuống iOS 10.3.3 nếu người dùng không hài lòng với iOS 11 và muốn trở về iOS 10.3.3. 
+
+Hiện tại, <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> vẫn cho phép người dùng hạ cấp iOS 11 xuống iOS 10.3.3 bằng iTunes. Lưu ý, nếu bạn đã quay về iOS 10.3.3, mọi bản sao lưu đã thực hiện trên iOS 11 đều sẽ không khả dụng nữa. Bên dưới là cách thực hiện hạ cấp từ iOS 11 về iOS 10.3.3.
+Bước 1: Trước tiên, cần cài đặt phiên bản iTunes mới nhất trên máy tính. Nếu chưa có, bạn có thể tải bộ cài chính chủ .
+Bước 2: Bạn cũng cần phải có tệp IPSW có liên quan cho thiết bị mà bạn sở hữu. Bạn có thể tải xuống tệp IPSW phù hợp với iOS 10.3.3 cho thiết bị cụ thể của mình .
+Bước 3: Tắt tính năng Find My iPhone trên thiết bị của mình. Vào phần Cài đặt --> iCloud --> Find My Phone.
+Bước 4: Kết nối thiết bị của bạn với máy tính và mở iTunes lên. Giữ nút Nguồn và Home của thiết bị trong 10 giây, sau đó nhả nút nhưng vẫn giữ phím Home để vào chế độ DFU. Sau khi kích hoạt DFU thành công, iTunes sẽ thông báo phát hiện ra một thiết bị trong Recovery Mode.
+Bước 5: bấm và giữ phím Option (Mac), hoặc phím SHIFT (Windows), và chọn tùy chọn Restore iPhone ... trong cửa sổ thiết bị chính. Chọn tệp IPSW iOS 10.3.3 đã tải về trước đó.
+Bước 6: iTunes sẽ ngay lập tức thực hiện khôi phục tệp iOS 10.3.3 cho thiết bị.
+<ENAMEX TYPE="PERSON">Bảo Phương</ENAMEX>

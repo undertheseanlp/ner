@@ -1,0 +1,11 @@
+Xuất hiện mã độc yêu cầu nạn nhân gửi ảnh nude để chuộc dữ liệu
+
+Một loại mã độc có tên gọi nRansomware vừa bị phát hiện, với yêu cầu nạn nhân muốn lấy lại dữ liệu phải gửi những bức ảnh khỏa thân, thay vì bitcoin.
+
+Mã độc tống tiền bắt đầu quan tâm đến việc yêu cầu ảnh nude lấy mã mở khóa
+nRansomware được các trang web bảo mật như VirusTotal và Hybrid Analysis xác nhận gây nguy hiểm cho người dùng bằng cách lây lan thông qua tập tin có tên nRansom.exe. Mặc dù không rõ độ phức tạp của mã độc này, nhưng nó yêu cầu nạn nhân cung cấp ít nhất 10 bức ảnh khỏa thân của mình sau khi buộc tạo một tài khoản trên Protomail..
+Báo cáo cho biết, sau những trao đổi ban đầu, các thao tác mà nạn nhân thực hiện phải được gửi qua một địa chỉ email cụ thể do tin tặc cung cấp. Sau khi được xác minh, một mã sẽ được gửi đi và sau đó được sử dụng để vô hiệu hóa phần mềm độc hại.
+Các chi tiết về phần mềm độc hại nRansomware mới này đến nay là rất ít và hiện cũng không biết có bao nhiêu người đã trở thành nạn nhân của nhóm tin tặc đứng phía sau.
+Theo hãng bảo mật <ENAMEX TYPE="ORGANIZATION">Trend Micro</ENAMEX>, ransomware (hay còn gọi là mã độc tống tiền) liên quan đến một số cuộc tấn công thực hiện vào năm qua. Đáng chú ý nhất của ransomware chính là sự bùng phát của Wannacry khét tiếng cũng như chiến dịch phân phối phần mềm độc hại Locky hay FakeGlobal.
+Một nghiên cứu gần đây cho thấy nạn nhân đã thanh toán hơn 25 triệu USD tiền chuộc để có thể truy cập vào tập tin của họ trong 2 năm qua và có vẻ điều này sẽ mở rộng sang những bức ảnh khỏa thân.
+Khuyến cáo từ hãng bảo mật <ENAMEX TYPE="ORGANIZATION">Trend Micro</ENAMEX>, để hạn chế phạm vi tiếp cận của các loại phần mềm độc hại này người dùng nên đảm bảo rằng mình luôn được trang bị một phần mềm chống virus mạnh mẽ, bên cạnh những hành động cẩn thận trước việc tải về các tập tin đáng ngờ.

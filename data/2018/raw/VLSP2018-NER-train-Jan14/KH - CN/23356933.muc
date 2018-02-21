@@ -1,0 +1,24 @@
+iOS 11 và những “hạt sạn” làm chướng tai gai mắt người dùng
+
+Không phải lúc nào <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> cũng làm vừa lòng được cộng đồng fan hâm mộ với mỗi sản phẩm họ làm ra, và lần này cũng không phải là một ngoại lệ.
+
+iOS 11 cuối cùng cũng đã đến tay cộng đồng người dùng <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> và mọi người đều tỏ ra háo hức vì hàng loạt những tính năng mới mà nó đem lại. Tuy nhiên, có vẻ như <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> đã hơi vội vã khi còn bỏ sót lại những lỗi hệ thống đủ để khiến người dùng tỏ ra khó chịu ra mắt khi gặp phải.
+Đây là bằng chứng cho thấy dù có ra mắt trước là bản thử nghiệm từ tận tháng 6, nhưng 3 tháng vẫn chưa hẳn là khoảng thời gian đủ dài để các chuyên gia biến iOS 11 trở nên hoàn thiện nhất có thể, ít nhất là hơn thời điểm hiện tại.
+Chuyên gia phê bình công nghệ <ENAMEX TYPE="PERSON">Pete Pachal</ENAMEX> đã nhanh chóng “vọc vạch” và tìm ra một số lỗi sau khi cập nhật lên iOS 11. Sau khi thông báo lên Twitter, ông cũng nhân ra mình không phải là người duy nhất trải qua điểm trừ đó.
+“iOS 11 có tần suất xảy ra nhiều lỗi vặt hơn những phiên bản trước. Ngay cả việc Copy/Paste cũng có phần không nhạy, và <ENAMEX TYPE="MISCELLANEOUS">Apple Pay</ENAMEX> thì không hoạt động trên thiết bị của tôi.”
+Đó mới chỉ là phần nổi của tảng băng chìm mà thôi. Hãy cùng dõi theo những diễn biến khác đáng chú ý hơn từ những phản hồi tiếp theo, nhặt nhạnh từ cùng cộng đồng Twitter:
+“TouchID có phần bị trễ, giật hơn bình thường.”
+“Tự nhiên một vài tin nhắn của tôi trên iMessage với một người bỗng biến mất rồi mới xuất hiện lại sau tận 1 ngày. Thật nực cười!”
+Hài hước là dòng Tweet về tính năng ghi, quay lại diễn biến màn hình mơi có trên iOS 11 này, với nội dung đầy châm biếm và “gãi đúng chỗ ngứa”:
+“Thật tuyệt vời. Tính năng quay lại màn hình trên iOS 11 giờ đây sẽ giúp tôi nhìn lại được trực tiếp một lỗi hệ thống xảy ra như thế nào luôn.”
+Còn dưới đây là một video cụ thể về hiện tượng màn hình bị mờ nhòe hẳn đi sau khi iPhone được khóa rồi mở khóa khi đang trong trình tương tác iMessage. Đáng chú ý là mọi hành động cảm ứng, soạn thảo vẫn được tiếp nhận nhưng duy chỉ có thứ quan trọng nhất - màn hình hiển thị - thì lại mù tịt!
+Lỗi màn hình mờ sau khi đóng/mở khóa trên iOS 11
+Một video khác (lần này không bị quay lại trực tiếp trên màn hình nữa) lại cho thấy một lỗ hổng bảo mật dữ liệu cá nhân khá bất ngờ kể cả khi máy đã được cài mật khẩu. Chỉ bằng động tác trượt ngón tay sang trái để vào trình camera nhanh, chúng ta hoàn toàn có thể xem được toàn bộ những ảnh hiện có trong album bằng cách ấn vào biểu tượng ảnh quen thuộc ở góc trái bên dưới. Thông thường, chỉ những ảnh được chụp từ trình camera nhanh ngay lúc đó mới có thể bị xem lại, còn không thì sẽ không có ảnh nào hiện lên được cả.
+Super weird passcode bypass glitch in iOS 11. Shows you all photos and videos AND crashes your phone ???? pic.twitter.com/7JmkPkOXtH
+— EverythingApplePro (@EveryApplePro) Ngày 21 tháng 09 năm 2017
+Không chỉ có iPhone, mà ngay cả iPad cũng chịu chung số phận. Một trong những biểu hiện dễ thấy đó là lỗi hiển thị chung trên màn hình khi có nhiều tương tác:
+Another iOS 11 graphical glitch. Looking forward to the inevitable bug fix update. #ios11update #ipad #Apple pic.twitter.com/Yt0ClbgcHM
+— Peter B. Schaufuss (@schaufuss) Ngày 21 tháng 09 năm 2017
+Dù sao cũng có chút tin tích cực là nó không hoàn toàn là lỗi xuất hiện hàng loạt ở diện rộng và khiến bất kỳ thiết bị nào update lên iOS 11 cũng gặp phải. Sự cố không tắt được hết Wi-Fi và Bluetooth qua Control Center không hoàn toàn là lỗi như đã giải thích, còn lại thì chắc hẳn <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> cũng đang tính toán đến phương án khắc phục nhanh nhất có thể rồi.
+Vậy bạn có nên update lên iOS 11 hay không? Câu trả lời là CÓ, vì nó đem lại nhiều lợi ích cải tiến đột phá hơn nhiều so với phiên bản trước. Dù vậy, nếu như là người theo chủ nghĩa cầu toàn và khó tính một chút, bạn có thể đợi thêm vài tuần ngắn nữa để <ENAMEX TYPE="ORGANIZATION">Apple</ENAMEX> sửa lỗi rồi lên cũng không muộn đâu nhé.
+NPQM
