@@ -38,9 +38,7 @@ $ python main.py
 
 Tạo một thư mục con trong thư mục data. Ví dụ `sample_data`
 
-Tạo thư mục `raw` trong thư mục mới
-
-Copy dữ liệu bạn thu thập được
+Tạo thư mục `raw` trong thư mục mới, copy dữ liệu bạn thu thập được vào trong thư mục `raw`
 
 Tạo file `preprocess.py`, xử lý dữ liệu trong thư mục `raw`, lưu kết quả vào thư mục `corpus`
 
