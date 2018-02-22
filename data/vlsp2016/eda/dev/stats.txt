@@ -1,6 +1,6 @@
 Sentences    : 2000
 Unique words : 5735
-Top words    : ,, ., ", của, một, những, người, là, đã, và, được, không, có, mình, trong, cho, với, lại, tôi, đi
+Top words    : ,, ., ", của, một, những, người, là, đã, và, được, không, có, mình, trong, cho, với, tôi, lại, đi
 Tags         : 19
 List tags    : A, C, CH, E, FW, I, L, M, N, Nc, Np, Nu, Ny, P, R, T, V, X, Z
 Tags         : 6
