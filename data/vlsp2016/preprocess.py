@@ -1,5 +1,5 @@
 from os.path import dirname, join
-from underthesea_flow.reader.tagged_corpus import TaggedCorpus
+from languageflow.reader.tagged_corpus import TaggedCorpus
 
 
 def load_data(file):
@@ -75,10 +75,10 @@ def preprocess(sentences):
 def raw_to_corpus():
     for f in ["train.txt", "dev.txt", "test.txt"]:
         tagged_corpus = TaggedCorpus()
-        input = join(dirname(dirname(__file__)), "raw", "vlsp2016", f)
+        input = join(dirname(__file__), "raw", f)
         tagged_corpus.load(input)
         tagged_corpus.sentences = preprocess(tagged_corpus.sentences)
-        output = join(dirname(dirname(__file__)), "corpus", "vlsp2016", f)
+        output = join(dirname(__file__), "corpus", f)
         tagged_corpus.save(output)
 
 
