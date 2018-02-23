@@ -60,7 +60,8 @@ def chunk_tag_normalize(tag):
 
 def preprocess(sentences):
     def process_token(t):
-        output = t[:-1]
+        output = t
+        # output = t[:-1]
         output[0] = t[0].replace("_", " ")
         output[1] = pos_tag_normalize(t[1])
         output[2] = chunk_tag_normalize(t[2])

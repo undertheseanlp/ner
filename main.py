@@ -1,9 +1,9 @@
 from os.path import dirname, join
-from underthesea_flow.flow import Flow
-from underthesea_flow.model import Model
-from underthesea_flow.model.crf import CRF
-from underthesea_flow.transformer.tagged import TaggedTransformer
-from underthesea_flow.validation.validation import TrainTestSplitValidation
+from languageflow.flow import Flow
+from languageflow.model import Model
+from languageflow.model.crf import CRF
+from languageflow.transformer.tagged import TaggedTransformer
+from languageflow.validation.validation import TrainTestSplitValidation
 
 from preprocess import vlsp2016
 
