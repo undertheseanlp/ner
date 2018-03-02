@@ -1,4 +1,6 @@
 from os.path import dirname, join
+
+import os
 from languageflow.flow import Flow
 from languageflow.model import Model
 from languageflow.model.crf import CRF
@@ -6,6 +8,8 @@ from languageflow.transformer.tagged import TaggedTransformer
 from languageflow.validation.validation import TrainTestSplitValidation
 
 from load_data import load_data
+
+from utils.scorer import iob_score
 
 if __name__ == '__main__':
     # =========================================================================#
@@ -18,23 +22,16 @@ if __name__ == '__main__':
     #                               Data
     # =========================================================================#
 
-
-    # for quick experiment
-    # file = join(dirname(__file__), "corpus", "sample_vlsp_2016", "test.txt")
-    # sentences = vlsp2016.load_data(file)
-
-    # for evaluation
-    # file = join(dirname(__file__), "corpus", "vlsp2016", "train.txt")
-    # file = join(dirname(__file__), "corpus", "sample_vlsp_2016", "train.txt")
-    # sentences = vlsp2016.load_data(file)
-
     # for saving model
     sentences = []
     for f in ["train.txt", "dev.txt", "test.txt"]:
         file = join(dirname(dirname(dirname(__file__))), "data", "vlsp2016", "corpus", f)
-        sentences += load_data(file)
-    sentences = sentences[:10]
-    flow.data(sentences=sentences)
+        sentences.append(load_data(file))
+    train_sentences = sentences[0] + sentences[1]
+    test_sentences = sentences[2]
+    train_sentences = train_sentences
+
+    # flow.data(sentences=sentences)
 
     # =========================================================================#
     #                                Transformer
@@ -53,7 +50,10 @@ if __name__ == '__main__':
     ]
     transformer = TaggedTransformer(template)
 
-    flow.transform(transformer)
+    # flow.transform(transformer)
+    X_train, y_train = transformer.transform(train_sentences)
+    X_test, y_test = transformer.transform(test_sentences)
+
 
     # =========================================================================#
     #                               Models
@@ -65,17 +65,14 @@ if __name__ == '__main__':
         # include transitions that are possible, but not observed
         'feature.possible_transitions': True
     }
-    flow.add_model(Model(CRF(params=parameters), "CRF"))
+    filename = join(dirname(__file__), 'model', 'crf.model')
+    estimator = CRF(params=parameters, filename=filename)
+    estimator.fit(X_train, y_train)
+
 
     # =========================================================================#
     #                              Evaluation
     # =========================================================================#
-    flow.add_score('f1_chunk')
-    flow.add_score('accuracy_chunk')
-
-    flow.set_validation(TrainTestSplitValidation(test_size=0.1))
-    # flow.set_validation(TrainTestSplitValidation(test_size=0.3))
-
-    flow.train()
-
-    # flow.save_model("CRF", filename="ner_crf_20171006_template_2.model")
+    y_pred = estimator.predict(X_test)
+    f1_score = iob_score(y_test, y_pred)
+    print(f1_score)

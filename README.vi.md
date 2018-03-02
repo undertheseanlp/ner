@@ -24,14 +24,16 @@ $ git clone git@github.com:magizbox/underthesea.ner.git
 $ cd underthesea.ner
 $ conda create -n ner python=3.5
 $ pip install -r requirements.txt
+$ pip uninstall -y languageflow
+$ pip install https://github.com/undertheseanlp/languageflow/archive/develop.zip
 ```
 
 Chạy thử chương trình
 
 ```
-$ cd ner
+$ cd experiment/v16
 $ source activate ner
-$ python main.py
+$ python train.py
 ```
 
 **Bước 2: Chuẩn bị dữ liệu**
@@ -48,6 +50,6 @@ Tạo file `eda.py`, phân tích tập dữ liệu trong thư mục `corpus`, l�
 
 **Bước 4: Tích hợp vào underthesea**
 
-**Bước 5: Xây dựng demo**
+**Bước 5: Xây dựng demo** 
 
 Cập nhật lần cuối: Tháng 2 năm 2018
