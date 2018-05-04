@@ -156,5 +156,5 @@ fabric.properties
 
 *.bin
 
-tmp
+tmp/*
 !tmp/.gitkeep
