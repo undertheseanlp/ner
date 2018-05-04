@@ -23,6 +23,7 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
 
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
 * `Python 3.5+`
+* `Anaconda`
 * `languageflow==1.1.7`
 
 ### Download and Setup Environment
@@ -30,7 +31,7 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
 Clone project using git
 
 ```
-$ git clone git@github.com:magizbox/underthesea.ner.git
+$ git clone https://github.com/undertheseanlp/ner.git
 ```
 
 Create environment and install requirements
