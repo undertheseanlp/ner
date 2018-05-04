@@ -4,20 +4,17 @@
 
 [[English](README.md)] [[Vietnamese](README.vi.md)]
 
-This repository contains experiments in Vietnamese NER problems. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
-
-* [Demo](http://magizbox.com:9386)
-* [Detail Reports](https://docs.google.com/spreadsheets/d/1OTd_bktaGpnLSy2I8GiFT2xhElRPymoDjPvqt4cAmc0/edit?usp=sharing)
+This repository contains experiments in Vietnamese Named Entity Recognition problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
 
 ## Tables of contents
 
-* [Installation]
+* [Installation](#installation)
   * [Requirements](#requirements)
   * [Download and Setup Environement](#download-and-setup-environment)
 * [Usage](#usage)
   * [Train a new dataset](#train-a-new-dataset)
-  * Using a pretrained model
-  * Sharing a model
+  * [Using a pretrained model](#using-a-pretrained-model)
+  * [Sharing a model](#sharing-a-model)
 * [Citation](#citation)
 
 ## Installation
