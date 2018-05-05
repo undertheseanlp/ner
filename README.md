@@ -1,8 +1,6 @@
 # Vietnamese Named Entity Recognition
 
-![](https://img.shields.io/badge/F1-88.6%25-red.svg)
-
-[[English](README.md)] [[Vietnamese](README.vi.md)]
+![](https://img.shields.io/badge/F1-88.6%25-red.svg) [[English](README.md)] [[Vietnamese](README.vi.md)]
 
 This repository contains experiments in **Vietnamese Named Entity Recognition** problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
 
