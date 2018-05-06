@@ -13,10 +13,8 @@
 \usepackage{graphicx}
 \usepackage[font=small]{caption}
 
-%Pacote para acentos [Por TIAGO]
 \usepackage[utf8]{inputenc}
 
-% Comment this line out
                                                           % if you need a4paper
 %\documentclass[a4paper, 10pt, conference]{ieeeconf}      % Use this line for a4
                                                           % paper
@@ -29,7 +27,6 @@
 % on the last page of the document
 
 
-
 % The following packages can be found on http:\\www.ctan.org
 %\usepackage{graphics} % for pdf, bitmapped graphics files
 %\usepackage{epsfig} % for postscript graphics files
@@ -40,30 +37,13 @@
 
 \title{Vietnamese Named Entity Recognition \\ in underthesea version 1.1.7}
 
-%\author{ \parbox{3 in}{\centering Huibert Kwakernaak*
-%         \thanks{*Use the $\backslash$thanks command to put information here}\\
-%         Faculty of Electrical Engineering, Mathematics and Computer Science\\
-%         University of Twente\\
-%         7500 AE Enschede, The Netherlands\\
-%         {\tt\small h.kwakernaak@autsubmit.com}}
-%         \hspace*{ 0.5 in}
-%         \parbox{3 in}{ \centering Pradeep Misra**
-%         \thanks{**The footnote marks may be inserted manually}\\
-%        Department of Electrical Engineering \\
-%         Wright State University\\
-%         Dayton, OH 45435, USA\\
-%         {\tt\small pmisra@cs.wright.edu}}
-%}
 
-% author names and affiliations
-% use a multiple column layout for up to three different
-% affiliations
 \author{
 \IEEEauthorblockN{Vu Anh}
-\IEEEauthorblockA{underthesea\\ anhv.ict91@gmail.com}
+\IEEEauthorblockA{UndertheseaNLP Organization\\Hanoi, Viet Nam\\anhv.ict91@gmail.com}
 \and
 \IEEEauthorblockN{Bui Nhat Anh}
-\IEEEauthorblockA{underthesea\\ nhatanhbui.96@gmail.com}
+\IEEEauthorblockA{UndertheseaNLP Organization\\Hanoi, Viet Nam\\nhatanhbui.96@gmail.com}
 }
 
 
@@ -77,103 +57,29 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{abstract}
 
-In this report, we will describe our Named Entity Recognition system for Vietnamese, which is implemented in underthesea version 1.1.7.
+In this report, we describe our named entity recognition system for Vietnamese, which is implemented in underthesea version 1.1.7.
 
 
-Keywords: PACS, teleradiology, Medical Imaging, Archiving.
+Keywords: named entity recognition, Vietnamese, natural language processing
 
 \end{abstract}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
 
 Named Entity Recognition is a natural language processing task which is automated label named entity object in text.
 
+\section{System Description}
 
-\section{Proposta de pesquisa}
+To be updated
 
-Proponho como metodologia de pesquisa, efetuar mapeamento das soluções existentes na atualidade, classificá-los e propor uma reorganização dos elementos encontrados, para isso  será utilizado uma estratégia de pesquisa denominada Inversão Estrutural, do inglês Infrastructure Inversion, esta estratégia foi definida por Star e Brownker no livro Sorting Things Out (1999) [2], que também pode ser definida como uma estratégia focada principalmente nos modelos atuais, objetivando estudar o seu funcionamento interno, dessa forma torna-se possível identificar os elementos dos modelos atuais, encontrar possíveis diferenças entre os mesmo elementos em modelos distintos.
+\section{Evaluation}
 
-\subsection{Subseção}
+To be updated
 
-Aqui é um exemplo de subseção.
+\section{Conclusions}
 
-\subsection{Mais outra subseção}
-
-Voce pode adicionar quantas subseções desejar.
-
-\section{Resultados esperados}
-
-Com este estudo, espera-se obter um serviço de armazenamento dentro de uma Infraestrutura da Informação voltada para a teleradiologia, funciona transparente ao usuário, capaz de armazenar os objetos DICOM (imagens e metadados), fora dos ambientes locais, quando se não houver infraestrutura localmente, e caso seja necessário mesmo que se haja uma infraestrutura local, para que se possa ter uma maior interação entre os componentes dessa Infraestrutura, conforme exemplificado na figura 1.
-
-
-\subsection{Tópicos}
-
-Aqui está um exemplo de como escrever com tópicos:
-
-\begin{itemize}
-
-\item Primeiro tópico vem aqui.
-\item Seguido pelo próximo tópico
-\item E assim em diante...
-
-\end{itemize}
-
-
-\subsection{Equações}
-
-As equações podem vir desta forma. Consulte a literatura do LaTex sobre equações mais elaboradas.
-
-$$
-\alpha + \beta = \chi \eqno{(1)}
-$$
-
-\subsection{Figuras e tabelas}
-
-
-
-Neste exemplo apresentamos uma tabela simples, seguida de uma figura. Para citar, use o campo "label". Por exemplo, veja a Tabela \ref{table_example}.
-
-\begin{table}[h]
-\caption{Um exemplo de tabela}
-\label{table_example}
-\begin{center}
-\begin{tabular}{|c||c|}
-\hline
-One & Two\\
-\hline
-Three & Four\\
-\hline
-\end{tabular}
-\end{center}
-\end{table}
-
-%O mesmo voce pode fazer para citar a Figura \ref{fig:cenario4.jpg}.
-
-\begin{figure}
-\centering
-\includegraphics[width=5.5cm]{cenario4.jpg}
-\caption{Usuários acessando o Storaged externo.}
-\label{fig:cenario}
-\end{figure}
-
-\section{Considerações finais}
-
-Atualmente a teleradiologia possui modelos que permitem essa integração de armazenamento em sua infraestrutura local, contudo, dispor de um serviço que consiga quebrar esse paradigma é bastante promissor, pois visa mostrar que a inercia presente na teleradiologia atual pode ser vencida.
-
-Através da definição dos elementos, torna-se possível que estes atuem como gateways entre os componentes já existentes permitindo que se transponha para um serviço global sem que haja alteração no fluxo de trabalho atual, mas que permita a este fluxo ter mais dinamismo.
-
-\addtolength{\textheight}{-12cm}   % This command serves to balance the column lengths
-                                  % on the last page of the document manually. It shortens
-                                  % the textheight of the last page by a suitable amount.
-                                  % This command does not take effect until the next page
-                                  % so it should come on the page before the last. Make
-                                  % sure that you do not shorten the textheight too much.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+To be updated
 
 \bibliographystyle{IEEEtran}
-\bibliography{IEEEexample}
 
 \end{document}
