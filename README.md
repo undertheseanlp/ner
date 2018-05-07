@@ -6,9 +6,9 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
 
 ## Tables of contents
 
-# [1. Installation](#1.-installation)
-  # [Requirements](#requirements)
-  # [Download and Setup Environement](#download-and-setup-environment)
+* [1. Installation](#1.-installation)
+  * [Requirements](#requirements)
+  * [Download and Setup Environement](#download-and-setup-environment)
 * [2. Usage](#2.-usage)
   * [Using a pretrained model](#using-a-pretrained-model)
   * [Train a new dataset](#train-a-new-dataset)
