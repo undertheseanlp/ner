@@ -6,16 +6,16 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
 
 ## Tables of contents
 
-* [Installation](#installation)
+* [1. Installation](#1.-installation)
   * [Requirements](#requirements)
   * [Download and Setup Environement](#download-and-setup-environment)
-* [Usage](#usage)
+* [2. Usage](#2.-usage)
   * [Using a pretrained model](#using-a-pretrained-model)
   * [Train a new dataset](#train-a-new-dataset)
   * [Sharing a model](#sharing-a-model)
-* [Citation](#citation)
+* [3. References](#3.-references)
 
-## Installation
+## 1. Installation
 
 ### Requirements
 
@@ -44,7 +44,7 @@ $ conda create -n uts.ner python=3.5
 $ pip install -r requirements.txt
 ```
 
-## Usage
+## 2. Usage
 
 ### Using a pretrained model
 
@@ -71,7 +71,7 @@ $ python train.py
 
 To be updated
 
-## Citation
+## 3. References
 
 To be updated
 
