@@ -1,6 +1,4 @@
-# Vietnamese Named Entity Recognition
-
-![](https://img.shields.io/badge/F1-88.6%25-red.svg)
+# Vietnamese Named Entity Recognition ![](https://img.shields.io/badge/F1-88.6%25-red.svg)
 
 [[English](README.md)] [[Vietnamese](README.vi.md)]
 
