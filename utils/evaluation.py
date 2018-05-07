@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-from difflib import ndiff, unified_diff, context_diff
+from difflib import ndiff
 from os import listdir, mkdir
 import shutil
 from os.path import dirname, join, isfile
 from underthesea.util.file_io import read, write
 
-from models.ner_1 import ner
+from utils.models.ner_1 import ner
 
 
 def load_input(input_file):
