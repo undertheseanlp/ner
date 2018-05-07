@@ -10,8 +10,8 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
   * [Requirements](#requirements)
   * [Download and Setup Environement](#download-and-setup-environment)
 * [Usage](#usage)
-  * [Train a new dataset](#train-a-new-dataset)
   * [Using a pretrained model](#using-a-pretrained-model)
+  * [Train a new dataset](#train-a-new-dataset)
   * [Sharing a model](#sharing-a-model)
 * [Citation](#citation)
 
@@ -42,6 +42,10 @@ $ pip install -r requirements.txt
 
 ## Usage
 
+### Using a pretrained model
+
+To be updated
+
 ### Train a new dataset
 
 ```
@@ -49,10 +53,6 @@ $ cd ner
 $ source activate ner
 $ python train.py
 ```
-
-### Using a pretrained model
-
-To be updated
 
 ### Sharing a model
 
