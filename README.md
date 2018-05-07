@@ -21,7 +21,7 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
 
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
 * `Python 3.5+`
-* `Anaconda`
+* `conda 4+`
 * `languageflow==1.1.7`
 
 ### Download and Setup Environment
