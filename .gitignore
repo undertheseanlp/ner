@@ -158,3 +158,6 @@ fabric.properties
 
 tmp/*
 !tmp/.gitkeep
+
+report/*
+!report/technique_report.tex
