@@ -48,6 +48,7 @@ $ pip install -r requirements.txt
 
 ### 2.1 Using a pretrained model
 
+
 ```
 cd ner
 $ source activate ner

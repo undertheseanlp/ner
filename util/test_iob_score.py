@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from utils.scorer import iob_score
+from util.scorer import iob_score
 
 
 class TestIob_score(TestCase):

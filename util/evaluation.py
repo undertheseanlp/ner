@@ -5,7 +5,7 @@ import shutil
 from os.path import dirname, join, isfile
 from underthesea.util.file_io import read, write
 
-from utils.models.ner_1 import ner
+from util.models.ner_1 import ner
 
 
 def load_input(input_file):
