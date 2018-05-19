@@ -160,6 +160,10 @@ tmp/*
 !tmp/.gitkeep
 
 report/*
-!report/technique_report.tex
 !report/build.sh
-!report/technique_report.pdf
+!report/technique_report.tex
+!report/*.bib
+!report/*.bst
+!report/*.sty
+!report/technique_report_final.pdf
+
