@@ -19,6 +19,8 @@ This repository contains experiments in **Vietnamese Named Entity Recognition** 
 
 ### 1.1 Requirements
 
+This code is writen in python. The dependencies are:
+
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
 * `Python 3.5+`
 * `conda 4+`
