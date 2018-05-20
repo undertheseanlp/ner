@@ -50,12 +50,21 @@ anhv.ict91@gmail.com
 \begin{document}
 \maketitle
 \begin{abstract}
-In this report, we describe our named entity recognition system for Vietnamese, which is integrated in underthesea version 1.1.8
+In this report, we describe our named entity recognition system for Vietnamese, which is integrated in underthesea version 1.1.8.
+Our system is open-source and available at \url{https://github.com/undertheseanlp/ner}
 
 \end{abstract}
 
 \section{Introduction}
 
+Named entity recognition (NER) is a fundamental task in natural language processing and information extraction.
+It involves identifying noun phrases and classifying each of them into a predefined class.
+In 1995, the 6th Message Understanding Conference (MUC) started evaluating NER systems for English, and in subsequent shared tasks of CoNLL 2002 and CoNLL 2003 conferences, language independent NER systems were evaluated.
+In the evaluation tasks, four named entity types were considered, including names of persons, organizations, locations, and names of miscellaneous entities that do not belong to these three types.
+
+In Vietnamese, there have been some shared tasks for evaluating NER systems, such as VLSP 2016, VLSP 2018.
+
+Previously published systems for Vietnamese named entity recognition used machine learning methods such as Condition Random Field ~\cite{DBLP:journals/corr/abs-1803-08463}, MEMM ~\cite{DBLP:journals/corr/Le-Hong16}, BiLSTM-CNN-CRF ~\cite{DBLP:journals/corr/abs-1708-07241}, dynamic feature induction ~\cite{DBLP:journals/corr/abs-1801-01331}.
 
 \section{System Description}
 
@@ -63,7 +72,8 @@ We takes some experiments in Conditional Random Fields.
 
 \subsection{Conditional Random Fields}
 
-Conditional Random Fields are a discriminative model, used for predicting sequences. They use contextual information from previous labels, thus increasing the amount of information the model has to make a good prediction.
+Conditional Random Fields are a discriminative model, used for predicting sequences.
+They use contextual information from previous labels, thus increasing the amount of information the model has to make a good prediction.
 
 \section{Evaluation}
 
@@ -71,16 +81,41 @@ Conditional Random Fields are a discriminative model, used for predicting sequen
 
 \noindent \textbf{VLSP 2016}
 
+% TODO To be updated
+
 \noindent \textbf{VLSP 2018}
+
+% TODO To be updated
 
 \subsection{Evaluation Measures}
 
+We used Precision, Recall, F1 score as evaluation measures.
+
+$$F_1 = \frac{2*P*R}{P + R}$$
+
+where P (Precision), and R (Recall) are determined as follows:
+
+$$P = \frac{{NE}_{true}}{NE_{sys}}$$
+
+$$R = \frac{{NE}_{true}}{NE_{ref}}$$
+
+where
+
+$NE_{true}$: The number of NEs in gold data
+
+$NE_{sys}$: The number of NEs in recognizing system
+
+$NE_{true}$: The number of NEs which is correctly recognized by the system
+
 \subsection{Results}
 
+% TODO To be updated
 
-\section{Conclusions}
+\section{Conclusion}
 
-To be updated
+We have introduced our approach and its experimental result in named entity recognition for Vietnamese text.
+
+% TODO To be updated
 
 \bibliography{technique_report}
 \bibliographystyle{acl_natbib}
