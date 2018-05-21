@@ -8,6 +8,6 @@ pdflatex -file-line-error -interaction=nonstopmode -synctex=1 -output-format=pdf
 rm -rf $name.blg
 rm -rf $name.log
 rm -rf $name.out
-rm -rf $name.aux
+rm -rf *.aux
 rm -rf $name.bbl
 rm -rf $name.synctex.gz

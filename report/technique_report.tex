@@ -25,6 +25,7 @@
 \usepackage{graphicx}
 \usepackage{color}
 \usepackage{booktabs}
+\usepackage{amsmath}
 
 \aclfinalcopy % Uncomment this line for the final submission
 %\def\eaclpaperid{***} %  Enter the acl Paper ID here
@@ -38,6 +39,8 @@
 \newcommand\BibTeX{B{\sc ib}\TeX}
 
 \title{Vietnamese Named Entity Recognition System \\ in underthesea v1.1.8}
+
+\include{notation}
 
 \author{
 Vu Anh\\
@@ -68,20 +71,56 @@ Previously published systems for Vietnamese named entity recognition used machin
 
 \section{System Description}
 
-We takes some experiments in Conditional Random Fields.
+In this section we describe machine-learning approach thhave adapted to the Vietnamese Named Entity Recognition task, Conditional Random Fields.
 
 \subsection{Conditional Random Fields}
 
 Conditional Random Fields are a discriminative model, used for predicting sequences.
 They use contextual information from previous labels, thus increasing the amount of information the model has to make a good prediction.
 
+A linear-chain CRF with parameters $\lambda = \{ \lambda_1, ... , \lambda_n \}$ defines a conditional probability for a state (or label) sequence $Y = y_1,..., y_T$ given an input sequence $X = x_1,..., x_T$ to be
+
+$$P_{\lambda} (Y|X) = \frac{1}{Z_{\tx}} exp \left{ \sum_{l=1}^{T} \right \sum_k \lambda_k f_k \left( y_{t-1}, y_t, X, t\right)}$$
+
+where
+
+\begin{itemize}
+  \item $f_k(y_{t-1}, y_t, X, t)$ is a feature function which if often binary-valued
+  \item $\lambda_{k}$ is a learned weight associated with feature $f$
+\end{itemize}
+
+$Z_X$ is the normalization factor over all state sequences
+
+$$Z_X = \sum_y exp \{ \sum_{t=1}^{T} \sum_{k} \lambda_k f_k \left( y_{t-1}, y_t, X, t \right) \}$$
+
+The most probable label sequence for an input $X$, can be efficiently determined using the Viterbi algorithm
+
+$$y^{*} = \underset{y}{argmax} P_{\lambda} \left( Y | X \right)$$
+
 \section{Evaluation}
 
 \subsection{Data sets}
 
-\noindent \textbf{VLSP 2016}
+\noindent \textbf{VLSP 2016:} The data set given by the VLSP 2016 includes 267 text documents, which have already segmented.
+They contain 16858 sentences with more than 15000 named entities in which LOC and PER are two popular entity types (90\%).
+The summarization of the given data set is described in Table I
 
-% TODO To be updated
+\begin{table}
+  \centering
+  \begin{tabular}{ccccc}
+    \toprule
+     & Count & Percent \\
+    \midrule
+    LOC  & 6245 & 41\% \\
+    MISC  & 282 & 2\% \\
+    ORG & 1213 & 8\% \\
+    PER & 7480 & 49\% \\
+    \bottomrule
+  \end{tabular}
+
+  \label{tab:vlsp2016}
+  \caption{\small The statistic of VLSP 2016 dataset}
+\end{table}
 
 \noindent \textbf{VLSP 2018}
 
