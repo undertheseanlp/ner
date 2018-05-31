@@ -2,18 +2,18 @@
 
 [[English](README.md)] [[Vietnamese](README.vi.md)]
 
-This repository contains starter code for training and evaluating machine learning models in **Vietnamese Named Entity Recognition** problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project. The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the model. The cae can easily be extended to train your own custom-defined models. 
+This repository contains starter code for training and evaluating machine learning models in *Vietnamese Named Entity Recognition* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project. The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the model. It can easily be extended to train your own custom-defined models. 
 
 ## Table of contents
 
-* [1. Installation](#1.-installation)
-  * [1.1 Requirements](#1.1-requirements)
-  * [1.2 Download and Setup Environement](#1.2-download-and-setup-environment)
-* [2. Usage](#2.-usage)
-  * [2.1 Using a pretrained model](#2.1-using-a-pretrained-model)
-  * [2.2 Train a new dataset](#2.2-train-a-new-dataset)
-  * [2.3 Sharing a model](#2.3-sharing-a-model)
-* [3. References](#3.-references)
+* [1. Installation](#1-installation)
+  * [1.1 Requirements](#11-requirements)
+  * [1.2 Download and Setup Environement](#12-download-and-setup-environment)
+* [2. Usage](#2-usage)
+  * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
+  * [2.2 Train a new dataset](#22-train-a-new-dataset)
+  * [2.3 Sharing a model](#23-sharing-a-model)
+* [3. References](#3-references)
 
 ## 1. Installation
 
