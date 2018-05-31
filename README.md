@@ -2,9 +2,9 @@
 
 [[English](README.md)] [[Vietnamese](README.vi.md)]
 
-This repository contains experiments in **Vietnamese Named Entity Recognition** problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
+This repository contains starter code for training and evaluating machine learning models in **Vietnamese Named Entity Recognition** problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project. The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the model. The cae can easily be extended to train your own custom-defined models. 
 
-## Tables of contents
+## Table of contents
 
 * [1. Installation](#1.-installation)
   * [1.1 Requirements](#1.1-requirements)
