@@ -22,8 +22,8 @@ This repository contains starter code for training and evaluating machine learni
 This code is writen in python. The dependencies are:
 
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
-* `Python 3.5+`
-* `conda 4+`
+* `Python 3.6`
+* `Anaconda`
 
 Python Packages
 
