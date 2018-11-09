@@ -8,7 +8,7 @@ This repository contains starter code for training and evaluating machine learni
 
 * [1. Installation](#1-installation)
   * [1.1 Requirements](#11-requirements)
-  * [1.2 Download and Setup Environement](#12-download-and-setup-environment)
+  * [1.2 Download and Setup Environment](#12-download-and-setup-environment)
 * [2. Usage](#2-usage)
   * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
   * [2.2 Train a new dataset](#22-train-a-new-dataset)
@@ -22,8 +22,8 @@ This repository contains starter code for training and evaluating machine learni
 This code is writen in python. The dependencies are:
 
 * `Operating Systems: Linux (Ubuntu, CentOS), Mac`
-* `Python 3.5+`
-* `conda 4+`
+* `Python 3.6`
+* `Anaconda`
 
 Python Packages
 
@@ -78,4 +78,4 @@ To be updated
 
 To be updated
 
-Last update: 05/2018
+Last update: 07/2018
