@@ -1,0 +1,18 @@
+﻿Dùng thử Thánh SIM của <ENAMEX TYPE="ORGANIZATION">Vietnamobile</ENAMEX>
+Thánh SIM, sản phẩm có tên 'rất kêu' của <ENAMEX TYPE="ORGANIZATION">Vietnamobile</ENAMEX> cho phép người dùng truy cập 4GB dữ liệu tốc độ cao trong ngày với số tiền nạp vào rất rẻ.
+Trước hết, đây là loại SIM hướng đến khách hàng có nhu cầu truy cập 3G cao với chỉ 20.000 đồng/tháng. Thánh SIM được nhà mạng bán ra với mức giá đề nghị là 40.000 đồng. Sau khi hoàn tất thủ tục đăng ký và kích hoạt SIM với cú pháp *999# OK người dùng sẽ có ngay 4GB dung lượng tốc độ cao mỗi ngày trong vòng 1 tháng.
+Sau khi dùng hết 4GB dung lượng dữ liệu tốc độ cao, nhà mạng sẽ tự động bóp băng thông truy cập về tốc độ thấp hơn, tương đương với tốc độ mạng GPRS, vào thời gian còn lại trong ngày.
+Và chu kỳ 4GB dung lượng tốc độ cao sẽ được lặp lại sau mỗi ngày, như thế chỉ cần mua SIM là bạn sẽ có sẵn 20.000 đồng trong tài khoản chính để duy trì 30 ngày x 4GB=120GB dung lượng dữ liệu tốc độ cao trong 1 tháng.
+Sau khi hết một tháng đầu tiên, người dùng có thể nạp từ 20.000 đồng trở lên để duy trì thêm 30 ngày sử dụng dịch vụ dữ liệu miễn phí như ban đầu. Thời hạn sử dụng data miễn phí sẽ gia tăng tùy theo giá trị thẻ nạp, có thể lên đến 180 ngày với mệnh giá thẻ nạp từ 100.000 đồng trở lên.
+Tại sao gọi là sử dụng data miễn phí khi phải nạp thêm tiền vào tài khoản? Thực tế thì số tiền trong tài khoản không hề bị mất đi để duy trì gói dữ liệu 3G của Thánh SIM. Có thể tạm gọi đó là phí giữ chỗ, hay phí đặt cọc, vì người dùng Thánh SIM có thể dùng số tiền trong tài khoản này để thực hiện gọi nội mạng, ngoại mạng với phí 680đ/phút, hay nhắn tin với cước phí 300đ/SMS.
+Ngoài ra, sau khi đã dùng hết 4GB dữ liệu 3G tốc độ cao mỗi ngày, vẫn có thể mua thêm dung lượng tốc độ cao tùy thích. VD: có thể bấm *999*3# OK để mua thêm 3GB tốc độ cao với cước phí 5.000 đồng.
+Tuy có thông tin chính thức giới thiệu rằng Thánh SIM đã có mặt tại các điểm bán lẻ bất kỳ trên toàn quốc, nhưng thực tế thì hiện không phải tất cả các điểm bán lẻ SIM <ENAMEX TYPE="ORGANIZATION">Vietnamobile</ENAMEX> đều có bán Thánh SIM.
+Để tìm mua được loại SIM này nhanh và đỡ rắc rối hơn, tốt nhất nên tham khảo thông tin danh sách cửa hàng theo địa phương được nhà mạng cung cấp trên website hoặc gọi tổng đài nhà mạng.
+Thánh SIM
+Sau khi mua SIM thành công, bắt đầu gắn SIM vào điện thoại và chờ vài chục giây cho máy nhận SIM, bật 3G, dữ liệu di động lên và làm quen với Thánh SIM. Sau khi thử nhiều lần đo trong ngày với ứng dụng Speedtest ở <ENAMEX TYPE="LOCATION">Mỹ Tho</ENAMEX> (<ENAMEX TYPE="LOCATION">Tiền Giang</ENAMEX>), tốc độ mạng của Thánh SIM dao động quanh mức từ 3Mbps đến 6Mbps khi download (tải về) và từ 2Mbps đến 3Mbps khi upload (tải lên).
+Tốc độ tải xuống/tải lên của Thánh SIM khi đo thử bằng Speedtest.
+Nhìn chung, tốc độ truy cập Internet của Thánh SIM khá ổn định để có thể xem video, nghe nhạc hay chơi game trực tuyến. Điển hình là, quá trình xem video YouTube ở định dạng HD hay Full HD với Thánh SIM trong 60 phút diễn ra hầu như liên tục, liền mạch mà không hề gặp hiện tượng đứng hình chờ tải về do bất kỳ vấn đề nào từ mạng di động.
+Sau khi dùng hết 4GB dung lượng tốc độ cao trong ngày, nhà mạng sẽ tự động gửi tin nhắn thông báo và băng thông từ đây sẽ được giới hạn xuống mức thấp tương đương mạng 2G.
+Rõ ràng, chi phí để mua và duy trì hoạt động của gói dữ liệu 3G không giới hạn về dung lượng trên Thánh SIM thực sự hấp dẫn và đáp ứng được nhu cầu về truy cập 3G thường xuyên trong ngày của không ít người dùng với công việc phải thường xuyên di chuyển.
+Với 4GB dung lượng dữ liệu mỗi ngày bạn có thể dùng vào việc gì? ICTnews sẽ có bài viết sau.
+

@@ -1,0 +1,14 @@
+﻿Đây là lý do bạn không nên xem phim người lớn trên smartphone Android
+Hãng bảo mật <ENAMEX TYPE="ORGANIZATION">Kaspersky</ENAMEX> cảnh báo, rủi ro từ việc xem video người lớn trên smartphone Android rất lớn, thậm chí có thể khiến máy của người dùng bị nhiễm virus hoặc mã độc lừa đảo.
+Theo hãng nghiên cứu bảo mật của <ENAMEX TYPE="LOCATION">Nga</ENAMEX>, những người xem phim người lớn trên smartphone Android đang là mục tiêu số một của những kẻ lừa đảo. Thực tế, tội phạm mạng đang có xu hướng sử dụng phim người lớn như "mồi câu" để dụ người dùng truy cập link liên kết, sau đó lây nhiễm virus, mã độc tống tiền nạn nhân.
+<ENAMEX TYPE="ORGANIZATION">Kaspersky</ENAMEX> tiết lộ, hiện có khoảng 1,2 triệu người đã dính các loại mã độc trong khi xem video khiêu dâm trên smartphone. Đặc biệt có tới 23 loại mã độc được thiết kế riêng nhắm tới nền tảng Android.
+Hãng bảo mật <ENAMEX TYPE="LOCATION">Nga</ENAMEX> khẳng định, các nội dung khiêu dâm đang dần trở nên phổ biến, đồng thời kéo theo sự gia tăng số lượng nạn nhân không may dính bẫy đã giăng của tội phạm mạng.
+Một trong những dạng lừa đảo điển hình theo kiểu này là hướng người dùng tới các nội dung khiêu dâm thông qua các hình ảnh gợi cảm, kích dục. Sau khi người dùng vô tình nhấp vào, liên kết lừa đảo sẽ ngay lập tức hiển thị cảnh báo giả mạo về việc smartphone của bạn đã bị nhiễm virus.
+Cảnh báo đó yêu cầu người dùng gọi đến một đầu số điện thoại được khẳng định là đường dây hỗ trợ kỹ thuật của <ENAMEX TYPE="ORGANIZATION">Microsoft</ENAMEX>. Tuy nhiên trên thực tế, đầu số này kết nối tới hệ thống của kẻ lừa đảo và chúng có thể dễ dàng khai thác dữ liệu cá nhân hoặc tài khoản ngân hàng của nạn nhân.
+Một dạng lừa đảo khác là tạo ra những trang web hẹn hò giả mạo, nhắm tới nhóm đối tượng là đàn ông độc thân đang tìm kiếm bạn đời.
+Những trang web này yêu cầu họ phải nhập chi tiết thẻ tín dụng trong quá trình đăng ký thông tin. Nếu nạn nhân quá cả tin, họ sẽ bị đánh cắp thông tin thẻ tín dụng và mất tiền lúc nào không hay.
+Ngoài ra còn một số dạng lừa đảo khác cũng rất hay gặp trên smartphone Android như "scareware". Loại lừa đảo này hiển thị cảnh báo giả mạo trên màn hình khóa với nội dung đại loại như, bạn đã xem nội dung bất hợp pháp (khiêu dâm trẻ em) và bạn phải trả tiền chuộc nếu muốn giữ bí mật đó.
+Hãng bảo mật <ENAMEX TYPE="ORGANIZATION">Kaspersky</ENAMEX> tiết lộ, đa số tin tặc đều nhắm tới những người dùng thông thường bởi lẽ, họ hiếm khi dám báo cáo các hành vi lừa đảo do không muốn thừa nhận đã xem phim người lớn.
+<ENAMEX TYPE="ORGANIZATION">Google</ENAMEX> không cho phép phát triển các nội dung khiêu dâm trên kho ứng dụng Play Store. Nhưng do Android là một nền tảng mở nên vẫn có rất nhiều người lách luật và cài đặt các ứng dụng khiêu dâm không rõ nguồn gốc dẫn tới việc bị lây nhiễm mã độc và virus.
+Do đó, cách tốt nhất để tránh trở thành nạn nhân của những kẻ lừa đảo là hãy tránh cài đặt các ứng dụng bên thứ ba hoặc từ một website không uy tín.
+

@@ -1,0 +1,27 @@
+﻿<ENAMEX TYPE="LOCATION">Anh</ENAMEX>: Người chủ bị phạt nếu không gắn chíp điện tử cho chó
+Không gắn chíp điện tử cho chó, dắt quá 4 con chó đi dạo, không mang theo túi dọn phân... Những người chủ ở nước <ENAMEX TYPE="LOCATION">Anh</ENAMEX> sẽ phải đối mặt với việc nộp phạt.
+Theo tờ <ENAMEX TYPE="ORGANIZATION">Mirror</ENAMEX> đưa tin, vào năm 2016, hơn một triệu chủ sở hữu chó ở <ENAMEX TYPE="LOCATION">Anh</ENAMEX> có nguy cơ bị phạt lên đến 500 Euro (hơn 14 triệu <ENAMEX TYPE="MISCELLANEOUS">tiền Việt</ENAMEX>) khi việc gắn chip điện tử vào cơ thể chó được đưa vào luật.
+Chó có thể được nhận dạng bởi việc thu nhập dữ liệu thông qua con chip điện tử gắn vào người chúng. Tất cả các chú chó trên 8 tuần tuổi bắt buộc phải được đưa đi gắn chip ngay sau khi bộ luật mới được ban hành.
+Năm 2016, hơn một triệu con chó vẫn chưa được đưa đi đăng kí, có nghĩa là chủ sở hữu của những chú chó này phải đối mặt với việc nộp phạt 500 Euro một người, tổng số lên đến khoảng 580 triệu Euro.
+Luật mới này đã tạo ra một cơ sở dữ liệu chó toàn quốc, lưu giữ danh sách thông tin của tất cả chó ở <ENAMEX TYPE="LOCATION">Anh</ENAMEX> nhằm yêu cầu tất cả chủ chó có trách nhiệm với việc đăng kí cho chó của mình. Điều luật này được ban hành với hi vọng sẽ giảm được số chó bị thất lạc cũng như ngăn chặn thị trường buôn bán chó bất hợp pháp ở chợ đen.
+<ENAMEX TYPE="PERSON">George Eustice</ENAMEX>, Bộ trưởng phúc lợi động vật tại <ENAMEX TYPE="ORGANIZATION">Bộ Môi trường, Thực Phẩm và Nông Nghiệp</ENAMEX>, cho biết: "Gắn chíp vào chó không những giúp đoàn tụ chủ và chó bị thất lạc mà còn giảm thiểu tình trạng chó đi lang thang ngoài đường, giảm gánh nặng cho những tổ chức từ thiện bảo vệ động vật và các nhà chức trách địa phương".
+Một khảo sát cho biết, tại <ENAMEX TYPE="LOCATION">thành phố Cheshire</ENAMEX>, vào năm 2015, có 28% chó lạc đã đoàn tụ với chủ nhờ có gắn con chip điện tử.
+Tổ chức <ENAMEX TYPE="ORGANIZATION">The Dogs Trust</ENAMEX> đã thúc đẩy việc ban hành luật và nhận được yêu cầu gắn chíp cho hơn 700 con chó trong vòng chỉ vài giờ sau khi luật được ban hành.
+Một con chip điện tử vô trùng có kích thường chỉ bằng một hạt gạo và được cấy ngay dưới da của chó ngay giữa vai.
+Mỗi con chíp chứa một con số nhận dạng duy nhất được liệt kê trong danh sách của dữ liệu quốc gia, nó chứa tất cả các thông tin liên lạc của người chủ như địa chỉ nhà hoặc số điện thoại.
+Nếu một con chó bị thất lạc hay bỏ rơi, người giám hộ sẽ đọc dữ liệu lưu giữ trong chíp điện tử và tìm thông tin của người chủ ngay lập tức.
+Người nuôi chó sẽ phải đối mặt với việc nộp phạt nếu không mang theo ít nhất hai túi dọn phân khi dắt chó đi dạo, tờ <ENAMEX TYPE="ORGANIZATION">Express</ENAMEX> đưa tin.
+Theo đó, Trưởng phòng thị trấn ở <ENAMEX TYPE="LOCATION">thành phố Canterburry</ENAMEX> tại <ENAMEX TYPE="LOCATION">Anh</ENAMEX> đã ban hành một luật mới sau khi luật phạt những người không dọn phân cho chó của họ không có hiệu quả.
+Tuy vậy tổ chức cứu trợ động vật "<ENAMEX TYPE="ORGANIZATION">The Dog's Trust</ENAMEX>" cho rằng luật mới này gây ra nhiều mối lo ngại và "quá cứng nhắc".
+Người phát ngôn của hội đồng <ENAMEX TYPE="LOCATION">thành phố Leo Whitlock</ENAMEX> nói: "Các luật mới vẫn yêu cầu chủ chó phải dọn phân mà chó của họ thải ra trên phố và họ có trách nhiệm phải đóng phạt với số tiền phạt cố định là 80 Euro (tương đương với hơn 2 triệu) nếu họ không dọn".
+"Theo quy định mới của chúng tôi, những nhân viên thi hành luật sẽ yêu cầu chủ chó phải chứng minh được họ mang theo ít nhất hai túi dọn phân chó", ông nói.
+Nhưng chuyên viên chiến dịch <ENAMEX TYPE="PERSON">Lee Paris</ENAMEX> của tổ chức <ENAMEX TYPE="ORGANIZATION">Dogs Trust</ENAMEX> cho biết: "Chúng tôi rất lo ngại về việc phạt chủ chó nếu họ không mang theo ít nhất hai túi dọn phân trong người khi đang dắt chó đi dạo.
+Ai cũng muốn tận hưởng không gian công cộng không bị ô nhiễm bởi phân chó. Tuy nhiên luật mới này thì quá cứng nhắc và nó nhắm đến số đông trong khi chỉ một vài người vi phạm".
+Bên cạnh đó để giúp ngăn chặn phân chó gây ô nhiễm trên phố, theo tờ <ENAMEX TYPE="ORGANIZATION">Independent</ENAMEX>, những ai dắt cùng lúc hơn 4 con chó đi dạo sẽ đối mặt với việc nộp phạt 100 Euro (tương đương với 2,7 triệu đồng).
+Bất kì ai bị bắt gặp dắt một lúc hơn 4 con chó sẽ bị phạt 100 Euro theo luật mới được thi hành bởi hội đồng Gosport Borough ở <ENAMEX TYPE="LOCATION">thành phố Hampshire</ENAMEX>.
+Ngài <ENAMEX TYPE="PERSON">Graham Burgess</ENAMEX>, thành viên của hội đồng, cho rằng luật mới rất cần thiết cho việc ngăn chặn người dân lờ việc dọn phân chó ở nơi công cộng. Chủ sở hữu chó cũng cần chứng minh họ có mang theo túi nilon để dọn phân chó của mình.
+Luật trước đây cho phép chủ chó dắt sáu con cùng một lúc. Nhưng ngài <ENAMEX TYPE="PERSON">Burgess</ENAMEX> nói rằng đã "sửa đổi luật rất nhiều để đáp ứng được những lo lắng của chủ chó cũng như những người dắt chó đi dạo.
+Ông nói thêm: "Không gian công cộng là dành cho mọi người cùng tận hưởng và chúng tôi cần giải quyết những vấn đề đang tồn tại. Đó là lý do tại sao chúng tôi giảm số lượng chó một người được phép dắt từ sáu xuống còn bốn".
+Ông cũng nói thêm: "Mọi người sẽ phải mang theo túi để dọn phân khi dắt chó, và nhân viên hội đồng sẽ có quyền chỉ đạo họ đeo xích cho chó của mình.
+Các luật mới này được thực thi từ ngày 1 tháng 5 năm 2017. Nếu chủ chó đóng tiền phạt tại chỗ thì sẽ được giảm còn 50 Euro.
+

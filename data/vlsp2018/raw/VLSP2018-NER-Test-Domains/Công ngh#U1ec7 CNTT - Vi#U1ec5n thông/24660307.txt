@@ -1,0 +1,23 @@
+﻿Không cần cài thêm phần mềm, bạn vẫn có thể đặt mật khẩu mã hóa ổ đĩa USB, thẻ SD trên Windows 10
+Người dùng Windows 10 phiên bản Pro có thể sử dụng công cụ BitLocker tích hợp sẵn để mã hóa dữ liệu của họ. Bên cạnh ổ đĩa gắn ngoài và ổ đĩa USB, BitLocker cũng có thể mã hóa thẻ nhớ SD.
+Chức năng mã hóa BitLocker chỉ có mặt trên phiên bản Pro và các phiên cao hơn của Windows 10. Nếu bạn sử dụng Windows 10 phiên bản Home, bạn có thể sử dụng các công cụ bên thứ ba để mã hóa dữ liệu.
+Lưu ý: Thẻ nhớ SD phải được định dạng theo chuẩn định dạng file hệ thống là NTFS, FAT32, FAT16, hoặc exFAT để có thể sử dụng BitLocker.
+Bước 1: Mở This PC. Nhấp chuột phải lên thẻ nhớ SD bạn muốn mã hóa bằng BitLocker, và sau đó chọn tùy chọn Turn on BitLocker.
+Bước 2: Ở cửa sổ hiện ra, bạn đánh dấu kiểm vào hộp Use a password to unlock the drive.
+Nhập mật khẩu và xác nhận lại mật khẩu tại các ô tương ứng là Enter your password và Reenter your password. Lưu ý: Bạn nên sử dụng mật khẩu mạnh và chắc chắn bạn nhớ mật khẩu đã chọn trừ khi bạn dự định lưu lại mã khôi phục (recovery key) ở đâu đó trên PC hoặc bất kỳ vị trí nào khác.
+Nhấn nút Next để tiếp tục.
+Bước 3: Tại đây, bạn sẽ thấy tùy chọn cho phép lưu lại mã dự phòng. Trong trường hợp quên mật khẩu, bạn có thể sử dụng mã dự phòng để truy cập thẻ nhớ SD và dữ liệu trên nó. Chọn một trong các tùy chọn lưu mã dự phòng và sau đó làm theo các hướng dẫn trên màn hình để lưu lại mã.
+Nếu bạn chọn tùy chọn lưu mã dự phòng vào tài khoản <ENAMEX TYPE="ORGANIZATION">Microsoft</ENAMEX>, bạn cần nhập thông tin đăng nhập tài khoản <ENAMEX TYPE="ORGANIZATION">Microsoft</ENAMEX> bao gồm địa chỉ email và mật khẩu.
+Nhấn nút Next.
+Bước 4: Bây giờ, bạn sẽ cần phải chọn giữa hai tùy chọn:
+- Encrypt used disk space only (Chỉ mã hóa vùng không gian có chứa dữ liệu)
+- Encrypt entire drive (Mã hóa toàn bộ ổ đĩa)
+Chọn một tùy chọn và sau đó nhấn nút Next. Thông thường, chúng tôi chọn tùy chọn mã hóa toàn bộ ổ đĩa.
+Cuối cùng, bạn chọn tùy chọn Compatible mode và sau đó nhấn nút Next.
+Bước 6: Nhấn nút Start encrypting để bắt đầu mã hóa thẻ nhớ SD. Tùy vào dung lượng của ổ đĩa và kích thước của dữ liệu trên nó, khoảng thời gian mã hóa có thể mất tới vài giờ.
+Bạn sẽ nhận được thông báo khi quá trình mã hóa hoàn tất.
+Bước 1: Gắn thẻ nhớ SD vào khe đọc thẻ nhớ của máy tính và mở cửa sổ This PC. Nhấp chuột phải lên thẻ nhớ SD và sau đó chọn tùy chọn Manage BitLocker.
+Bước 2: Bạn sẽ thấy thẻ nhớ đã được mã hóa xuất hiện trong phần Removable data drives – BitLocker To Go. Bạn hãy chọn tùy chọn Turn off BitLocker kế bên nó.
+Bước 3: Khi thấy hộp thoại xác nhận, bạn nhấn nút Turn off BitLocker để bắt đầu gỡ mã hóa thẻ nhớ SD. Tương tự như khi mã hóa, quá trình gỡ mã hóa có thể diễn ra trong vài giờ.
+Bạn sẽ nhận được thông báo khi quá trình gỡ mã hóa kết thúc.
+

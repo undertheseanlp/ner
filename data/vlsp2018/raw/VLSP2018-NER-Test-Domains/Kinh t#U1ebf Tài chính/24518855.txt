@@ -1,0 +1,18 @@
+﻿Đối thủ lên ngôi, tỷ trọng vốn hóa Bitcoin xuống thấp chưa từng thấy
+Trong vài tháng qua, các tiền ảo khác đã vọt lên mạnh mẽ, vượt xa Bitcoin về mức tăng, khiến tỷ trọng vốn hóa của Bitcoin này nhanh chóng giảm xuống.
+Tính đến ngày 2/1, tỷ trọng vốn hóa của đồng Bitcoin trên thị trường tiền ảo chỉ còn dưới 36% - mức thấp chưa từng thấy, giảm mạnh từ mức gần 90% đầu năm 2017, theo dữ liệu từ CoinMarketCap.
+Kết quả này là sự trỗi dậy của các Altcoin - thuật ngữ chỉ các tiền ảo thay thế của Bitcoin. Năm 2017 chứng kiến sự ra đời của hàng loạt tiền ảo mới, và hiện có tới hơn 1.300 đồng đang lưu thông trên thị trường.
+Dù đồng Bitcoin có mức tăng giá hơn 1.300% trong năm 2017, trong vài tháng qua, các đồng Altcoin đã vọt lên mạnh mẽ, vượt xa Bitcoin về mức tăng, khiến tỷ trọng vốn hóa của tiền ảo này nhanh chóng giảm xuống.
+Tỷ trọng vốn hóa của Bitcoin trên thị trường tiền ảo xuống thấp chưa từng thấy. Nguồn: Coinmarketcap.com.
+Chỉ trong tuần trước, giá đồng Ripple, Stellar, và Cardano đều tăng hơn 80%, trong khi đó, Bitcoin lại giảm hơn 6%. Nhờ vậy, tổng vốn hóa thị trường tiền ảo tăng vọt lên trên 665 tỷ USD sau ngày 2/1.
+<ENAMEX TYPE="PERSON">John Spallanzani</ENAMEX>, nhà chiến lược vĩ mô trưởng tại <ENAMEX TYPE="ORGANIZATION">GFI Group</ENAMEX> nhận định rằng thị trường tiền ảo đang chứng kiến sự chuyển đổi từ đồng Bitcoin sang các tiền ảo khác.
+“Đây là động thái rất tốt, khi mà dòng tiền di chuyển về nơi mang lại giá trị tốt nhất”, <ENAMEX TYPE="PERSON">Ryan Taylor</ENAMEX> - CEO của <ENAMEX TYPE="ORGANIZATION">Dash</ENAMEX> - nhận định, đồng thời cho biết thị phần của Bitcoin sẽ còn tiếp tục giảm nữa khi nhiều tiền ảo khác nhập cuộc.
+“Đây cũng là điều khó tránh khỏi. Một chuỗi khối (blockchain) không thể giải quyết mọi nhu cầu của thị trường một cách tối ưu”, ông nói.
+Các đồng Altcoin tăng giá mạnh trong tuần qua. Nguồn: Coinmarketcap.com.
+Ví dụ đồng Ripple được thiết kế để cải thiện hoạt động chuyển tiền quốc tế, còn <ENAMEX TYPE="ORGANIZATION">Dask</ENAMEX> nhắm trở thành một phương tiện trao đổi thương mại tiện lợi. Theo <ENAMEX TYPE="PERSON">Taylor</ENAMEX>, đây chính là những yếu tố thu hút nhà đầu tư vào Altcoin.
+"Trong khi Bitcoin đang ngày được xem là một dạng ‘vàng kỹ thuật số’, các blockchain khác lại tập trung vào hợp đồng thông minh, theo dõi dữ liệu vận tải, phục vụ cho một ngành nhất định hoặc hỗ trợ thanh toán”, <ENAMEX TYPE="PERSON">Taylor</ENAMEX> nói.
+<ENAMEX TYPE="PERSON">David Sønstebø</ENAMEX>, nhà sáng lập của đồng IOTA, cho rằng “cơn khủng hoảng về mục đích sử dụng” của Bitcoin đang khiến các tiền ảo khác chiếm lĩnh thị phần. Các nhà môi giới trong cộng đồng Bitcoin đã tranh cãi với nhau nhiều về mục đích của đồng tiền này trong nhiều năm.
+Một số cho rằng Bitcoin phù hợp hơn với vai trò là công cụ lưu trữ giá trị - như “vàng kỹ thuật số”. Trong khi đó, một số lại khẳng định đồng tiền này nên được xem là phương thức thanh toán. Theo <ENAMEX TYPE="PERSON">Sønstebø</ENAMEX>, các nhà đầu tư sẽ quay sang những tiền ảo có mục đích sử dụng rõ ràng hơn.
+“Tôi tin rằng 2018 sẽ là năm thế giới tiền ảo sẽ chứng minh được các tiện ích của mình thay vì là một tài sản đầu cơ, đây là điều mà hiện Bitcoin chưa thể làm được”, <ENAMEX TYPE="PERSON">Sønstebø</ENAMEX> nói.
+Tuy nhiên, không phải tất cả đều coi vốn hóa là một chỉ số có ý nghĩa. Nhà phát triển Bitcoin <ENAMEX TYPE="PERSON">Jimmy Song</ENAMEX> cho biết dữ liệu vốn hóa trên là thiếu tin cậy và không phản ánh chính xác về những điều đang diễn ra trên thị trường tiền ảo.
+

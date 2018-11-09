@@ -1,0 +1,25 @@
+﻿Vì sao bạn đừng dại dột mua laptop giá siêu rẻ?
+Câu nói 'tiền nào của đó' quả không sai. Đúng là bạn sẽ tiết kiệm một chút tiền, nhưng cái giá phải trả khi mua những chiếc laptop Windows giá rẻ còn lâu dài và nhiều hơn thế.
+Những chiếc laptop Windows giá rẻ chỉ vài triệu là cơ hội giúp nhiều người dù không có điều kiện kinh tế vẫn có được một chiếc laptop để sử dụng, tuy nhiên phải nói thật là: chúng không tốt như nhiều người nghĩ. Nếu hoàn toàn đủ khả năng, hãy cố gắng chi thêm tiền cho các mẫu tầm trung từ 10 triệu trở lên, không thì chọn Chromebook chứ đừng mua laptop Windows giá rẻ, theo phân tích của trang công nghệ <ENAMEX TYPE="ORGANIZATION">HowToGeek</ENAMEX>.
+Những mẫu laptop Windows giá rẻ có rất nhiều vấn đề, một trong số đó bao gồm:
+- Một cái touchpad siêu tệ khiến trải nghiệm sử dụng của bạn không thể thoải mái. Trừ khi mua chuột gắn ngoài, bạn sẽ không thể dùng touchpad mà không buông miệng chửi thề vài lần mỗi ngày.
+- Cũng không nên trông mong nhiều vào bàn phím. Laptop giá rẻ thường có kích thước màn hình nhỏ nên khu vực chứa bàn phím không rộng, kích thước phím nhỏ hơn tiêu chuẩn nên sẽ gây khó khăn khi gõ.
+- Màn hình cũng kém không khác gì touchpad hay bàn phím, màu sắc nhợt nhạt, góc nhìn khủng khiếp và bạn phải ngồi ở một "góc chết" để nhìn rõ hình ảnh từ màn hình. Độ phân giải thấp cũng là điểm yếu, nhưng không đáng để nói nhiều.
+- Tiếp theo là chất lượng gia công. Các nhà sản xuất thường cắt giảm vài thứ để tiết kiệm chi phí. Hầu hết laptop giá rẻ làm bằng nhựa, rất dễ bị cong khi tác dụng lực mạnh lên nó. Bản lề rẻ tiền có thể không còn nguyên vẹn sau 1 hoặc 2 năm.
+- Phần cứng bên trong cũng là điều đáng nói. Tốc độ CPU chậm chạp khi phải xử lý một hệ điều hành hiện đại như Windows 10, RAM chỉ 2GB và sức mạnh đồ họa cũng không thể mong đợi gì nhiều. Hãy cẩn thận khi muốn mở tử 3 tab trình duyệt trở lên.
+- Một số mẫu laptop rẻ dùng bộ nhớ eMMC, cũng là dạng ổ cứng thể rắn như SSD nhưng tốc độ thì rất, rất chậm so với SSD. Dung lượng của nó cũng không nhiều, thường là 32GB. Chỉ tính Windows 10 cũng chiếm khoảng 20GB rồi, bạn chỉ dư khoảng 10GB để cài phần mềm và lưu dữ liệu. Tuy vậy chúng thường có cổng USB hoặc khe thẻ nhớ nên bạn không phải lo lắng về chuyện thiếu dung lượng.
+- Một số mẫu laptop khác dùng ổ cứng cơ HDD, tốc độ khá chậm so với SSD. Nếu có điều kiện, hãy nâng cấp lên SSD để cải thiện tốc độ hoạt động lên đôi chút.
+- Một vấn đề khác nữa nằm ở webcam. Hy vọng bạn sẽ không dùng nhiều đến nó bởi chất lượng rất tệ, kể cả loa ngoài cũng không hay ho gì cho lắm.
+- Đó chỉ là phần cứng. Về phần mềm, mức giá rẻ thường đi kèm với bloatware, dữ liệu "rác" được nhà sản xuất cài sẵn. Bạn sẽ phải mất thời gian để dọn dẹp chúng trước khi sử dụng thoải mái, hoặc mất thời gian để chờ đợi mọi phần mềm khởi động lên hết rồi mới sử dụng.
+Cuối cùng, sẽ có lúc bạn thấy thất vọng, hối hận vì đã mua chiếc laptop vài triệu ấy và nghĩ rằng "sao mình không để dành thêm một chút để mua laptop tốt hơn nhỉ".
+Bạn có thể tránh những vấn đề trên bằng việc chi thêm đôi chút. Một chiếc laptop từ 10 triệu trở lên chắc chắn sẽ tốt hơn rất nhiều so với những mẫu máy giá 5-6 triệu.
+Với cái giá trên 10 triệu, bạn sẽ có touchpad tốt hơn, bàn phím đã hơn, màn hình đẹp hơn, phần cứng và chất lượng gia công có thể dùng từ 2 đến 3 năm. Mọi thứ đều tốt hơn, và bạn có thể yên tâm sử dụng nó lâu dài (chắc chắn là dài hơn những chiếc laptop giá vài triệu).
+Trước khi đi mua, nên ngồi ở nhà tham khảo, đọc bài đánh giá từ các trang báo uy tín và người dùng để chọn cho mình một chiếc máy tốt nhất, tránh bị "hoang mang" khi đến cửa hàng với hàng tá mẫu bày bán trước mặt.
+Tất nhiên, không phải ai cũng có điều kiện chi thêm tiền cho một chiếc laptop tốt hơn. Nếu không thể sắm những mẫu laptop Windows từ 10 hay 15 triệu trở lên, hãy cân nhắc việc dùng một nền tảng khác hoặc lựa chọn khác thay vì Windows hay laptop.
+Nếu đã quen dùng hoặc các phần mềm thiết yếu chỉ chạy được trên Windows, và hầu hết thời gian dùng máy tính là ở nhà thì hãy cân nhắc một chiếc máy để bàn (desktop). Thường thì máy bàn với cùng cấu hình có giá rẻ hơn laptop, việc nâng cấp hoặc thay thế linh kiện cũng dễ dàng hơn.
+Nếu cần laptop vì hay di chuyển nhiều nhưng lại không bắt buộc phải dùng Windows, hãy cân nhắc đến một chiếc Chromebook. Chrome OS không đòi hỏi cấu hình quá mạnh như Windows, vậy nên bạn hoàn toàn có thể có một chiếc laptop rẻ nhưng tổng thể vẫn tốt hơn laptop Windows cùng phân khúc.
+Đương nhiên, Chromebook giá rẻ vẫn không thể cho chất lượng gia công hay phần cứng tốt như các Chromebook đắt tiền, nhưng khả năng duyệt web và chạy các ứng dụng Android vẫn giúp chúng là công cụ đắc lực cho các tác vụ văn phòng, giải trí cơ bản.
+Hãy cân nhắc kỹ và có những lựa chọn sáng suốt cho mình để có một chiếc laptop sử dụng lâu dài.
+http://vnreview.vn/tu-van-may-tinh/-/view_content/content/2392304/vi-sao-ban-dung-dai-dot-mua-laptop-gia-sieu-re
+<ENAMEX TYPE="PERSON">Phúc Thịnh</ENAMEX>
+
