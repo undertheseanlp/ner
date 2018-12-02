@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/version-1.1.6-blue.svg) ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/F1-88.6%25-red.svg)
 
-[[English](README.md)] [[Vietnamese](README.vi.md)]
+[[English](README.en.md)] [[Vietnamese](README.vi.md)]
 
 Trang này chứa các thí nghiệm với bài toán nhận dạng thực thể tên riêng tiếng Việt. Đây là một phần của dự án [underthesea](https://github.com/magizbox/underthesea)
 

@@ -1,48 +1,53 @@
-# Vietnamese Named Entity Recognition ![](https://img.shields.io/badge/F1-88.6%25-red.svg)
+# Nhận dạng thực thể tên riêng tiếng Việt
 
-[[English](README.md)] [[Vietnamese](README.vi.md)]
+![](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)
+![](https://img.shields.io/badge/opensource-vietnamese-blue.svg)
+![](https://img.shields.io/badge/build-passing-green.svg)
 
-This repository contains starter code for training and evaluating machine learning models in *Vietnamese Named Entity Recognition* problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project. The code gives an end-to-end working example for reading datasets, training machine learning models, and evaluating performance of the models. It can easily be extended to train your own custom-defined models. 
+Dự án nghiên cứu về bài toán *nhận dạng thực thể tên riêng tiếng Việt*, được phát triển bởi nhóm nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt - [underthesea](https://github.com/undertheseanlp). Chứa mã nguồn các thử nghiệm cho việc xử lý dữ liệu, huấn luyện và đánh giá mô hình, cũng như cho phép dễ dàng tùy chỉnh mô hình đối với những tập dữ liệu mới.
 
-## Table of contents
+**Nhóm tác giả** 
 
-* [1. Installation](#1-installation)
-  * [1.1 Requirements](#11-requirements)
-  * [1.2 Download and Setup Environment](#12-download-and-setup-environment)
-* [2. Usage](#2-usage)
-  * [2.1 Using a pretrained model](#21-using-a-pretrained-model)
-  * [2.2 Train a new dataset](#22-train-a-new-dataset)
-  * [2.3 Sharing a model](#23-sharing-a-model)
-* [3. References](#3-references)
+* Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
+* Bùi Nhật Anh ([buinhatanh1208@gmail.com](buinhatanh1208@gmail.com))
+* Mai Duy Khánh ([khanh.md01@gmail.com](khanh.md01@gmail.com))
 
-## 1. Installation
+**Tham gia đóng góp**
 
-### 1.1 Requirements
+ Mọi ý kiến đóng góp hoặc yêu cầu trợ giúp xin gửi vào mục [Issues](../../issues) của dự án. Các thảo luận được khuyến khích **sử dụng tiếng Việt** để dễ dàng trong quá trình trao đổi. 
+ 
+Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm phát triển với vai trò là [Developer](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor), xin hãy đọc kỹ [Hướng dẫn tham gia đóng góp](https://github.com/undertheseanlp/underthesea/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-%C4%91%C3%B3ng-g%C3%B3p#developercontributor).
 
-This code is writen in python. The dependencies are:
+## Mục lục
 
-* `Operating Systems: Linux (Ubuntu, CentOS), Mac`
-* `Python 3.6`
-* `Anaconda`
+* [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
+* [Thiết lập môi trường](#thiết-lập-môi-trường)
+* [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
+  * [Sử dụng mô hình đã huấn luyện](#sử-dụng-mô-hình-đã-huấn-luyện)
+  * [Huấn luyện mô hình](#huấn-luyện-mô-hình) 
+* [Kết quả thử nghiệm](#kết-quả-thử-nghiệm)
+* [Trích dẫn](#trích-dẫn)
+* [Bản quyền](#bản-quyền)
 
-Python Packages
+## Yêu cầu hệ thống 
 
-* `underthesea==1.1.7`
-* `languageflow==1.1.7`
+* `Hệ điều hành: Linux (Ubuntu, CentOS), Mac`
+* `Python 3.6+`
+* `conda 4+`
 
-### 1.2 Download and Setup Environment
+## Thiết lập môi trường
 
-Clone project using git
+Tải project bằng cách sử dụng lệnh `git clone`
 
 ```
-$ git clone https://github.com/undertheseanlp/ner.git
+$ git clone https://github.com/undertheseanlp/classification.git
 ```
 
-Create environment and install requirements
+Tạo môi trường mới và cài đặt các gói liên quan
 
 ```
-$ cd ner
-$ conda create -n uts.ner python=3.5
+$ cd classification
+$ conda create -n classification python=3.6
 $ pip install -r requirements.txt
 ```
 
@@ -77,5 +82,3 @@ To be updated
 ## 3. References
 
 To be updated
-
-Last update: 07/2018
