@@ -178,8 +178,8 @@ class BiLSTM_CRF(nn.Module):
 
 START_TAG = "<START>"
 STOP_TAG = "<STOP>"
-EMBEDDING_DIM = 5
-HIDDEN_DIM = 4
+EMBEDDING_DIM = 100
+HIDDEN_DIM = 50
 
 
 word_to_ix = {}
