@@ -3,6 +3,7 @@ import torch.autograd as autograd
 import torch.nn as nn
 import torch.optim as optim
 from load_data import training_data
+import datetime
 
 def argmax(vec):
     # return the argmax as a python int
@@ -25,8 +26,9 @@ def log_sum_exp(vec):
 
 class BiLSTM_CRF(nn.Module):
 
-    def __init__(self, vocab_size, tag_to_ix, embedding_dim, hidden_dim):
+    def __init__(self, vocab_size, tag_to_ix, embedding_dim, hidden_dim, gpu=False):
         super(BiLSTM_CRF, self).__init__()
+        self.gpu = gpu
         self.embedding_dim = embedding_dim
         self.hidden_dim = hidden_dim
         self.vocab_size = vocab_size
@@ -44,7 +46,6 @@ class BiLSTM_CRF(nn.Module):
         # transitioning *to* i *from* j.
         self.transitions = nn.Parameter(
             torch.randn(self.tagset_size, self.tagset_size))
-
         # These two statements enforce the constraint that we never transfer
         # to the start tag and we never transfer from the stop tag
         self.transitions.data[tag_to_ix[START_TAG], :] = -10000
@@ -53,8 +54,12 @@ class BiLSTM_CRF(nn.Module):
         self.hidden = self.init_hidden()
 
     def init_hidden(self):
-        return (torch.randn(2, 1, self.hidden_dim // 2),
-                torch.randn(2, 1, self.hidden_dim // 2))
+        h0 = torch.randn(2, 1, self.hidden_dim // 2)
+        h1 = torch.randn(2, 1, self.hidden_dim // 2)
+        if self.gpu:
+            h0 = h0.cuda()
+            h1 = h1.cuda()
+        return (h0, h1)
 
     def _forward_alg(self, feats):
         # Do the forward algorithm to compute the partition function
@@ -64,7 +69,8 @@ class BiLSTM_CRF(nn.Module):
 
         # Wrap in a variable so that we will get automatic backprop
         forward_var = init_alphas
-
+        if self.gpu:
+            forward_var = forward_var.cuda()
         # Iterate through the sentence
         for feat in feats:
             alphas_t = []  # The forward tensors at this timestep
@@ -88,6 +94,8 @@ class BiLSTM_CRF(nn.Module):
         return alpha
 
     def _get_lstm_features(self, sentence):
+        if self.gpu:
+            sentence = sentence.cuda()
         self.hidden = self.init_hidden()
         embeds = self.word_embeds(sentence).view(len(sentence), 1, -1)
         lstm_out, self.hidden = self.lstm(embeds, self.hidden)
@@ -98,6 +106,8 @@ class BiLSTM_CRF(nn.Module):
     def _score_sentence(self, feats, tags):
         # Gives the score of a provided tag sequence
         score = torch.zeros(1)
+        if self.gpu:
+            score = score.cuda()
         tags = torch.cat([torch.tensor([self.tag_to_ix[START_TAG]], dtype=torch.long), tags])
         for i, feat in enumerate(feats):
             score = score + \
@@ -114,6 +124,8 @@ class BiLSTM_CRF(nn.Module):
 
         # forward_var at step i holds the viterbi variables for step i-1
         forward_var = init_vvars
+        if self.gpu:
+            forward_var = forward_var.cuda()
         for feat in feats:
             bptrs_t = []  # holds the backpointers for this step
             viterbivars_t = []  # holds the viterbi variables for this step
@@ -190,8 +202,10 @@ tag_to_ix = {
     STOP_TAG: 5
 }
 
-model = BiLSTM_CRF(len(word_to_ix), tag_to_ix, EMBEDDING_DIM, HIDDEN_DIM)
-model.cuda()
+gpu = True
+model = BiLSTM_CRF(len(word_to_ix), tag_to_ix, EMBEDDING_DIM, HIDDEN_DIM, gpu)
+if gpu:
+    model.cuda()
 optimizer = optim.SGD(model.parameters(), lr=0.01, weight_decay=1e-4)
 
 # Check predictions before training
@@ -201,8 +215,10 @@ with torch.no_grad():
     print(model(precheck_sent))
 
 # Make sure prepare_sequence from earlier in the LSTM section is loaded
-for epoch in range(
-        300):  # again, normally you would NOT do 300 epochs, it is toy data
+for epoch in range(300):  # again, normally you would NOT do 300 epochs, it is toy data
+    print(datetime.datetime.now())
+    print(epoch)
+    import datetime
     for sentence, tags in training_data:
         # Step 1. Remember that Pytorch accumulates gradients.
         # We need to clear them out before each instance
