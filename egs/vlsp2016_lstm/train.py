@@ -236,7 +236,7 @@ with torch.no_grad():
     print(model(precheck_sent))
 
 # Make sure prepare_sequence from earlier in the LSTM section is loaded
-for epoch in range(2):  # again, normally you would NOT do 300 epochs, it is toy data
+for epoch in range(50):  # again, normally you would NOT do 300 epochs, it is toy data
     print(epoch)
     import datetime
     for sentence, tags in training_data:
