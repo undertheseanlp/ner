@@ -90,12 +90,12 @@ Dữ liệu VLSP 2016 (không dùng nhãn gold POS, Chunk)
   <tr>
     <th>Mô hình</th>
     <th>F1 (%)</th>
-    <th>Thời gian (train)</th>
+    <th>Thời gian train (giờ)</th>
   </tr>
   <tr>
      <td>BiLSTM-CRF (20 epoch)</td>
      <td><b>66.39</b></td>
-     <td>208 phút</td>
+     <td>3.46</td>
   </tr>
 </table>
 
