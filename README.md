@@ -81,3 +81,21 @@ To be updated
 ## 3. References
 
 To be updated
+
+## Kết quả thử nghiệm
+
+Dữ liệu VLSP 2016 (không dùng nhãn gold POS, Ch)unk
+
+<table>
+  <tr>
+    <th>Mô hình</th>
+    <th>F1 (%)</th>
+    <th>Thời gian (train)</th>
+  </tr>
+  <tr>
+     <td>BiLSTM-CRF (20 epoch)</td>
+     <td><b>66.39</b></td>
+     <td>208 phút</td>
+  </tr>
+</table>
+
