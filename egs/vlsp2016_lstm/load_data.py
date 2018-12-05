@@ -5,7 +5,11 @@ def extract_tags(line):
     return tokens, tags
 
 f = open("data/train.txt")
-lines = f.read().split("\n\n")[:1000]
+lines = f.read().split("\n\n")[:200]
 lines = [line.split("\n") for line in lines]
 training_data = [extract_tags(line) for line in lines]
-print(0)
+
+f = open("data/test.txt")
+lines = f.read().split("\n\n")[:3]
+lines = [line.split("\n") for line in lines]
+test_data = [extract_tags(line) for line in lines]
