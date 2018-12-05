@@ -84,7 +84,7 @@ To be updated
 
 ## Kết quả thử nghiệm
 
-Dữ liệu VLSP 2016 (không dùng nhãn gold POS, Ch)unk
+Dữ liệu VLSP 2016 (không dùng nhãn gold POS, Chunk)
 
 <table>
   <tr>
