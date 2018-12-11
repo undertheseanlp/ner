@@ -6,10 +6,10 @@ def extract_tags(line):
 
 f = open("data/train.txt")
 lines = f.read().split("\n\n")
-lines = [line.split("\n") for line in lines][:10]
+lines = [line.split("\n") for line in lines]
 training_data = [extract_tags(line) for line in lines]
 
 f = open("data/test.txt")
 lines = f.read().split("\n\n")
-lines = [line.split("\n") for line in lines][:3]
+lines = [line.split("\n") for line in lines]
 test_data = [extract_tags(line) for line in lines]

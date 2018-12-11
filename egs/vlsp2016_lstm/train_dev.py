@@ -4,6 +4,9 @@ import torch
 import torch.autograd as autograd
 import torch.nn as nn
 import torch.optim as optim
+from torch.utils.data import DataLoader
+
+from dataset import VLSP2016Dataset
 from load_data import training_data, test_data
 import datetime
 
@@ -229,50 +232,21 @@ if gpu:
     model.cuda()
 optimizer = optim.SGD(model.parameters(), lr=0.01, weight_decay=1e-4)
 
-# Check predictions before training
-with torch.no_grad():
-    precheck_sent = prepare_sequence(training_data[0][0], word_to_ix)
-    precheck_tags = torch.tensor([tag_to_ix[t] for t in training_data[0][1]], dtype=torch.long)
-    print(model(precheck_sent))
-
+# # Check predictions before training
+# with torch.no_grad():
+#     precheck_sent = prepare_sequence(training_data[0][0], word_to_ix)
+#     precheck_tags = torch.tensor([tag_to_ix[t] for t in training_data[0][1]], dtype=torch.long)
+#     print(model(precheck_sent))
+training_set = VLSP2016Dataset("data/train.txt")
+training_generator = DataLoader(training_set, batch_size=4, shuffle=True, num_workers=4)
 # Make sure prepare_sequence from earlier in the LSTM section is loaded
 for epoch in range(2):  # again, normally you would NOT do 300 epochs, it is toy data
-    print(epoch)
-    import datetime
-    for sentence, tags in training_data:
-        # Step 1. Remember that Pytorch accumulates gradients.
-        # We need to clear them out before each instance
+    for local_batch, local_labels in training_generator:
         model.zero_grad()
-
-        # Step 2. Get our inputs ready for the network, that is,
-        # turn them into Tensors of word indices.
-        sentence_in = prepare_sequence(sentence, word_to_ix)
-        targets = torch.tensor([tag_to_ix[t] for t in tags], dtype=torch.long)
-
-        # Step 3. Run our forward pass.
-        loss = model.neg_log_likelihood(sentence_in, targets)
+        loss = model.neg_log_likelihood(local_batch, local_labels)
 
         # Step 4. Compute the loss, gradients, and update the parameters by
         # calling optimizer.step()
         loss.backward()
         optimizer.step()
-    print(datetime.datetime.now(), loss.item())
-
-# Check predictions after training
-indexer = Indexer(tag_to_ix)
-RESULT_FILEPATH = "tmp/result.txt"
-import os
-if exists(RESULT_FILEPATH):
-    os.remove(RESULT_FILEPATH)
-result_file = open(RESULT_FILEPATH, "a")
-with torch.no_grad():
-    for x_test, y_test in test_data:
-        precheck_sent = prepare_sequence(x_test, word_to_ix)
-        _, result = model(precheck_sent)
-        y_pred = indexer.inverse_transform(result)
-        content = "\n".join(["\t".join(item) for item in zip(x_test, y_test, y_pred)])
-        content = content + "\n\n"
-        result_file.write(content)
-
-import os
-os.system("cat tmp/result.txt | python conlleval_perl.py")
+        print(datetime.datetime.now(), loss.item())
