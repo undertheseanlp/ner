@@ -9,7 +9,7 @@ columns = {0: 'text', 1: 'pos', 2: 'chunk', 3: 'ner'}
 corpus: TaggedCorpus = NLPTaskDataFetcher.fetch_column_corpus("data", columns,
                                                               train_file="train.txt",
                                                               test_file="test.txt",
-                                                              dev_file="dev.txt").downsample(0.01)
+                                                              dev_file="dev.txt")
 print(corpus)
 
 # 2. what tag do we want to predict?
