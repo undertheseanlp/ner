@@ -24,27 +24,22 @@ class VLSP2016Dataset(data.Dataset):
         lines = f.read().split("\n\n")
         lines = lines[:10]
         token_indexer = Indexer()
+        label_indexer = Indexer()
+        self.data = []
         for sentence in lines:
             items = sentence.split("\n")
             tokens = [item.split("\t")[0] for item in items]
             tokens = token_indexer.fit_transfrom(tokens)
-            label = [item.split("\t")[-1] for item in items]
-            print(0)
-        if w2i is None:
-            self.w2i = {}
+            labels = [item.split("\t")[-1] for item in items]
+            labels = label_indexer.fit_transfrom(labels)
+            self.data.append((tokens, labels))
 
     def __getitem__(self, index):
-        sentence = self.lines[index]
-        items = sentence.split("\n")
-        tokens = []
-        labels = []
-        for item in items:
-            tokens.append(item.split("\t")[0])
-            labels.append(item.split("\t")[-1])
+        tokens, labels = self.data[index]
         return tokens, labels
 
     def __len__(self):
-        return len(self.lines)
+        return len(self.data)
 
 
 if __name__ == '__main__':

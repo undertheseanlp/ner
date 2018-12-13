@@ -226,7 +226,7 @@ class Indexer:
         return [self.ix_to_tag[index] for index in indices]
 
 
-gpu = True
+gpu = False
 model = BiLSTM_CRF(len(word_to_ix), tag_to_ix, EMBEDDING_DIM, HIDDEN_DIM, gpu)
 if gpu:
     model.cuda()
