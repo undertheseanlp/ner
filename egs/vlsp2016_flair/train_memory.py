@@ -5,7 +5,7 @@ from typing import List
 import torch
 
 # 1. get the corpus
-columns = {0: 'text', 1: 'pos', 2: 'chunk', 3: 'ner'}
+columns = {0: 'text', 1: 'ner'}
 corpus: TaggedCorpus = NLPTaskDataFetcher.fetch_column_corpus("data", columns,
                                                               train_file="train.txt",
                                                               test_file="test.txt",
@@ -51,7 +51,7 @@ trainer: SequenceTaggerTrainer = SequenceTaggerTrainer(tagger, corpus)
 # 7. start training
 trainer.train('resources/taggers/example-ner',
               learning_rate=0.1,
-              mini_batch_size=32,
+              mini_batch_size=128,
               max_epochs=150)
 
 # 8. plot training curves (optional)
