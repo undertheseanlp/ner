@@ -6,7 +6,7 @@ import torch
 
 # 1. get the corpus
 columns = {0: 'text', 1: 'ner'}
-corpus: TaggedCorpus = NLPTaskDataFetcher.fetch_column_corpus("data", columns,
+corpus: TaggedCorpus = NLPTaskDataFetcher.fetch_column_corpus("data1", columns,
                                                               train_file="train.txt",
                                                               test_file="test.txt",
                                                               dev_file="dev.txt")
