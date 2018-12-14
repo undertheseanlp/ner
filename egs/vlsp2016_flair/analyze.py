@@ -3,9 +3,20 @@ def convert_sentence(sentence):
     words_ = []
     for word in words:
         tokens = word.split("\t")
-        tokens = [tokens[0], tokens[3]]
-        word = "\t".join(tokens)
-        words_.append(word)
+        syllables, tag = tokens[0].split(), tokens[3]
+        if not tag.startswith("B-"):
+            for syllable in syllables:
+                word = " ".join([syllable, tag])
+                words_.append(word)
+        else:
+            for i, syllable in enumerate(syllables):
+                if i == 0:
+                    word = " ".join([syllable, tag])
+                    words_.append(word)
+                else:
+                    tag = tag.replace("B-", "I-")
+                    word = " ".join([syllable, tag])
+                    words_.append(word)
     sentence_ = "\n".join(words_)
     return sentence_
 
