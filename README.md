@@ -84,7 +84,7 @@ To be updated
 
 ## Kết quả thử nghiệm
 
-Dữ liệu VLSP 2016 (không dùng nhãn gold POS, Chunk)
+Dữ liệu VLSP 2016: mức từ (không dùng nhãn gold POS, Chunk)
 
 <table>
   <tr>
@@ -96,6 +96,21 @@ Dữ liệu VLSP 2016 (không dùng nhãn gold POS, Chunk)
      <td>BiLSTM-CRF (20 epoch)</td>
      <td><b>66.39</b></td>
      <td>3.46</td>
+  </tr>
+</table>
+
+Dữ liệu VLSP 2016: mức syllable
+
+<table>
+  <tr>
+    <th>Mô hình</th>
+    <th>F1 (%)</th>
+    <th>Thời gian train (giờ)</th>
+  </tr>
+  <tr>
+     <td>flair (Character Embeddings, learning_rate=0.1, mini_batch_size=16)</td>
+     <td><b>67.45</b></td>
+     <td>5 giờ 34 phút</td>
   </tr>
 </table>
 

@@ -50,7 +50,7 @@ trainer: SequenceTaggerTrainer = SequenceTaggerTrainer(tagger, corpus)
 # 7. start training
 trainer.train('resources/taggers/example-ner',
               learning_rate=0.1,
-              mini_batch_size=128,
+              mini_batch_size=8,
               max_epochs=150)
 
 # 8. plot training curves (optional)
