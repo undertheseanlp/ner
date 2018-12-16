@@ -90,12 +90,12 @@ Dữ liệu VLSP 2016: mức từ (không dùng nhãn gold POS, Chunk)
   <tr>
     <th>Mô hình</th>
     <th>F1 (%)</th>
-    <th>Thời gian train (giờ)</th>
+    <th>Thời gian train</th>
   </tr>
   <tr>
      <td>BiLSTM-CRF (20 epoch)</td>
      <td><b>66.39</b></td>
-     <td>3.46</td>
+     <td>3.46 giờ</td>
   </tr>
 </table>
 
@@ -105,11 +105,21 @@ Dữ liệu VLSP 2016: mức syllable
   <tr>
     <th>Mô hình</th>
     <th>F1 (%)</th>
-    <th>Thời gian train (giờ)</th>
+    <th>Thời gian train</th>
+  </tr>
+   <tr>
+     <td>flair (WordEmbedding(word_dim=300), learning_rate=0.1, mini_batch_size=8)</td>
+     <td><b>84.37</b></td>
+     <td>2 giờ 15 phút</td>
+  </tr>
+   <tr>
+     <td>flair (WordEmbedding(word_dim=100), learning_rate=0.1, mini_batch_size=8)</td>
+     <td>82.30</td>
+     <td>3 giờ 13 phút</td>
   </tr>
   <tr>
      <td>flair (Character Embeddings, learning_rate=0.1, mini_batch_size=16)</td>
-     <td><b>67.45</b></td>
+     <td>67.45</td>
      <td>5 giờ 34 phút</td>
   </tr>
 </table>

@@ -36,7 +36,7 @@ embeddings = CharacterEmbeddings()
 # 5. initialize sequence tagger
 from flair.models import SequenceTagger
 
-tagger: SequenceTagger = SequenceTagger(hidden_size=256,
+tagger: SequenceTagger = SequenceTagger(hidden_size=512,
                                         embeddings=embeddings,
                                         tag_dictionary=tag_dictionary,
                                         tag_type=tag_type,
