@@ -107,9 +107,14 @@ Dữ liệu VLSP 2016: mức syllable
     <th>F1 (%)</th>
     <th>Thời gian train</th>
   </tr>
-   <tr>
+  <tr>
      <td>flair (WordEmbedding(word_dim=300) + CharacterEmbedding, SequenceTagger(<code>hidden_size=1024</code>), learning_rate=0.1, mini_batch_size=8)</td>
      <td><b>86.68</b></td>
+     <td></td>
+  </tr>
+   <tr>
+     <td>flair (WordEmbedding(word_dim=300,<code>corpus=19GB</code>) + CharacterEmbedding, SequenceTagger(hidden_size=1024), learning_rate=0.1, mini_batch_size=8)</td>
+     <td>86.46</td>
      <td></td>
   </tr>
    <tr>

@@ -3,7 +3,6 @@ from flair.data_fetcher import NLPTaskDataFetcher, NLPTask
 from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings, MemoryEmbeddings, CharacterEmbeddings
 from typing import List
 import torch
-import matplotlib.pyplot as plt
 
 # 1. get the corpus
 columns = {0: 'text', 1: 'ner'}
