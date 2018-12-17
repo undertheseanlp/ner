@@ -1172,13 +1172,5 @@ Epoch    70: reducing learning rate of group 0 to 7.8125e-04.
 2018-12-16 22:25:55,892 MISC: f-score 0.8791 - acc 0.8791 - tp 40 - fp 2 - fn 9 - tn 40
 2018-12-16 22:25:55,892 ORG : f-score 0.6039 - acc 0.6039 - tp 141 - fp 52 - fn 133 - tn 141
 2018-12-16 22:25:55,892 PER : f-score 0.8552 - acc 0.8552 - tp 1051 - fp 113 - fn 243 - tn 1051
-Traceback (most recent call last):
-  File "/home/anhv/PycharmProjects/undertheseanlp/ner/egs/vlsp2016_flair/train_wordvector.py", line 59, in <module>
-    plotter.plot_training_curves('resources/taggers1/example-ner/loss.tsv')
-  File "/home/anhv/anaconda3/envs/ner/lib/python3.6/site-packages/flair/visual/training_curves.py", line 139, in plot_training_curves
-    training_curves = self._extract_evaluation_data(file_name)
-  File "/home/anhv/anaconda3/envs/ner/lib/python3.6/site-packages/flair/visual/training_curves.py", line 59, in _extract_evaluation_data
-    with open(file_name, 'r') as tsvin:
-FileNotFoundError: [Errno 2] No such file or directory: 'resources/taggers1/example-ner/loss.tsv'
 
 Process finished with exit code 1

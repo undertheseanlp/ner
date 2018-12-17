@@ -23,7 +23,7 @@ print(tag_dictionary.idx2item)
 # 4. initialize embeddings
 embedding_types: List[TokenEmbeddings] = [
     CharacterEmbeddings(),
-    WordEmbeddings("tmp/text10M.size300.bin")
+    WordEmbeddings("tmp/text19G.size300.bin")
 
 ]
 
@@ -32,7 +32,7 @@ embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
 # 5. initialize sequence tagger
 from flair.models import SequenceTagger
 
-tagger: SequenceTagger = SequenceTagger(hidden_size=512,
+tagger: SequenceTagger = SequenceTagger(hidden_size=1024,
                                         embeddings=embeddings,
                                         tag_dictionary=tag_dictionary,
                                         tag_type=tag_type,
@@ -56,4 +56,3 @@ from flair.visual.training_curves import Plotter
 plotter = Plotter()
 plotter.plot_training_curves(f'{model_path}/loss.tsv')
 plotter.plot_weights(f'{model_path}/weights.txt')
-plt.show()
