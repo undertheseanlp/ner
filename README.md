@@ -118,7 +118,7 @@ Dữ liệu VLSP 2016: mức syllable
      <td></td>
   </tr>
    <tr>
-     <td>flair (WordEmbedding(<u>word_dim=300</u>), learning_rate=0.1, mini_batch_size=8)</td>
+     <td>flair (WordEmbedding(<code>word_dim=300</code>), learning_rate=0.1, mini_batch_size=8)</td>
      <td>84.37</td>
      <td>2 giờ 15 phút</td>
   </tr>
