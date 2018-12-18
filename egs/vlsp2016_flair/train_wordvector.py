@@ -32,7 +32,7 @@ embedding_types: List[TokenEmbeddings] = [
     # CharLMEmbeddings('news-backward'),
 ]
 
-embeddings = WordEmbeddings("glove.txt")
+embeddings = WordEmbeddings("glove.bin")
 # 5. initialize sequence tagger
 from flair.models import SequenceTagger
 

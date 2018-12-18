@@ -155,6 +155,7 @@ fabric.properties
 ~$*.ppt*
 
 *.bin
+!egs/vlsp2016_flair/glove.bin
 
 tmp/*
 !tmp/.gitkeep
