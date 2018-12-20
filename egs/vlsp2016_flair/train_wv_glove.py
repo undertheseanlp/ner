@@ -21,13 +21,18 @@ print(tag_dictionary.idx2item)
 
 # 4. initialize embeddings
 embedding_types: List[TokenEmbeddings] = [
-    CharacterEmbeddings(),
-    WordEmbeddings("tmp/glove.1.8G.bin")
 
+    # WordEmbeddings('glove'),
+
+    # comment in this line to use character embeddings
+    # CharacterEmbeddings(),
+
+    # comment in these lines to use contextual string embeddings
+    # CharLMEmbeddings('news-forward'),
+    # CharLMEmbeddings('news-backward'),
 ]
 
-embeddings: StackedEmbeddings = StackedEmbeddings(embeddings=embedding_types)
-
+embeddings = WordEmbeddings("tmp/glove.bin")
 # 5. initialize sequence tagger
 from flair.models import SequenceTagger
 
@@ -43,15 +48,13 @@ from flair.trainers import SequenceTaggerTrainer
 trainer: SequenceTaggerTrainer = SequenceTaggerTrainer(tagger, corpus)
 
 # 7. start training
-model_path = "tmp/model2"
-trainer.train(model_path,
+trainer.train('resources/taggers/example-ner',
               learning_rate=0.1,
               mini_batch_size=8,
               max_epochs=150)
 
 # 8. plot training curves (optional)
 from flair.visual.training_curves import Plotter
-
 plotter = Plotter()
-plotter.plot_training_curves(f'{model_path}/loss.tsv')
-plotter.plot_weights(f'{model_path}/weights.txt')
+plotter.plot_training_curves('resources/taggers1/example-ner/loss.tsv')
+plotter.plot_weights('resources/taggers1/example-ner/weights.txt')

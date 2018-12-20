@@ -21,7 +21,7 @@ print(tag_dictionary.idx2item)
 
 # 4. initialize embeddings
 embedding_types: List[TokenEmbeddings] = [
-    CharacterEmbeddings(),
+    CharacterEmbeddings(path_to_char_dict="characters_merged.bin"),
     WordEmbeddings("tmp/glove.1.8G.bin")
 
 ]
