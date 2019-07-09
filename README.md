@@ -39,14 +39,14 @@ Nếu bạn có kinh nghiệm trong bài toán này, muốn tham gia vào nhóm 
 Tải project bằng cách sử dụng lệnh `git clone`
 
 ```
-$ git clone https://github.com/undertheseanlp/classification.git
+$ git clone https://github.com/undertheseanlp/ner.git
 ```
 
 Tạo môi trường mới và cài đặt các gói liên quan
 
 ```
 $ cd classification
-$ conda create -n classification python=3.6
+$ conda create -n ner python=3.6
 $ pip install -r requirements.txt
 ```
 
