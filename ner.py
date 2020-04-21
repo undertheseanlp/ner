@@ -1,5 +1,8 @@
-import argparse
+from models import CRFTrainer
 
-parser = argparse.ArgumentParser("ner.py")
+features = []
+corpus = []
 
-args = parser.parse_args()
+trainer = CRFTrainer(features, corpus)
+
+trainer.train('resources/taggers.bin')
