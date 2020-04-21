@@ -4,6 +4,7 @@ from flair.embeddings import TokenEmbeddings, WordEmbeddings, StackedEmbeddings,
 from typing import List
 import torch
 
+import flair
 # 1. get the corpus
 columns = {0: 'text', 1: 'ner'}
 corpus: TaggedCorpus = NLPTaskDataFetcher.fetch_column_corpus("data1", columns,
@@ -22,7 +23,7 @@ print(tag_dictionary.idx2item)
 # 4. initialize embeddings
 embedding_types: List[TokenEmbeddings] = [
     CharacterEmbeddings(path_to_char_dict="characters_merged.bin"),
-    WordEmbeddings("tmp/glove.1.8G.bin")
+    WordEmbeddings("tmp/glove.18G.300d.bin")
 
 ]
 
