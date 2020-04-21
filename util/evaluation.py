@@ -16,6 +16,7 @@ def load_input(input_file):
     content = u" ".join(content)
     return content
 
+
 def load_output(input_file):
     lines = read(input_file).strip().split("\n")
     if lines[0][0] == "#":
@@ -23,8 +24,10 @@ def load_output(input_file):
     text = "\n".join(lines)
     return text
 
+
 def extract_sentence(content):
     return "# " + " ".join([token.split("\t")[0] for token in content.split("\n")])
+
 
 if __name__ == '__main__':
     test_dir = join(dirname(__file__), "test_set")
