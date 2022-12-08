@@ -1,4 +1,4 @@
-certifi==2018.1.18
+certifi==2022.12.7
 click==6.7
 et-xmlfile==1.0.1
 future==0.16.0
